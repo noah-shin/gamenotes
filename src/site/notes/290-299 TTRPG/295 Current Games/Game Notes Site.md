@@ -16,10 +16,10 @@ Chaos & Cantrips (Vinnie's Tuesday game)
 [[1. Meet the Gang | Chaos and Cantrips Journal]] 
 
 Blackthorn Guild (Lauren's Tuesday game)
-[[_BT Journal | Blackthorn Journal]] 
+[[BT Journal | Blackthorn Journal]] 
 
 Forbidden Fey (Molly's Sunday game)
-[[_FF Journal | Forbidden Fey Journal]] 
+[[FF Journal | Forbidden Fey Journal]] 
 
 -
 
@@ -34,7 +34,7 @@ SW5e
 [[SW5e Calendar | Star Wars Journal]]
 
 DnDestiny 
-[[_DnDestiny Calendar | DnDestiny Journal]]
+[[DnDestiny Calendar | DnDestiny Journal]]
 
 Resny 
 [[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar|Resny Calendar]]
