@@ -3,5 +3,10 @@
 ---
 
 
+# Game Notes
+
+
+
+
 I'm trying something new!
 All my game notes will now be published here instead of writeas, just cause it'll be easier for me and hopefully easier to see which notes are for which game!
