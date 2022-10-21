@@ -24,7 +24,7 @@ Forbidden Fey (Molly's Sunday game)
 -
 
 Bubble Pop 
-[[BP2 Calendar | Bubble Pop S2]] & [[BP1 Calendar | Bubble Pop S1]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2|Bubble Pop S2]] & [[BP1 Calendar | Bubble Pop S1]]
 
 Weeping City 
 [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]]
