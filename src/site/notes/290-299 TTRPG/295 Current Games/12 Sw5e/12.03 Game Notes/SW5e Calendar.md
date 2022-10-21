@@ -3,6 +3,26 @@
 ---
 
 
+A game set in the Star Wars universe, run by Jake!
+Ki-On (Noah) is a jedi on the run, turned merc, and has found herself taking reluctant care of the twins El (Lauren) and Ellya (Jess), encountering a mando (Lou) along the way. Oops?
+
+## Contents
+
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#1. Everything is Fine|SW5e Calendar#1. Everything is Fine]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#2. What the Star Destroyer|SW5e Calendar#2. What the Star Destroyer]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#3. What do you see|SW5e Calendar#3. What do you see]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#4. Escape the ship|SW5e Calendar#4. Escape the ship]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#5. Breaking Connections|SW5e Calendar#5. Breaking Connections]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#6. To Talk About|SW5e Calendar#6. To Talk About]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#7. Easy Pickings|SW5e Calendar#7. Easy Pickings]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#8. What could (have)|SW5e Calendar#8. What could (have)]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#9. A new mission|SW5e Calendar#9. A new mission]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#10. Escaping the Planet|SW5e Calendar#10. Escaping the Planet]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#11. New Ship Who Dis|SW5e Calendar#11. New Ship Who Dis]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#12. Into the Mines|SW5e Calendar#12. Into the Mines]]
+
+## Read them all below
+
 #### 1. Everything is Fine
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
