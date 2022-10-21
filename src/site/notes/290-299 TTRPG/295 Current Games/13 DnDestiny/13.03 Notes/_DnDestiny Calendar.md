@@ -3,7 +3,14 @@
 ---
 
 
+A game set in the Destiny universe, run by Lou!
+Fireteam Unknown is made of the curious exo Idle-112 (Noah), stoic hunter Grey (Jake), excited hunter Sira (Lauren), chaotic warlock Vix (Justine) and steadfast titan Arthur (Kerry). They have gathered to save Earth, again. And hopefully get some loot along the way
+
+## Contents
+
 [[290-299 TTRPG/295 Current Games/13 DnDestiny/13.03 Notes/_DnDestiny Calendar#0.5 Escaping Gravity | Idle's 0.5]]
+
+## Read them all below
 
 #### 0.5 Escaping Gravity
 
