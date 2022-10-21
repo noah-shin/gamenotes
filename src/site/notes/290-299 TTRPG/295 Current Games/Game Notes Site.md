@@ -27,7 +27,7 @@ Bubble Pop
 [[BP2 Calendar | Bubble Pop S2]] & [[BP1 Calendar | Bubble Pop S1]]
 
 Weeping City 
-[[WC Calendar | Weeping City Journal]]
+[[WC Calendar]
 [[WC Wiki | Nilwelv Wiki]]
 
 SW5e 
