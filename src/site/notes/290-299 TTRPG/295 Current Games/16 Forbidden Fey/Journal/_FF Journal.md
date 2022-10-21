@@ -5,7 +5,7 @@
 
 # Journal
 
-#### 1 . You meet at a tavern
+#### [[1 . You meet at a tavern|1 . You meet at a tavern]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -57,7 +57,7 @@ OU 'I've been waiting for you, Keepers of the Jewels'
 </div></div>
 
 
-#### 2. Dove Dungeon Crawl
+#### [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/2. Dove Dungeon Crawl|2. Dove Dungeon Crawl]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
