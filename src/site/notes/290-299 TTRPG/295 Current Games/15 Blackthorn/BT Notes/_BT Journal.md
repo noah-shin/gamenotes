@@ -3,7 +3,15 @@
 ---
 
 
-# Journal
+Run on Tuesdays by Lauren!
+The party include the ex-knight Nikiti (Jess), the stargazing bat Rudy (Vinnie), the jock of a shapeshifter Silk (Noah), and the mysterious missing-memoried Jackie (Jake).
+
+## Contents
+1 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/_BT Journal#1 . Arriving at the Guild | Arriving at the Guild]]
+2 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/_BT Journal#2. Find the Manor | The Masquerade Manor]]
+3 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/_BT Journal#3. Sequined Shopping | Sequined Shopping]]
+
+## Read them all below
 
 #### [[1 . Arriving at the Guild|1 . Arriving at the Guild]]
 
