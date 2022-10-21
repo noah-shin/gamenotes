@@ -3,9 +3,16 @@
 ---
 
 
-# Journal
+Run on Sundays by Molly!
+The party include siblings Orrin and Indie, and the strange pair Cassian and Sorrel.
 
-#### [[1 . You meet at a tavern|1 . You meet at a tavern]]
+## Contents
+1 - [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/_FF Journal#1 . You meet at a tavern | You meet in a Tavern]]
+2 - [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/_FF Journal#2. Dove Dungeon Crawl | Dove and Dagger Down a Well]]
+
+## Read them all below
+
+#### 1 . You meet at a tavern
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -57,7 +64,7 @@ OU 'I've been waiting for you, Keepers of the Jewels'
 </div></div>
 
 
-#### [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/2. Dove Dungeon Crawl|2. Dove Dungeon Crawl]]
+#### 2. Dove Dungeon Crawl
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
