@@ -3,15 +3,27 @@
 ---
 
 
-# Journal
 
-| IRL      | Entry                          |
-| -------- | ------------------------------ |
-| 09 04 22 | [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/1. Mission Assigned|1. Mission Assigned]]        |
-| 14 05 22 | [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/2. Bubble Tea Time|2. Bubble Tea Time]]         |
-| ?        | ?                              |
-| 04 06 22 | [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/4. Fight Club|4. Fight Club]]              |
-| 25 06 22 | [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/6. Investigation Time|6. Investigation Time]] |
+LIL DESCRIPTION
+
+## Contents
+
+1 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#1. Mission Assigned|BP2 Calendar#1. Mission Assigned]]
+2 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#2. Bubble Tea Time|BP2 Calendar#2. Bubble Tea Time]]
+3 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#3. ?|BP2 Calendar#3. ?]]
+4 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#4. Fight Club|BP2 Calendar#4. Fight Club]]
+5 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#5. ?|BP2 Calendar#5. ?]]
+6 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#6. Investigation Time|BP2 Calendar#6. Investigation Time]]
+7 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#7. Competition Round 2|BP2 Calendar#7. Competition Round 2]]
+8 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#8. ?|BP2 Calendar#8. ?]]
+9 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#9. Warehouse Worries|BP2 Calendar#9. Warehouse Worries]]
+10 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#10. A Hole in the Earth|BP2 Calendar#10. A Hole in the Earth]]
+11 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#11. Into the Abyss|BP2 Calendar#11. Into the Abyss]]
+12 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#12. Reach the surface|BP2 Calendar#12. Reach the surface]]
+13 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/BP2 Calendar#13. Where is everyone?|BP2 Calendar#13. Where is everyone?]]
+
+
+## Read them all below
 
 #### 1. Mission Assigned
 
