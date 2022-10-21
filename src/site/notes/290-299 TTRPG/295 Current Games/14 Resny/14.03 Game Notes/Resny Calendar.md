@@ -3,7 +3,18 @@
 ---
 
 
-## [[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/01 Where the Hell Are We|01 Where the Hell Are We]]
+An every-so-often oneshot-esque thing set in the Dread Domains, run by Jess!
+
+## Contents
+
+[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#01 Where the Hell Are We | Where the Hell are we?]]
+[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#2 What's in a Soul | What's in a Soul?]]
+[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#3 Split the Party | Split the Party, I dare you]]
+[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#4 Finale | An Epic Finale]]
+
+## Read them all below
+
+#### 01 Where the Hell Are We
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -34,7 +45,7 @@ Barrels at the shop full of porcelain dolls (new) Doll shop – dust, nasty, som
 </div></div>
 
 
-## [[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/2 What's in a Soul|2 What's in a Soul]]
+#### 2 What's in a Soul
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -55,7 +66,7 @@ can you understand me – where am I – barrage of overlappting voices child sp
 </div></div>
 
 
-## [[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/3 Split the Party|3 Split the Party]]
+#### 3 Split the Party
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -83,7 +94,7 @@ Workshop – strings are being pulled from the other sides & coming through the 
 </div></div>
 
 
-## [[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/4 Finale|4 Finale]]
+#### 4 Finale
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
