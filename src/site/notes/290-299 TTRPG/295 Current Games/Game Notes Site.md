@@ -16,7 +16,7 @@ Chaos & Cantrips (Vinnie's Tuesday game)
 [[290-299 TTRPG/294 Finished Games/16 Chaos and Cantrips/1. Meet the Gang|1. Meet the Gang]] 
 
 Blackthorn Guild (Lauren's Tuesday game)
-[[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/BT Journal|BT Journal]] 
+[[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal|Blackthorn Journal]] 
 
 Forbidden Fey (Molly's Sunday game)
 [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal|Forbidden Fey Journal]] 
@@ -28,13 +28,13 @@ Bubble Pop
 
 Weeping City 
 [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]]
-[[WC Wiki | Nilwelv Wiki]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/WC Wiki|WC Wiki]]
 
 SW5e 
-[[SW5e Calendar | Star Wars Journal]]
+[[290-299 TTRPG/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar|SW5e Calendar]]
 
 DnDestiny 
-[[DnDestiny Calendar | DnDestiny Journal]]
+[[290-299 TTRPG/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal|DnDestiny Journal]]
 
 Resny 
 [[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar|Resny Calendar]]
