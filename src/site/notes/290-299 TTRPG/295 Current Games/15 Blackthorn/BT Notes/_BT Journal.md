@@ -5,7 +5,7 @@
 
 # Journal
 
-#### 1 . Arriving at the Guild
+#### [[1 . Arriving at the Guild|1 . Arriving at the Guild]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -48,7 +48,7 @@ Jackie has a _book_
 
 
 
-#### 2. Find the Manor
+#### [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/2. Find the Manor|2. Find the Manor]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -123,7 +123,7 @@ head to Abbas armoury - from the [[290-299 TTRPG/295 Current Games/15 Blackthorn
 </div></div>
 
 
-#### 3. Sequined Shopping
+#### [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping|3. Sequined Shopping]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
