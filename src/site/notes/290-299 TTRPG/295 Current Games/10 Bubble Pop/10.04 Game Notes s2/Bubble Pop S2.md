@@ -240,7 +240,17 @@ Party sacrifices levels to try and resurrect folks :!?!?!?!?!?!?!?!
 
 
 
-#### 5. ?
+#### 5. The One where Yobi Really Died
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+where tf are any of my notes
+
+</div></div>
 
 
 #### 6. Investigation Time
@@ -412,23 +422,402 @@ need to be reported to the 'supreme watcher'
 
 16/7
 
+People across the city did also fight in their teams from the poison
 
+Head to fight club to unblock our weapons
+
+Raymond Key got branded 1 1/2 years ago and left to another bubble city
+	only came into the city a month or two before leaving
+	shortly after Wolffall fell (the second one to fall)
+	he was branded A for attacker
+	ansel knows them from the circus
+	he was a college of lore bard
+	with an older guy (looks like santa from rise of the guardians) - luke?
+	day of beheading was before he turned up here
+
+peacebonding gives a signal when broken
+usb in speaker backpack to counteract
+
+next day
+tournament quiz (big fat quiz style)
+
+rand introduces it
+our second wind
 
 </div></div>
 
 
 
 #### 10. A Hole in the Earth
-![[10. A Hole in the Earth|10. A Hole in the Earth]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+30/8
+
+In our stalking era
+sneak into achyls' house
+	penny distracts her dad
+	head to achy's room to plan
+
+ansel heads out via front door
+	knocks on rand's office
+	lmao randy about mr rand
+
+head to main street
+a&a, nyx & sky & pen
+
+achy's mom dissapeared 3 / 4 months ago
+	big churchgoer
+	'i guess she's been kidnapped
+	she had a cold and they cured her
+	then she thought they would save everything
+
+nyx and penny flirting
+
+paladins approaching
+go abnormally still
+ground underneath shimmers
+all three drop through the ground
+time slows (chronomancy based)
+the ground is real but the paladins are phasing through
+moment of panic for all pallys - falling fast but can't speak or do anything
+ground shimmering in golden sigil
+- shape ansel drew in blood
+- conrad's patron
+they fall three and glowing has stopped
+
+achy throws a ball bearing
+ground shimmers again, but no slow
+ball bearing bounces down steps
+we feel like we're being invited
+
+penny texts conrad
+_its not him_
+fail wis save
+'fuck you'
+penny hit by image of parents
+- but older, but a 10 year old boy, playing together
+- heads 'they used this power to start afresh'
+- feels need to unearth the power to aid it
+- conrad knows what he's doing, right?
+- he must be saving it to tell me at the right moment
+- - now, to join his crusade
+stealing power was just the beginning
+this is the endgame
+- take down the church
+- stop people being pawns of the church
+
+
+
+
+</div></div>
+
 
 
 #### 11. Into the Abyss
-![[11. Into the Abyss|11. Into the Abyss]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+27/8
+
+we look at the stairs
+nyx 5 insight check
+spend _hours_ walking down the stairs
+nothing to the sides, growing walls, encased
+
+reach a doorway
+above are braziers, baphomet's sigil in the walls
+head a grinding, the door behind us is no longer there
+muffled noises in the distance
+
+we're in the ABYSS
+doorways to abyss formed by the Collapse
+punishment from the gods to the world
+
+turn corner to see stell bull and minotaur
+a&a start to turn to stone
+p 'why have you put obstacles in our way?'
+b 'my helpers must be strong. i do not accept weakness. i will weed out the unworthy'
+
+ansel nat 1 wis save
+transported to the hall of a thousand doors
+
+penny realised bapho has thralled conrad recently
+bull killed
+it shimmers,  turns to stone, then dust
+
+ansel - in the hallway
+automatically walks to odin's room
+o : you have an influence in the brain and i don't like my things being messed with
+o : the way out requires a door, but doorways are tricky in the abyss
+o : me saving you would cause a war, and you're not worht going to war over
+a : let me milk this opportunity
+
+nyx and sky recognise the flowing form of lei!
+lei : i leave yall for three weeks! 
+l : where's yobi?
+l : the gov are buffoons, we're still on the run
+l : did you not think that the soul draining thing was trying to leave the abyss?
+
+achyls kills the mino
+
+lei : we're being hunted. they may be aware you're all in darkpit
+l : we have info. we need to meet, we'll be there soon
+
+ansel sees overview of maze through the fake eye
+head to a north room (still compelled)
+hear sobbing, feel fear
+
+walk in, a&a&p fail wis save
+ansel sees amille and laura at home
+' we didn't mean to scare you away. when are you coming home? '
+sees the undercity get attacked
+sees self finding amille and laura, dead
+
+penny sees bubble city being created
+watching parents set up a device from a control tower
+hears a noise, then everything goes wrong
+this time, its all fine, i have a younger brother
+tinkering in my room, head a voice behind me, brother touches the wrong wire, everything goes black
+this is what you wish for?
+now conrad standing infront, eyes black
+soulless laughter, he's enjoyed toying with me
+raise gun to take him out, can't shoot him
+irl raising gun to nothing (darkness is coalescing into a form infront of me)
+
+achy sees perfect life, mother never got ill, so stayed with her
+found a perfect team, became a government soldier
+loses the entire team, because you're stealthed, and this is what you're good at
+but not good enough
+and you fall
+come back, this team is _good_
+but not sure if helping or hindering, but is this team working for the right goal, right people?
+sees dad writing research, things that oppose Helm, and he's laughing
+
+shadowy figure, no features visible, hear laughter
+he's enjoying the emotional turmoil
+he's gone, we pulled out of the trances
+
+corner of room where shadows linger
+ansel tosses a light stone
+it flares and is swallowed by the dark
+see writings of a madman across the walls
+wall is undamaged by a bullet
+achy touches it
+ansel hears chuckling from the darkness
+	pulls achy away
+as we leave, achy hears a whispered 'i want a home'
+
+next room, hear praying
+ac stalths up, sees the three pallys who fell
+room has number of corpses wearing the same armour
+achy fakes being a dead pally
+x2 pallys 'the watcher must be looking out for us as he sent you. our brothers are in between life and death'
+one yawns, then falls fully unconscious
+
+the watcher never changes, he's protected
+pray to help and the watcher contacts us
+
+we all 'pray' together
+only pen and achy actually praying
+nyx and sky mouthing it
+ansel not even bothering
+penny and achy fail wis save, tempted by our own shadow - convinced to head left
+
+reach left room, achy reads Abyssal runes on it
+a ritual room, sealed by chains
+ach attacks the chain, then just pulls it off - burns their hand
+lock revealed behind the chains
+achy picks lock, door swings open to a deafened room
+achy steps in, sits cross legged on the dias, candles start flickering
+
+black shadowy figures reaching out from the walls, some fully stepping out
+full figure behind ansel, a hand grapss his shoulder, then phases into him
+ansel feels this cold
+shadows urge penny to leave
+
+make our way to the central room
+chains of mithril unbar the way
+room w/ cobblestones, gold and mithril statues
+seven portals made of black and red vortexes = gradiant left to right
+one in center on a raised dias
+
+urge to through one of the gold statues
+abyssal etchings around the doors
+labelled 201-400, etc
+gold statue labeled 'upper plane'
+also reads 'savrifice knowledge or secret'
+- means reveal a secret or give a memory (memory is random)
+
+achy chooses knowledge rip
+portal shows achy in an unfamiliar room - dep's office
+searching through computer, strange files on screen
+abyssal and deep speech
+name unseen as she scrolls too fast
+a run by Irune Crosshand - HM?
+
+nyx gives secret - i killed my grandma the night the bubble fell
+skylar secret - my adopted parents were responsible for the massacre in middlesborough
+penny - i engineering my own coma
+ansel - i need to kill someone for odin. I didn't want my loved ones to die so I'll someone else's
+elijah - it'll be nice to see the sunshine for the first time in a millenia
+
+
+
+
+</div></div>
+
 
 
 #### 12. Reach the surface
-![[12. Reach the surface|12. Reach the surface]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+8/10
+
+Arrive at the edge of town - by entrance to the underground
+before us are four shadowy figures and one more menacing figure
+' thanks for the ride, i'll see what we can get up to. 25 hours and we should be done'
+
+TIMER STARTS
+
+achy's mutation - sees timer of our deaths above our heads
+all the same rn
+
+head home
+conrad manically laughing next to bella
+talons fully drained and unconscious
+both have symbol of baphomet
+been 'not them' for at least a year
+- baphomet's generals
+- ria and ven
+' we want energy to power a ritual that will release baphomet and destroy the world'
+
+head to DP Rand's
+he's not home
+office a tipe, computer _expertly_ wiped
+trace elements of divination magic in the room - cast from the desk recently, very strong
+(pallys also use divininationg magice and magic use can be shielded)
+
+rand doesn't pick up
+benjy - dealing w/ a situation, won't be much help rn
+'im not in darkpit, something happened with our friends, i'm going to help
+
+head to the school
+some rooms unlocked
+can't hack the office comp
+get password, refind info on headmaster
+meeting schedule w/ W, then he becomes less present in the school
+there are a couple of appointments w/ W, but W never met w/ Rand
+
+Ansel gets 'giddyness' from the spooky gym
+shadows emerge from the equipment
+_ansels str down by 2_
+win - shadow ran away
+locking mechanism is broken, door frame missing the bold
+the drag marks go _into_ the gym
+
+head to church
+bash on the door, meet a dude
+climb the wall, calm emotions on dude
+head into church
+achy sneaks into a bedroom
+- person on the bed, doesn't react to a slap
+- HES DEAD
+
+penny shoots the air, nothing happens
+head down corridor, shoot again
+x2 pallys emerge, start heading towards us
+one falls forward, two shadow blades in their back
+next also stabbed twice, doesn't die
+
+shadowy figures talk to us
+achy and pen not to be harmed?
+
+</div></div>
+
 
 
 #### 13. Where is everyone?
-![[13. Where is everyone?|13. Where is everyone?]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+22/10
+
+penny gives potion of healing to a downed ansel
+
+head to investigate offices - no signs to Watcher or to Baphomet
+achy notices celestial runes etched into the floor
+penny reads - magic of protection, hiding, locks, alarms, elerts - means a trap
+in a 5x10 outline in corner of room
+
+head to individual prep rooms
+very regimental, same stuff in each room
+minor personalisation, intials hidden on the walls or desk
+names written into front pages of notebooks and prayer books
+list of names!
+names match the initials
+
+one notebook - Jasper's - is slightly different
+he believed in what he was doing, but not in Helm
+used the notebook more like a diary than report
+has more questions
+' we haven't heard from the Watcher in a while'
+'our orders have changed but they're supposed to still be from the Watcher?'
+questions are not new and go back roughly three years
+- things changes since then
+
+ansel spils the tea about the headmaster, the bubble, and decapitation
+ansel remembers something Taylor said about how the previous bubbles fell - should not have fallen so easily
+there is a way to unlink the bubble and headteacher
+
+ansel tries to phone taylor - goes through
+T : we were unlinking the headteachers before killing them - but the bubbles fell anyway
+T : we put the power into a generator into a runic circle our cleric found a diety to protect
+T : ritual takes 6 hours
+T : only ppl who could do it are taylor, prescott, the cleric, and cadis (who's now dead)
+
+cadis is penny's dad
+
+Taylor will send some cordinates to penny -  someone interesting is waiting and looking for them
+is the cleric - on the underground's side and would never betray us
+also helped heal ansel
+it's pennys mom
+underground found her, presumed dead, in the rubble of the explosion
+
+conrad and bella's shadows are Soulstinger Demons
+penny needs to get into their thoughts to free them
+
+achy's dad moved to darkpit 3 1/2 years ago
+came from Angelos
+cause not much for the dad before - he was the warlock form head and RS teacher
+dep head position fell into his lap
+
+look through all rooms for achy's mom
+all dead but Caleb - tall ginger green eyes freckles, terrified in a corner
+no mom
+get a bunch of healing potions from the stockroom
+
+head to fight club to sleep
+
+morning
+achy's dad DECLINES THE CALL
+lei and team arrive!
+
+</div></div>
