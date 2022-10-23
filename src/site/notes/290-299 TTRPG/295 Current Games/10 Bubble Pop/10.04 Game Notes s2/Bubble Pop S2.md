@@ -163,7 +163,7 @@ Penny enters their home with an elaborate fake ritual (Ansel imitates)
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/2. Bubble Tea Time|2. Bubble Tea Time]] ->
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/2. Bubble Tea Time|2. Bubble Tea Time]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/5. The One where Yobi Really Died|5. The One where Yobi Really Died]]
 
 BP - 4.6 - Fight Club
 
@@ -248,6 +248,8 @@ Party sacrifices levels to try and resurrect folks :!?!?!?!?!?!?!?!
 
 
 
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/4. Fight Club|4. Fight Club]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/6. Investigation Time|6. Investigation Time]]
+
 where tf are any of my notes
 
 </div></div>
@@ -260,6 +262,8 @@ where tf are any of my notes
 
 
 
+
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/5. The One where Yobi Really Died|5. The One where Yobi Really Died]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/7. Competition Round Two|7. Competition Round Two]]
 
 25/06
 
@@ -308,6 +312,8 @@ Skylar – training telepathy and physical str — new and improved feat
 
 
 
+
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/6. Investigation Time|6. Investigation Time]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/8. Missed session|8. Missed session]]
 
 2/7
 
@@ -382,6 +388,8 @@ conrad looks Bad, bella held back
 
 
 
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/7. Competition Round Two|7. Competition Round Two]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/9. Warehouse Worries|9. Warehouse Worries]]
+
 Missed the beginning of the session :
 
 Bella and Conrad are fine?
@@ -420,6 +428,8 @@ need to be reported to the 'supreme watcher'
 
 
 
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/8. Missed session|8. Missed session]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/10. A Hole in the Earth|10. A Hole in the Earth]]
+
 16/7
 
 People across the city did also fight in their teams from the poison
@@ -455,6 +465,8 @@ our second wind
 
 
 
+
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/9. Warehouse Worries|9. Warehouse Worries]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/11. Into the Abyss|11. Into the Abyss]]
 
 30/8
 
@@ -525,6 +537,8 @@ this is the endgame
 
 
 
+
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/10. A Hole in the Earth|10. A Hole in the Earth]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/12. Reach the surface|12. Reach the surface]]
 
 27/8
 
@@ -685,6 +699,8 @@ elijah - it'll be nice to see the sunshine for the first time in a millenia
 
 
 
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/11. Into the Abyss|11. Into the Abyss]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/13. Where is everyone|13. Where is everyone]]
+
 8/10
 
 Arrive at the edge of town - by entrance to the underground
@@ -757,6 +773,8 @@ achy and pen not to be harmed?
 
 
 
+
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/12. Reach the surface|12. Reach the surface]] -> 
 
 22/10
 
