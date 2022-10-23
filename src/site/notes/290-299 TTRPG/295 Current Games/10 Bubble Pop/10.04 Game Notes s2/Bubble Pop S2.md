@@ -292,14 +292,130 @@ Skylar – training telepathy and physical str — new and improved feat
 
 
 #### 7. Competition Round 2
-![[7. Competition Round Two|7. Competition Round Two]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+2/7
+
+Our names get announced
+	head down - achlys nat 1, ansel nat 2
+
+appear in a maze - riddle on the wall
+	light the elemntal brazier
+	head to an invisible bridge
+	then through the riddle
+	answer = anvil
+	head down a slide
+
+sandy and slightly wet
+	answer = footprints!
+	we fall upside down
+
+in a crystal cave
+	three doors
+	i. two lion heads
+	ii. reflective shard
+	iii. script
+	answer = mirror
+see the gym in the mirror
+walk through
+
+people cheering
+behind us is the mirror, broken
+we come third
+
+---
+
+we all start hallucinating
+	nyx sees all these people in suits and sunglasses
+	unnoticed by most but watching
+
+make it to fight club
+
+nyx starts seeing people
+	their bloody gran, the team, the kids
+	the tentacled kid looks over - 'you told me its okay to be me. you did this.'
+
+penny starts loosing their sight intermittently
+- flashes of bright light then darkness, then blurry shapes
+
+ansel passes out 
+- shivering and sweating
+
+achy attacks us 
+nyx goes hulk (in defense of penny)
+ansel uses manipulate emotion
+	achy now good, nyx calms
+
+recently food's been tasking wierd / bad
+- one company supplies it all
+
+katie texts pen
+head to penny's house
+bella and conrad are fighting
+head shouting and screaming
+conrad looks Bad, bella held back
+
+</div></div>
+
 
 
 #### 8. ?
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+Missed the beginning of the session :
+
+Bella and Conrad are fine?
+knocked her unconscious
+
+rabies man?
+idris and nyx talked gender
+- idris also involved in nyx's experiments?
+
+Arrived :
+
+real bad dreams
+
+penny has a tracker in their arm?
+
+went to food warehouse
+	food green and glowing
+	fight some barbarians
+	saved by the pallys
+
+find issues in the food supply
+	the filter was fucked with and food grown outside the bubble
+
+curriculum of abyss high has changed over the past year
+need to be reported to the 'supreme watcher'
+
+</div></div>
+
+
 
 #### 9. Warehouse Worries
-![[9. Warehouse Worries|9. Warehouse Worries]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+16/7
+
+
+
+</div></div>
+
 
 
 #### 10. A Hole in the Earth
