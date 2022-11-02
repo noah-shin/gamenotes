@@ -25,7 +25,7 @@ To gain their ultimate desires, and to see House La'val fall.
 
 ## Read them all below
 
-#### 1. Who are you?
+#### 1. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.11.21 Who are you|21.11.21 Who are you]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -170,7 +170,7 @@ Eos offers their name – 'and mine is Eosphorous.'
 </div></div>
 
 
-#### 2. The Meeting
+#### 2. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.03 The Meeting|21.12.03 The Meeting]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -299,7 +299,7 @@ Inn by main gate in Ekel
 </div></div>
  
 
-#### 3. What do we do with the bodies?
+#### 3. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.17 What do we do with the bodies|21.12.17 What do we do with the bodies]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -404,7 +404,7 @@ The table fashioned out of a glossy, green mushroom between the beds glows black
 </div></div>
 
 
-#### 4. Talking for hours
+#### 4. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.01.10 Talking for hours|22.01.10 Talking for hours]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -525,7 +525,7 @@ When am I getting the further Arnet details?
 </div></div>
  
 
-#### 5. Mommy Issues
+#### 5. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.18 Mommy Issues|22.02.18 Mommy Issues]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -640,7 +640,7 @@ Eos waits outside it, sends small spider into the building.
 </div></div>
   
 
-#### 6. What a Reunion
+#### 6. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.22 What a Reunion|22.02.22 What a Reunion]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -758,7 +758,7 @@ We agree to split up, research team and other
 </div></div>
  
 
-#### 7. Some Lore
+#### 7.[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.03.27 Some Lore|22.03.27 Some Lore]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -790,7 +790,7 @@ Smiling woman
 </div></div>
   
 
-#### 8. All these names
+#### 8. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.06 All these names|22.04.06 All these names]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -879,7 +879,7 @@ both sas and garlick nat 1 stealth to get away
 </div></div>
    
 
-#### 9. A history of dragons
+#### 9. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.24 A history of dragons|22.04.24 A history of dragons]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -924,7 +924,7 @@ sas steps outside in a hood, veeran aurvyath (2nd child) is there, says hi
 </div></div>
 
 
-#### 10. Apocathery Heist
+#### 10. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.06.16 Apocathery Heist|22.06.16 Apocathery Heist]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -1000,7 +1000,7 @@ sas' familiar distracts the guards, we all sneak out
 </div></div>
 
 
-#### 11. Making Connections
+#### 11. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.07.05 Making Connections|22.07.05 Making Connections]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -1167,7 +1167,7 @@ S: there was someone in the DMH w/ unusual rel with High Weaver. more depth to i
 </div></div>
 
 
-#### 12. Silk House Ambush
+#### 12. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush|22.08.25 Silk House Ambush]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -1276,7 +1276,7 @@ eos casts enthrall, tells shadows to take atton's body
 #### 13. Nothing I didn't know
 [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Nothing I didn't know|22.10.21 Nothing I didn't know]] - 1x1
 
-#### 14. Secret identities galore
+#### 14. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Secret identities galore|22.10.21 Secret identities galore]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
