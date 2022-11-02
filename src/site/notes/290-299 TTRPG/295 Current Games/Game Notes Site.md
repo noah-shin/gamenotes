@@ -21,10 +21,10 @@ Blackthorn Guild (Lauren's Tuesday game)
 Forbidden Fey (Molly's Sunday game)
 [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal|Forbidden Fey Journal]] 
 
--
-
 Bubble Pop 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2|Bubble Pop S2]] & [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1|Bubble Pop S1]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2|Bubble Pop S2]] & [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1|Bubble Pop S1]] (Lauren's Saturday game)
+
+-
 
 Weeping City 
 [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]]
@@ -39,4 +39,6 @@ DnDestiny
 Resny 
 [[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar|Resny Calendar]]
 
+OneShots
+[[OneShot List|OneShot List]]
 
