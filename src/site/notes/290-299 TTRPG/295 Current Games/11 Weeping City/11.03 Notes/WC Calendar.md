@@ -20,12 +20,16 @@ To gain their ultimate desires, and to see House La'val fall.
 10 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#10. Apocathery Heist|WC Calendar#10. Apocathery Heist]]
 11 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#11. Making Connections|WC Calendar#11. Making Connections]]
 12 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#12. Silk House Ambush|WC Calendar#12. Silk House Ambush]]
+13 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#13. Nothing I didn't know|WC Calendar#13. Nothing I didn't know]]
+14 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#14. Secret identities galore|WC Calendar#14. Secret identities galore]]
 
 ## Read them all below
 
 #### 1. Who are you?
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 
@@ -172,6 +176,8 @@ Eos offers their name – 'and mine is Eosphorous.'
 
 
 
+
+
 Sasrene - Roughly 5 hours have passed in the real world
 She's in Ekel
 – mushroom farms on the ceiling
@@ -299,6 +305,8 @@ Inn by main gate in Ekel
 
 
 
+
+
 Garlick wakes, axes and self bloody 
 – wild magic sorc :eyes: 
 – sees group near
@@ -399,6 +407,8 @@ The table fashioned out of a glossy, green mushroom between the beds glows black
 #### 4. Talking for hours
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 
@@ -521,6 +531,8 @@ When am I getting the further Arnet details?
 
 
 
+
+
 Sas
 Heads to Silk House
 – Mostly same folk, not the Smile Mask or Keto
@@ -631,6 +643,8 @@ Eos waits outside it, sends small spider into the building.
 #### 6. What a Reunion
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 
@@ -750,6 +764,8 @@ We agree to split up, research team and other
 
 
 
+
+
 Fabia's boss - drow with blonde hair
 - Uylesses (?)
 
@@ -777,6 +793,8 @@ Smiling woman
 #### 8. All these names
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 
@@ -867,6 +885,8 @@ both sas and garlick nat 1 stealth to get away
 
 
 
+
+
 Library - silk tapestry preserved in glass of the Hallowing
 - some parts are newer - a ground patch covering something
 - ending are elves descending on the city
@@ -899,7 +919,7 @@ x3 smoky dragons following Sas
 - kato 'see you around uyulus'
 sas steps outside in a hood, veeran aurvyath (2nd child) is there, says hi 
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.06 All these names|22.04.06 All these names]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> 
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.06 All these names|22.04.06 All these names]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.06.16 Apocathery Heist|22.06.16 Apocathery Heist]]
 
 </div></div>
 
@@ -907,6 +927,8 @@ sas steps outside in a hood, veeran aurvyath (2nd child) is there, says hi
 #### 10. Apocathery Heist
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 
@@ -973,11 +995,384 @@ martha takes off the mask and goes for a bite – (mask wasn't magical, darkvisi
 
 sas' familiar distracts the guards, we all sneak out
 
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.24 A history of dragons|22.04.24 A history of dragons]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.07.05 Making Connections|22.07.05 Making Connections]]
+
 </div></div>
 
 
 #### 11. Making Connections
-![[22.07.05 Making Connections|22.07.05 Making Connections]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+### Fabia
+Fabia is in the kitchen w/ the three talking about the killing the traitor Aurvath (Verrick) in Desor in order to resurrect a dragon
+- human, purple dragonborn, green dragonborn
+She ties them up
+Tells Saba about their plan
+- she knows about Auvryath
+
+### Eos
+Seeks out Arnet
+he doesn't look great - smells like blood and rot, worse than usual
+' overdue treatement by Ulvyr. He's been busy. '
+Atton's body was Not returned to Dog'hym
+Ulvyr's been teaching Ilvesz in the lab
+
+He recognises the name of the two fae
+The maiden is much less fair or benevolent, takes more freely
+The Queen has presided over the Above for as long as I can remember
+
+Eos minor illusions Martha
+He looks surprised, recognising - 'I'd thought she'd be dead by now'
+'a topic im forbidden to discuss. but what was done to you was also done to others. none were visited or chosen as you were.'
+'she poses a major threat to you, to the foundation Doghym has built. we will have to find and deal with her.'
+' we cannot afford to have that selection process exposes'
+
+he knows the name [[Benjamin|Benjamin]]
+' she is going to be severly dissapointed. for all intents and purposes, benjamin drake is dead'
+'doctor drake was a dangerous man. he is dead enough that he cannot continue his work'
+' he was a menace to the city and not a part of Doghym'
+
+'If I don't see her brought here in a week, I'll retrieve her myself.'
+
+Eos gets back to work for the week
+
+Notices that Iymes has taken a meeting without me - very unusual
+- realises this isn't the first time
+- breaks through a hole in my memory
+- it happens once every three years, nobody knows anything
+
+hears light footsteps leaving the throne room
+sees familiar white glowing
+wispy, tall, pale, alieny, barely touching the floor
+surprised and vaguely amused i can see them
+'i'm a long friend of Doghyms'
+'you're bound to the Ice Queen. My Queen will not be pleased with Doghym's treachery'
+'They call me Fray'
+
+Phones Garlick, then goes to visit
+he's v nervous, but talks about the dragon shard
+he's been visiting the fountain daily
+
+### Garlick
+
+visits fountain
+visits Bet - set up traps around her home, which she finds annoying but endearing
+
+she's in the small kobold community
+air feels tense
+dark dried bloody pool - aftermath of a house shalvly raid, Garlick narrowly escaped before
+
+most of auvryath folks are ready for a rebellion, to reinstate the house
+it's becoming a bit of a figurehead
+gives a FANTASTIC speech
+
+spends the week training up its little army
+passes unnoticed to the fountain (seaweed cloak)
+almost swear they feel scales when they run its hand through the water
+confused, wounded
+
+one day less confused. the fountain gives a purple scale
+hears familiar distant boombing voice
+'your loyalty nor your sacrifice to aurvyath have gone unnoticed. bring this scale to Vieren. they need it to bring me back'
+
+notices a lot of commotion around the apocathery at the beginning of the week
+(eos visited at the beginning of the week)
+notices a body take out - later in the week (day or two after)
+MM of Arcice visits and stays for a Long while
+
+gives scale to Vieren, though it is a struggle
+V is visibly present in the Black Web Tavern
+
+
+### Martha
+
+looking for leads on Benj
+nat 20!
+was reading 'Sanguine Malificium'
+notes from MM and HPs of House Alviereen
+alvireen are super hard to get in contact with
+the HP is often out with the Dead Carts
+
+finds the cart - with Eemos and Eya
+strolls up and saves, doghym guards hold her back with end of glaive
+'dr martha shaw'
+'as a good doctor, all my work is for free'
+
+when eya first saw martha, there was a flicker of recognition in the eyes, but now looking straight ahead
+martha tries a charm person on Emos
+emos gestures for the cart to stop
+gets down, looks at Martha a lil closer - 'what was your name again?'
+emos takes her wrist gentle, takes a thin silver needle
+'a simple identification spell. i only need a drop of your bloo'
+martha lets it happen
+emos sucks Martha's finger clean (AN : uhuh)
+eyes winden, grasp tighten - desperate
+' are you really her? my mother will be thrilled to finally meet you. your works are inspired'
+'i can give you an audience with the MM in 7 cycles. they will be expecting you'
+
+martha pulls the mask off, no visible reaction
+cart pulls away
+martha spots back of tall skinny guy with brown hair
+hair longer than remembered
+she runs after him, follows him into his house
+he turns - failed wis save - this is Benj
+martha hugs him, he does not hug back - confused, uncomfortable
+blue tiefling w/ baby walks out a room
+M: benjamin? don't you recognise me?
+?: are you okay?
+
+Martha just Leaves
+
+
+### Sasrene
+
+grabs a new disguise kit from Blaggard
+cannot see anyone following her on way there
+gets all black wig and orders the mask
+
+heads to Aunelis
+on way, hears a tiny 'Hey you!' from foot level
+sees tiny man precariously sat on some fros-bitten red flowers that have sprung from nowhere
+'its good to see you again! i was inside you fairly recently. not like that, but, i got a taste'
+was the one controlling sas' body
+'did what i was told, got you where we needed you to go'
+'i want to get in that body again, just for half an hour'
+'on behalf of our beloved high queen (sarcastic), i was to help you meet your friends. i did get sidetracked. your life is _fascinating_. there is so much you don't know'
+'ive got a lil more feeding to do'
+'i had a nice lil goss with the High Weaver.'
+'i feed on tragedy and heartbreak. love a good story of lost love. i spoke with this woman for 15 min and it was almost enough. i promise i won't push as many buttons as last time'
+'if youre away from ur body for a day plus, you would die'
+'do you know what a solcitice is? you can call me Night of the Winter Solstice'
+'us knights of this order, we're sort of like a hive mind, though i've never met them.'
+'i'm not really supposed to be here'
+'currently under the order of the High Queen, though tides are shifting'
+reaches into back of his mouth and pulls out a molar
+'i need one of yours. as a sign of our deal'
+then someone's tooth is back in her mouth, and he melts into the ground
+the new tooth feels col
+
+heads to Shelith tent to meet eos
+sas shared a bit about the meeting with the fae
+eos shares the fact theyre bringing martha in - sas won't stop them
+S: there was someone in the DMH w/ unusual rel with High Weaver. more depth to it. she was a weaver but during the Aurv usurping, both came back shaken and changed. the partner left with no trace
+
+
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.06.16 Apocathery Heist|22.06.16 Apocathery Heist]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush|22.08.25 Silk House Ambush]]
+
+</div></div>
+
 
 #### 12. Silk House Ambush
-![[22.08.25 Silk House Ambush|22.08.25 Silk House Ambush]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+### sas & eos 
+
+eos as rinar
+someone opens tent door above
+sas' familiar goes up, invis, sees Ielder (spiderling)
+sas sneaks up, closes door, coughs
+I: your friend (fabia) ... something is happening at the SIlk House. I've already said too much
+
+sas hits up everyone, martha doesn't respond
+eos casts Detect Magic - we are shrouded in divination magic
+
+[AN: why is iel telling us? how does he know?]
+
+### fabia
+
+heads to silk house for collectors meeting
+plenty of ppl around, lots of glowing items and weapons
+lots of white eye masks, kato is there - looks a lil nice
+ulyess to his left, blood hair tiny glasses looking defeated
+ona staring into nothing, wheelchair, heavily bandaged
+
+K: collectors! you have been called to witness
+U: The collectors would like to formally welcome the Servants as a Thieves guidl, with an immediate partners
+
+collectors start murmuring
+
+k: from now on, we will be working as equals, one guild
+pulls out a gold coin, starts doing tricks as collectors grow more outraged
+
+u: please. his word is final
+k: anyone who wants out, the door is open
+two collectors leave, both decapitated
+
+k: anyone else? no? so glad we get to work together. you will be hearing from me very soon
+
+fabia sees tall masked man, ponytail of white hair, black sclera eyes, staring at fabia
+(demon daddy, smthg targeted in the stare, unbridled hatred)
+
+f (to sas): i've received amazing news. do you want to get a drink?
+s: we'll make a party of it. we're on our way
+Garlick: how do you feel about fire?
+F: the place is pretty cold rn
+
+two ppl grab fabia, either side, she yanks away from one, (demon daddy's bodyguards)
+taken over to DD
+'youre coming with me' - voice is ATTON
+taken outside
+f: I have 2 questions
+a: i don't have time, i'm budy
+
+eos sees the four - nat 20 - recognises them all
+sees bone white masked gifure on a rooftop
+contacts arnet : containment breach at Silk House
+
+Atton draws The sword (invisible in darkness)
+hurts fabia
+sas attacks atton (doesn't know who he is)
+garlick turns up with four other kobols
+
+a turns, summons echo next to sas
+sas recognises him
+sas down to 5hp
+she walks towards him, pulls out his arm brace 'I've been meaning to give this back to you'
+atton feels like he was stabbed in the chest, remembers his death, and his own name
+S: I'm sorry i couldn't protect you from her
+
+atton is wearing black cord with stone choker, etched w/ a rune
+runic magic is older than arcane
+stores immense amount of magic
+largely forgotten
+
+(sas got the brace from martha's house where atton's body was)
+[AN: or just his armour? who is spying on me? who is atton working for? why did they want fabia? what do the Servants want?]
+
+shadows summoned and begin to emerge
+eos sees rune - it means Change
+runic magic in the city is within Doghym and Lirast
+needs a book to translate
+used by fae and others, ancient runes
+
+sas cuts the collar off
+releases necromantic energic
+a picks up the collar, tries invis
+eos counterspells
+atton hits eos for 30hp
+sas hits atton, he goes down
+
+fabia casts detect magic - necro all around, eos w/ divination
+
+sas : what do i need to do?
+eos casts enthrall, tells shadows to take atton's body
+
+
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.07.05 Making Connections|22.07.05 Making Connections]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Secret identities galore|22.10.21 Secret identities galore]]
+
+</div></div>
+
+
+#### 13. Nothing I didn't know
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Nothing I didn't know|22.10.21 Nothing I didn't know]] - 1x1
+
+#### 14. Secret identities galore
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+martha arrives
+accompanies by x4 big dudes
+wearing almost cartoonishly generic clothing
+
+eos hands necklace with rune to sas
+sas turns 180 and walks straight past martha, also sas's them
+sees house alveryn sigil pinned to guy's clothing
+sas: whats your motive? why are you even here?
+
+sas whispers to garlick : keep an eye on the shadows, their spines [AN: the spider's dart] are coming your way
+g: is this a threat?
+s: no, it's a warning. youre not on my hit list but you're on someone else's
+sas leaves towards shelith
+
+e: stay safe and i owe you a favour
+[gets note]
+
+eos to martha: new friends?
+m: they seem helpful, i heard horrible things so brought them
+seems to be telling the truth, with a lil spice
+acting of own voilition
+
+e: why did they agree to help you?
+m: do ppl not do things out of good will?
+e: no
+m avoids the answer
+
+eos asks to go back to body pit
+
+Vinnie: Garlick doesn't start around dead bodies, but he ends around them
+
+garlick heads home to shelith
+eos as Martel - heads to body pit
+hear commotion closer to Ekel
+most of lower city - large angry crowd gathered
+' a cult in the city? they're closing the gates!' 
+shalvyl guards trying to corral ppl
+head up to second tier - no guards
+into body pit
+
+eos - detect magic
+profound lack of magic - dead zone except a ring on martha's finger
+slim red band, abjuration magic
+no div magic
+
+eos and martha have a chat
+reveal llargent identity
+m doesn't know Lara'el
+
+### next day
+
+purple kobold power walking to garlick
+part of veeren's crew
+Snoss
+
+'now is the time to fight'
+garlick calls sas
+'how would you feel about resurrecting a dragon today?'
+veeren kidnapped veerick
+veerick only one who knows how to cast this ritual
+
+'the plan is, small team to collect the 20ft water fountain, take the crystal to aunelis and resurrect a dragon'
+
+garlick and the 10 beefcakes head to Black Web for veeren
+
+snoss: theyre closing the city, some kind of cult. will probably be a witch hunt
+
+into bar - hooded veeren with two imposing dragonborn on either side
+veeren tries a smile but its wierd and nervous
+v: where are the others?
+g: what? am i not enough?!
+
+head into back corridor
+garlick wants to see veerick
+small room, chest at end of bend
+on bed is Veerick, tied up
+desor robes, purple eyes, crude rope gag
+a beefy guy, other auvryath child (Lyra - very seaweathered) and older drow woman (pirate vibes, long white braid to floor) in room.
+she has an ornate cane and hankerchief, coughs and stains it red
+
+lyra: he's a traitor and deserves death
+veeren: before we tell you the plan, we have one more surprise
+
+drow lady steps forward: garlick, my child, my faithful apostle. it is I, Idrith
+one of the OG dragons
+
+
+
+
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush|22.08.25 Silk House Ambush]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> 
+
+</div></div>
