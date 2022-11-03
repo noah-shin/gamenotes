@@ -46,7 +46,7 @@ Resny
 [[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar|Resny Calendar]]
 
 OneShots
-[[OneShot List|OneShot List]]
+[[290-299 TTRPG/294 Finished Games/09 Oneshots/_Oneshots|_Oneshots]]
 
 
 # Archive
