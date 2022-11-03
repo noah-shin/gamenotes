@@ -33,8 +33,6 @@ All my game notes will now be published here instead of writeas, just cause it'l
 > [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2|Bubble Pop S2]] & [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1|Bubble Pop S1]]
 > [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/BP Wiki|BP Wiki]]
 
-****
-
 #### Weeping City 
 > [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]]
 > [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/WC Wiki|WC Wiki]]
