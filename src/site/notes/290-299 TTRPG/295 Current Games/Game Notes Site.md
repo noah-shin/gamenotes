@@ -17,20 +17,20 @@ All my game notes will now be published here instead of writeas, just cause it'l
 
 ****
 
-#### Chaos & Cantrips (Vinnie's Tuesday game)
+#### Chaos & Cantrips
 > [[290-299 TTRPG/294 Finished Games/16 Chaos and Cantrips/1. Meet the Gang|1. Meet the Gang]] 
 > [[290-299 TTRPG/294 Finished Games/16 Chaos and Cantrips/Chaos and Cantrips|Chaos and Cantrips]]
 
-#### Blackthorn Guild (Lauren's Tuesday game)
+#### Blackthorn Guild
 > [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal|Blackthorn Journal]] 
 > [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/Blackthorn Wiki|Blackthorn Wiki]]
 
-#### Forbidden Fey (Molly's Sunday game)
+#### Forbidden Fey
 > [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal|Forbidden Fey Journal]] 
 > [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Wiki/FF Wiki|FF Wiki]]
 
 #### Bubble Pop 
-> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2|Bubble Pop S2]] & [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1|Bubble Pop S1]] (Lauren's Saturday game)
+> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2|Bubble Pop S2]] & [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1|Bubble Pop S1]]
 > [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/BP Wiki|BP Wiki]]
 
 ****
