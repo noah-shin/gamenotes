@@ -21,7 +21,7 @@ LIL DESCRIPTION
 11 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#11. Into the Abyss|Bubble Pop S2#11. Into the Abyss]]
 12 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#12. Reach the surface|Bubble Pop S2#12. Reach the surface]]
 13 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#13. Where is everyone?|Bubble Pop S2#13. Where is everyone?]]
-
+14 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#14. Free the mind|Bubble Pop S2#14. Free the mind]]
 
 ## Read them all below
 
@@ -837,5 +837,70 @@ head to fight club to sleep
 morning
 achy's dad DECLINES THE CALL
 lei and team arrive!
+
+</div></div>
+
+
+#### 14. Free the mind
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/13. Where is everyone|13. Where is everyone]] -> [[15. |15. ]]
+
+Fight club - waiting for ppl to arrive
+
+Turn up
+Catch up
+
+who has Yobi? 
+achy recognises it as Shara - Aurenian goddess of the night (malevolent) - counterpart to Selune
+Domain is horrific - originally in the Plane of Shadows - Plane of Loss - now in Astral Sea - Shadowfell
+
+old team create summoning circle here vs new team + al head to house
+
+demons have magic resistance - adv on any saving throw
+
+penny steps into the house
+the vibe is Off - too quiet, house is further damaged
+
+p: ria, ven, i brought friends ~
+ria: here~ come see what we've done w/ your friends~
+
+head to dining bar area
+posed at the table are all penny's friends - each in a diff pose of normality of a tea party
+
+r: you're here for tea! we'd hoped you'd join us again!
+penny detect thoughts on Conrad
+gets to chat with him - tries to bait him out
+gets pushed out of him, his eyes turn silver (colour of his magc)
+it bursts out, encasing him
+this armoured shadowy demon appears next to him
+conrad hits him with his summoned swords (mutation)
+
+ansel goes for a manipulate emotions - tries to hit bella
+she fights, but can't get out - doesn't have her own magic to get the way out
+
+ACHYLS TAKES 53 DAMAGE
+DOWNED
+
+penny detect thoughts bella
+good convo
+proves her id (turns out penny tricked her before? got them into this mess?)
+
+vul: radiant
+res to : non silver, cold, piercing,
+immune : poison, fire
+
+CONRAD GOES DOWN
+HES DEADEAD
+
+penny choose ren demon straight through the chest
+ansel brings him back up
+
+achy gets final blow on bella demon
 
 </div></div>
