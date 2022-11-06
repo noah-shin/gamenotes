@@ -774,7 +774,7 @@ achy and pen not to be harmed?
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/12. Reach the surface|12. Reach the surface]] -> 
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/12. Reach the surface|12. Reach the surface]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/14. Free  the mind|14. Free  the mind]]
 
 22/10
 
@@ -782,12 +782,12 @@ penny gives potion of healing to a downed ansel
 
 head to investigate offices - no signs to Watcher or to Baphomet
 achy notices celestial runes etched into the floor
-penny reads - magic of protection, hiding, locks, alarms, elerts - means a trap
+penny reads - magic of protection, hiding, locks, alarms, alerts - means a trap
 in a 5x10 outline in corner of room
 
 head to individual prep rooms
 very regimental, same stuff in each room
-minor personalisation, intials hidden on the walls or desk
+minor personalisation, initials hidden on the walls or desk
 names written into front pages of notebooks and prayer books
 list of names!
 names match the initials
@@ -807,7 +807,7 @@ there is a way to unlink the bubble and headteacher
 
 ansel tries to phone taylor - goes through
 T : we were unlinking the headteachers before killing them - but the bubbles fell anyway
-T : we put the power into a generator into a runic circle our cleric found a diety to protect
+T : we put the power into a generator into a runic circle our cleric found a deity to protect
 T : ritual takes 6 hours
 T : only ppl who could do it are taylor, prescott, the cleric, and cadis (who's now dead)
 
