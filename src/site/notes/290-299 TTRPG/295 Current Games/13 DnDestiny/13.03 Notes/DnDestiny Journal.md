@@ -9,6 +9,7 @@ Fireteam Unknown is made of the curious exo Idle-112 (Noah), stoic hunter Grey (
 ## Contents
 
 [[290-299 TTRPG/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#0.5 Escaping Gravity | Idle's 0.5]]
+[[290-299 TTRPG/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#1.|DnDestiny Journal#1.]]
 
 ## Read them all below
 
@@ -66,3 +67,6 @@ Idle plays Skillets 'Save me', then announces 'Good mooooorning Radio 4 Europa. 
 
 </div></div>
 
+
+#### 1.
+![[1. |1. ]]
