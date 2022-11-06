@@ -65,5 +65,5 @@ All my game notes will now be published here instead of writeas, just cause it'l
 ## Ideas
 
 [[Masks Game|Masks Game]]
-[[290-299 TTRPG/296 Ideas/12 Exandria/Critical Role|Critical Role]]
-[[290-299 TTRPG/296 Ideas/13 Zero/Zero|Zero]]
+[[290-299 TTRPG/297 Ideas/12 Exandria/Critical Role|Critical Role]]
+[[290-299 TTRPG/297 Ideas/13 Zero/Zero|Zero]]
