@@ -139,7 +139,7 @@ head to Abbas armoury - from the [[290-299 TTRPG/295 Current Games/15 Blackthorn
 
 
 
-<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/2. Find the Manor|2. Find the Manor]] | 11 - 10 - 22 | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/4.|4.]] >>
+<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/2. Find the Manor|2. Find the Manor]] | 11 - 10 - 22 | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/4. Sage and the Belle of the Ball|4. Sage and the Belle of the Ball]] >>
 
 We have list of all guests and their costumes
 
@@ -217,7 +217,7 @@ Head to spell shop
 </div></div>
 
 
-#### [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/4.|4.]]
+#### [[4. Sage and the Belle of the Ball |4. Sage and the Belle of the Ball ]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
