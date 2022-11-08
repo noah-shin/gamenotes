@@ -10,7 +10,7 @@ The party include the ex-knight Nikiti (Jess), the stargazing bat Rudy (Vinnie),
 1 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#1 . Arriving at the Guild | Arriving at the Guild]]
 2 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#2. Find the Manor | The Masquerade Manor]]
 3 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#3. Sequined Shopping | Sequined Shopping]]
-4 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#4. Sage and the Belle of the Ball|Blackthorn Journal#4. Sage and the Belle of the Ball]]
+4 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#4. Sage and the Belle of the Ball | Sage and the Belle of the Ball]]
 
 ## Read them all below
 
