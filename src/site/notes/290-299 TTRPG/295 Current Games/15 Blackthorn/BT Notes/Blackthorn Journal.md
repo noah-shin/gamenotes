@@ -4,12 +4,13 @@
 
 
 Run on Tuesdays by Lauren!
-The party include the ex-knight Nikiti (Jess), the stargazing bat Rudy (Vinnie), the jock of a shapeshifter Silk (Noah), and the mysterious missing-memoried Jackie (Jake).
+The party include the ex-knight Nikiti (Jess), the stargazing bat Rudy (Vinnie), the jock of a shapeshifter Silk (Noah), the emerald dragonborn Sage (Ash), and the mysterious missing-memoried Jackie (Jake).
 
 ## Contents
 1 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#1 . Arriving at the Guild | Arriving at the Guild]]
 2 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#2. Find the Manor | The Masquerade Manor]]
 3 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#3. Sequined Shopping | Sequined Shopping]]
+4 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#4.|Blackthorn Journal#4.]]
 
 ## Read them all below
 
@@ -55,7 +56,6 @@ Jackie has a _book_
 </div></div>
 
 
-
 #### [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/2. Find the Manor|2. Find the Manor]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -64,7 +64,7 @@ Jackie has a _book_
 
 
 
-13 - 09 - 22 / ??
+<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/1. Arriving at the Guild|1. Arriving at the Guild]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal|Blackthorn Journal]] | 13 - 09 - 22 | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping|3. Sequined Shopping]] >>
 
 Jackie fails to steal from Nikiti
 ~~Silk steals quill from Jackie~~
@@ -73,11 +73,11 @@ Training montage - chase sequence and fencing poses
 - Rudy turns into a mole
 
 Breakfast
-- Rudy has a _cricket sandwhich_
+- Rudy has a _cricket sandwich_
 
 Get directions to the manor
 - travel through [[Briar Glen|Briar Glen]]
-- outskirts of town - teeper into forest, classy suburb
+- outskirts of town - deeper into forest, classy suburb
 
 Butler = Mr Demontford IV
 
@@ -110,7 +110,7 @@ all High Council requests security when traveling or doing business recently
 - foggy details, no claim or clear motive
 - one High Council tower exploded, 22 people died, 27 injured
 - x2 HC members and wizard school Headmaster's daughter killed
-- - now power vaccuum and many power hungry
+- - now power vacuum and many power hungry
 
 also need to keep x2 kids out of trouble
 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Tazim|Tazim]] and [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Baylaz|Baylaz]]
@@ -139,7 +139,7 @@ head to Abbas armoury - from the [[290-299 TTRPG/295 Current Games/15 Blackthorn
 
 
 
-11 - 10 - 22
+<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/2. Find the Manor|2. Find the Manor]] | 11 - 10 - 22 | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/4.|4.]] >>
 
 We have list of all guests and their costumes
 
@@ -213,5 +213,71 @@ Head to Quirks n Stream - general store
 Head to spell shop
 - jackie gets x2 spell scrolls (owes Nikiti x3 favours)
 - Nikiti 'I love a deal and I love a coupon'
+
+</div></div>
+
+
+#### [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/4.|4.]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping|3. Sequined Shopping]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal|Blackthorn Journal]] | 11 - 10 - 22 | [[5.|5.]] >>
+
+Ash: Sage - emerald dragonborn, draped in white and gold scarves, confident but young, many pockets and pouches, herbalist stuff, very comforting presence.
+
+Talking to [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Morgantha|Morgantha]] - wearing a large glittery crown and ornate gown (going as one of the Queens from Disney)
+
+We arrive at the house
+Mr Demontford IV leads up to ballroom - white and gold ballroom, massive red curtains, giant picture of family at one end of hall
+
+Meet Sage
+_they are the wellness tent coach_
+
+Head to front door, set up
+Morgantha turns up - must be who they are, and good costumes (only royalty let in without a costume)
+No approved press
+Most ppl coming having magic weapons
+
+Ball starts
+lmao we have nothing to determine who they are (jessssss)
+Mithseis Ozdemir (Cowboy) &  Rihala Sahin (Cowboy)
+Hamfo Banksi    Fairy Prince of court &  Camellia Banksi    Fairy Princess
+Thymeros Samm    Centaur as a centaur
+
+Throughout the night, we let in 16 people, some people turned away (bad costumes, trying to fake their id, etc)
+NAT 20 FOR BOTH INSIGHT AND PERCEPTION
+
+Surprise guest - tall figure walking up the drive, dressed as a roman gladiator, royal crest on his bicep
+rudy trips and face plants, silk pulls Jackie into a bow, he ignore us and heads straight inside.
+
+then hesitates over closing the door
+S to R: how much does blackthorn mean to you? do we want to be trapped in here with _him_?
+Jasper follows him through, now on the prince's shoulder
+
+Silk and Jackie post up next to doors inside ballroom
+R and N head to medic tent
+
+Sage ambushes R in the quiet room
+R shares that someone's arrived that isn't a fan of them
+Sage tries give them some helpful makeup to obfuscate their identity
+
+Silk feels familiar watching the ballroom
+Loud meow -  Prince now next to me, putting cat on the ground. 
+P: 'I think this cat, it belongs to your friend'
+Si: This is better than anything from 'home'
+Something flutters past his face I can't recognise
+P: At least you have the luxury of leaving
+he leaves
+silk follows him 
+he whirls around : freedom is a luxury few afford. you have escaped your little cage, enjoying things, you look better like this than as him
+-> fully telling the truth
+silk : say hi to the parents for me
+he scoffs, lightly, almost at the idea of talking to his parents, or at the idea of me claiming thing as my parents
+
+Jackie in ballroom, watches group of three angels by drinks table start gasping in pain, before turning to stone.
 
 </div></div>
