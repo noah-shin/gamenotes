@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/6-the-one-where-yobi-died/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/6-the-one-where-yobi-died/"}
 ---
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/5 Library Heist and Downtime Studying|5 Library Heist and Downtime Studying]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/7 Damien's an Idiot|7 Damien's an Idiot]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/5 Library Heist and Downtime Studying\|5 Library Heist and Downtime Studying]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/7 Damien's an Idiot\|7 Damien's an Idiot]]
 
-Nyx & Headmaster – [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/HMWM|HMWM]] accussed them of accessing library N – 'coerced by an outside party'
+Nyx & Headmaster – [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/HMWM\|HMWM]] accussed them of accessing library N – 'coerced by an outside party'
 
 Midterms – simulations of combat Alanis + Ansel late for assembly
 
@@ -17,6 +17,6 @@ Ansel's blacksmith mentor guy – he's making a cool sword – who for? why is i
 
 Alanis only takes a short rest, goes gambling all night again.
 
-6 – Arena Team fighting against [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien|Damien]] – his mutation is blue fire (used to be red :eyes: ???) – he's still feeling super guilty (about what? Al? someone/thing else? is this just cause i took bad notes?) – 3 people go down but damien is super hurt WHY DO I KEEP MISSING WTF
+6 – Arena Team fighting against [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien\|Damien]] – his mutation is blue fire (used to be red :eyes: ???) – he's still feeling super guilty (about what? Al? someone/thing else? is this just cause i took bad notes?) – 3 people go down but damien is super hurt WHY DO I KEEP MISSING WTF
 
 Al goes gambling. Mental health die goes down. Ansel goes ??? hustling??? something in the ethereal return
