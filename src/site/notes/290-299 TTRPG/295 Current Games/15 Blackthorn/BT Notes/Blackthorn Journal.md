@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/15-blackthorn/bt-notes/blackthorn-journal/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/15-blackthorn/bt-notes/blackthorn-journal/"}
 ---
 
 
@@ -7,14 +7,14 @@ Run on Tuesdays by Lauren!
 The party include the ex-knight Nikiti (Jess), the stargazing bat Rudy (Vinnie), the jock of a shapeshifter Silk (Noah), the emerald dragonborn Sage (Ash), and the mysterious missing-memoried Jackie (Jake).
 
 ## Contents
-1 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#1 . Arriving at the Guild | Arriving at the Guild]]
-2 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#2. Find the Manor | The Masquerade Manor]]
-3 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#3. Sequined Shopping | Sequined Shopping]]
-4 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#4. Sage and the Belle of the Ball | Sage and the Belle of the Ball]]
+1 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#1 . Arriving at the Guild \| Arriving at the Guild]]
+2 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#2. Find the Manor \| The Masquerade Manor]]
+3 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#3. Sequined Shopping \| Sequined Shopping]]
+4 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#4. Sage and the Belle of the Ball \| Sage and the Belle of the Ball]]
 
 ## Read them all below
 
-#### [[1 . Arriving at the Guild|1 . Arriving at the Guild]]
+#### [[1 . Arriving at the Guild\|1 . Arriving at the Guild]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -28,13 +28,13 @@ Missed the first hour of game TT.TT
 
 Guild Head takes a letter from Jackie
 Rudy reads a name at the bottom 
-- unrelated to any Blackthorn [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/Groups/Guild|Guild]] member?
+- unrelated to any Blackthorn [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/Groups/Guild\|Guild]] member?
 
 We've got to work together for a quest this week to get in
 
-[[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Rholl Volkomm|Rholl Volkomm]] (Head) signs Rudy's autograph book
+[[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Rholl Volkomm\|Rholl Volkomm]] (Head) signs Rudy's autograph book
 
-High Council [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/Groups/Dompim|Dompim]] is running a masquerade ball
+High Council [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/Groups/Dompim\|Dompim]] is running a masquerade ball
 - need to go to manor for more deets
 
 Meal together
@@ -56,7 +56,7 @@ Jackie has a _book_
 </div></div>
 
 
-#### [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/2. Find the Manor|2. Find the Manor]]
+#### [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/2. Find the Manor\|2. Find the Manor]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -64,7 +64,7 @@ Jackie has a _book_
 
 
 
-<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/1. Arriving at the Guild|1. Arriving at the Guild]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal|Blackthorn Journal]] | 13 - 09 - 22 | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping|3. Sequined Shopping]] >>
+<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/1. Arriving at the Guild\|1. Arriving at the Guild]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | 13 - 09 - 22 | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping\|3. Sequined Shopping]] >>
 
 Jackie fails to steal from Nikiti
 ~~Silk steals quill from Jackie~~
@@ -76,7 +76,7 @@ Breakfast
 - Rudy has a _cricket sandwich_
 
 Get directions to the manor
-- travel through [[Briar Glen|Briar Glen]]
+- travel through [[Briar Glen\|Briar Glen]]
 - outskirts of town - deeper into forest, classy suburb
 
 Butler = Mr Demontford IV
@@ -89,7 +89,7 @@ manor is busy in prep
 
 dark blue dragonborn diplomat, stronk
 - tattoo in unknown lang on back of right hand
-- plaque reads '[[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Morgantha|Morgantha]] [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/Groups/Dompim|Dompim]]'
+- plaque reads '[[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Morgantha\|Morgantha]] [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/Groups/Dompim\|Dompim]]'
 - in her office
 
 task is to check
@@ -113,8 +113,8 @@ all High Council requests security when traveling or doing business recently
 - - now power vacuum and many power hungry
 
 also need to keep x2 kids out of trouble
-- [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Tazim|Tazim]] and [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Baylaz|Baylaz]]
-- [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Shakar|Shakar]] = dad
+- [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Tazim\|Tazim]] and [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Baylaz\|Baylaz]]
+- [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Shakar\|Shakar]] = dad
 - - couple will arrive once all guests arrived
 - coming through the library then down the stairs
 
@@ -126,12 +126,12 @@ main dance, doors all close (prevents unwanted guests, thieves, paparazzi, etc)
 
 no weapons expected, but don't take them off ppl if part of costume
 
-head to Abbas armoury - from the [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/Groups/Runebreakers|Runebreakers]] - a legendary group that dissapeared
+head to Abbas armoury - from the [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/Groups/Runebreakers\|Runebreakers]] - a legendary group that dissapeared
 
 </div></div>
 
 
-#### [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping|3. Sequined Shopping]]
+#### [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping\|3. Sequined Shopping]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -139,7 +139,7 @@ head to Abbas armoury - from the [[290-299 TTRPG/295 Current Games/15 Blackthorn
 
 
 
-<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/2. Find the Manor|2. Find the Manor]] | 11 - 10 - 22 | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/4. Sage and the Belle of the Ball|4. Sage and the Belle of the Ball]] >>
+<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/2. Find the Manor\|2. Find the Manor]] | 11 - 10 - 22 | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/4. Sage and the Belle of the Ball\|4. Sage and the Belle of the Ball]] >>
 
 We have list of all guests and their costumes
 
@@ -217,7 +217,7 @@ Head to spell shop
 </div></div>
 
 
-#### [[4. Sage and the Belle of the Ball |4. Sage and the Belle of the Ball ]]
+#### [[4. Sage and the Belle of the Ball \|4. Sage and the Belle of the Ball ]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -225,11 +225,11 @@ Head to spell shop
 
 
 
-<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping|3. Sequined Shopping]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal|Blackthorn Journal]] | 11 - 10 - 22 | [[5.|5.]] >>
+<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping\|3. Sequined Shopping]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | 11 - 10 - 22 | [[5.\|5.]] >>
 
 Ash: Sage - emerald dragonborn, draped in white and gold scarves, confident but young, many pockets and pouches, herbalist stuff, very comforting presence.
 
-Talking to [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Morgantha|Morgantha]] - wearing a large glittery crown and ornate gown (going as one of the Queens from Disney)
+Talking to [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Wiki/NPCs/Morgantha\|Morgantha]] - wearing a large glittery crown and ornate gown (going as one of the Queens from Disney)
 
 We arrive at the house
 Mr Demontford IV leads up to ballroom - white and gold ballroom, massive red curtains, giant picture of family at one end of hall
