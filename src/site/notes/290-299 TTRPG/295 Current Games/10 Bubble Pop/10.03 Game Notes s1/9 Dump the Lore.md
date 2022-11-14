@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/9-dump-the-lore/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/9-dump-the-lore/"}
 ---
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/8 Fucked Up Fog|8 Fucked Up Fog]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/10 Shopping Episode|10 Shopping Episode]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/8 Fucked Up Fog\|8 Fucked Up Fog]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/10 Shopping Episode\|10 Shopping Episode]]
 
-Peeps return home [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Teams/Blaze Bandits|Blaze Bandits]] are getting more detention than the Stumblers (not just for being late) Alanis gets a bet (teacher dead by the end of the year) – 300 / 25 / 100 (at ½)
+Peeps return home [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Teams/Blaze Bandits\|Blaze Bandits]] are getting more detention than the Stumblers (not just for being late) Alanis gets a bet (teacher dead by the end of the year) – 300 / 25 / 100 (at ½)
 
 Peterson doesn't take Ansel to detention? (lets them off – probs an ins check on their mood) Y bites Peterson – taken to HMWM – lost their guardian last year (Dearant?) – hurt by their resurrection during midterms – Ingram poops on HMWM's head – was at the top of their class?
 
-Al goes to Olive – the effect of the spores – only seen outside the bubble N researches – haze similar to outside the dome (which has a rolling fog) – animals were wierd cause they were migrating / moving away from the fog – first creation by Dr [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Prescott|Prescott]] was radiation suits (then to domes) — he kept refusing to say how they worked / what they were
+Al goes to Olive – the effect of the spores – only seen outside the bubble N researches – haze similar to outside the dome (which has a rolling fog) – animals were wierd cause they were migrating / moving away from the fog – first creation by Dr [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Prescott\|Prescott]] was radiation suits (then to domes) — he kept refusing to say how they worked / what they were
 
 Cleric teach slips An note 'see me after class, I'm worried about you'
 
