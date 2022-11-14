@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/14-turn-to-ghosts/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/14-turn-to-ghosts/"}
 ---
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/13 They want to kill Taylor|13 They want to kill Taylor]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/15 Oops|15 Oops]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/13 They want to kill Taylor\|13 They want to kill Taylor]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/15 Oops\|15 Oops]]
 
 10/2/22
 
