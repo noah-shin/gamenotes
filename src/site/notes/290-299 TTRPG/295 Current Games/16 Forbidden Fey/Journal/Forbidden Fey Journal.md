@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/16-forbidden-fey/journal/forbidden-fey-journal/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/16-forbidden-fey/journal/forbidden-fey-journal/"}
 ---
 
 
@@ -7,13 +7,13 @@ Run on Sundays by Molly!
 The party include siblings Orrin and Indie, and the strange pair Cassian and Sorrel.
 
 ## Contents
-1 - [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#1 . You meet at a tavern | You meet in a Tavern]]
-2 - [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#2. Dove Dungeon Crawl | Dove and Dagger Down a Well]]
+1 - [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#1 . You meet at a tavern \| You meet in a Tavern]]
+2 - [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#2. Dove Dungeon Crawl \| Dove and Dagger Down a Well]]
 
 ## Read them all below
 
 #### 1 . You meet at a tavern
-[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#Contents | Contents]] | [[https://gamenotes.netlify.app/ | Home]]
+[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#Contents \| Contents]] | [[https://gamenotes.netlify.app/ \| Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -21,7 +21,7 @@ The party include siblings Orrin and Indie, and the strange pair Cassian and Sor
 
 
 
-2 - 10 - 22 / 
+[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal\|Forbidden Fey Journal]] / 2 - 10 - 22 / [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/2. Dove Dungeon Crawl\|2. Dove Dungeon Crawl]]
 
 Arrive home, in a tavern
 Bastien - barkeep
@@ -66,15 +66,15 @@ OU 'I've been waiting for you, Keepers of the Jewels'
 
 
 #### 2. Dove Dungeon Crawl
-[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#Contents | Contents]] | [[https://gamenotes.netlify.app/ | Home]]
+[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#Contents \| Contents]] | [[https://gamenotes.netlify.app/ \| Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 
-
-16 - 10 - 22 / 
+[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal\|Forbidden Fey Journal]]
+[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/1. You meet at a tavern\|1. You meet at a tavern]] / 16 - 10 - 22 / [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/3.\|3.]]
 
 cassian : It's hard to put 'wanker' and 'little dick' in the same sonnet and put it to music
 
@@ -88,7 +88,7 @@ OU = Rorin Sonborn
 all our jewels grow slightly warmer before fading away
 
 OU
-- 'these jewels were bestowed upong the Chosen Ones a long time ago'
+- 'these jewels were bestowed upon the Chosen Ones a long time ago'
 - 'many a report of disturbances across the land'
 - 'someone in white manipulating ppl'
 - 'up in Elysium, only high noble folk can get in'
@@ -103,9 +103,9 @@ Head to center of wood
 - the air is frigid and has an unnerving scent
 - no-one has used the well for its intended purpose in a long while
 - animal tracks around & alex's
-- and scattered transcluscent white feathered around the clearing
+- and scattered translucent white feathered around the clearing
 
-Cassian picks up a feather - too light and not from an ordianry dove
+Cassian picks up a feather - too light and not from an ordinary dove
 
 Writing on the well is scratched out
 - in Primordial
@@ -135,7 +135,7 @@ in marble foyer, scratched out glyphs everywhere
 - same lang and builders as the well
 
 indie notices 4 glyphs opposite hallway on a panel at entrance
-- 'only those that follow the antecedents may pass'
+- **'only those that follow the antecedents may pass'**
 - firmly locked and not used in a long time
 - knows many civilisations lived here before but not specifics
 
