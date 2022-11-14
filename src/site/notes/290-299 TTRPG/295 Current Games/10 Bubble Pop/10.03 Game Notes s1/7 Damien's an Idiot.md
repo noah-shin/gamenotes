@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/7-damien-s-an-idiot/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/7-damien-s-an-idiot/"}
 ---
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/6 The one where Yobi died|6 The one where Yobi died]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/8 Fucked Up Fog|8 Fucked Up Fog]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/6 The one where Yobi died\|6 The one where Yobi died]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/8 Fucked Up Fog\|8 Fucked Up Fog]]
 
 8.9.21
 
@@ -13,7 +13,7 @@ Scorpion Bar – owner & son (Donald Scorpion) – other's aren't trying to win 
 
 Kelly liked caramel ice-cream Landen would go silence when working on a song Zane used to like hanging out in the park with the team
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien|Damien]] has his new sword / no roses on his outfit at all Confrontation KISS has done a ritual to help Lei break out herself [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Lei|Lei]] – oath of crown but for found family (the hustlers!!) D currently doesn't have access to his powers He bought half a week to research
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien\|Damien]] has his new sword / no roses on his outfit at all Confrontation KISS has done a ritual to help Lei break out herself [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Lei\|Lei]] – oath of crown but for found family (the hustlers!!) D currently doesn't have access to his powers He bought half a week to research
 
 Nyx might get arrested if they share their gma's research Ansel couldn't read Lei's mind at the hospital (emotional background noise) Skylar's dad knows that the fight club belongs to a cult – the Pura Humanum Superiore – (other mutants were rescued there?) Damien figured out how to change/remove the controlling aspect of the shackle Al changes the controller to Damien (should have worked??)
 
@@ -25,4 +25,4 @@ D healed Lei in ethereal form appears Al announced their triad
 
 Ansel is in the kitchen w/ Taylor (acting awkwardly? history between them and D?)
 
-Taylor gets a message from [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy|Benjy]] (needs urgent help)
+Taylor gets a message from [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy\|Benjy]] (needs urgent help)
