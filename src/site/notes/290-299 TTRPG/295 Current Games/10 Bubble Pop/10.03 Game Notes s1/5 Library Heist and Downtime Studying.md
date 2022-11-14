@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/5-library-heist-and-downtime-studying/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/5-library-heist-and-downtime-studying/"}
 ---
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/4. Chickens and Shady Deals|4. Chickens and Shady Deals]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/6 The one where Yobi died|6 The one where Yobi died]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/4. Chickens and Shady Deals\|4. Chickens and Shady Deals]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/6 The one where Yobi died\|6 The one where Yobi died]]
 
 Library Team : Nyx, Yobi, Skylar, Alanis 
 Distraction : Taylor, Ansel ( T gonna step on A ) confirmation T is a wild magic sorc
