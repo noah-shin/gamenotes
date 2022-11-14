@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/14-resny/14-03-game-notes/2-what-s-in-a-soul/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/14-resny/14-03-game-notes/2-what-s-in-a-soul/"}
 ---
 
 
