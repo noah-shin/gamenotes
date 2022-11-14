@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/294-finished-games/09-oneshots/oneshots/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/294-finished-games/09-oneshots/oneshots/"}
 ---
 
 
@@ -8,4 +8,4 @@ Has to be less than 3 sessions long.
 
 ## Contents
 
-[[290-299 TTRPG/294 Finished Games/09 Oneshots/Halloween Mystery|Halloween Mystery]]
+[[290-299 TTRPG/294 Finished Games/09 Oneshots/Halloween Mystery\|Halloween Mystery]]
