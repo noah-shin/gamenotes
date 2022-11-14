@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/8-fucked-up-fog/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/8-fucked-up-fog/"}
 ---
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/7 Damien's an Idiot|7 Damien's an Idiot]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/9 Dump the Lore|9 Dump the Lore]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/7 Damien's an Idiot\|7 Damien's an Idiot]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/9 Dump the Lore\|9 Dump the Lore]]
 
 1.9.21
 
-T texts – [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy|Benjy]] doesn't text back His voicemail is him and T messing around (sibling energy)
+T texts – [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy\|Benjy]] doesn't text back His voicemail is him and T messing around (sibling energy)
 
-Head to forest Yobi tracks / Nyx fails arcana / Ansel wants to read the animals / Alanis text Oliver (bard teach)(gets 1d10 inspo) / Nyx hacks Ben's phone / Taylor fails to investigate / Yobi tracks / [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Ingram|Ingram]] finds – he went to do something at the boundary & the temple
+Head to forest Yobi tracks / Nyx fails arcana / Ansel wants to read the animals / Alanis text Oliver (bard teach)(gets 1d10 inspo) / Nyx hacks Ben's phone / Taylor fails to investigate / Yobi tracks / [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Ingram\|Ingram]] finds – he went to do something at the boundary & the temple
 
 Ben surrounded by snakes He goes down He's got shadows around him Snakes are keeping my card! T grabs staff, glows purple, sends shockwave (contacts burn off)
 
