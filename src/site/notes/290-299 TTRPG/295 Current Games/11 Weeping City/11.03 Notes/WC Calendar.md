@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/11-weeping-city/11-03-notes/wc-calendar/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/11-weeping-city/11-03-notes/wc-calendar/"}
 ---
 
 
@@ -8,24 +8,24 @@ To gain their ultimate desires, and to see House La'val fall.
 
 ## Contents
 
-1 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#1. Who are you?|WC Calendar#1. Who are you?]]
-2 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#2. The Meeting|WC Calendar#2. The Meeting]]
-3 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#3. What do we do with the bodies?|WC Calendar#3. What do we do with the bodies?]]
-4 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#4. Talking for hours|WC Calendar#4. Talking for hours]]
-5 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#5. Mommy Issues|WC Calendar#5. Mommy Issues]]
-6 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#6. What a Reunion|WC Calendar#6. What a Reunion]]
-7 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#7. Some Lore|WC Calendar#7. Some Lore]]
-8 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#8. All these names|WC Calendar#8. All these names]]
-9 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#9. A history of dragons|WC Calendar#9. A history of dragons]]
-10 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#10. Apocathery Heist|WC Calendar#10. Apocathery Heist]]
-11 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#11. Making Connections|WC Calendar#11. Making Connections]]
-12 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#12. Silk House Ambush|WC Calendar#12. Silk House Ambush]]
-13 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#13. Nothing I didn't know|WC Calendar#13. Nothing I didn't know]]
-14 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#14. Secret identities galore|WC Calendar#14. Secret identities galore]]
+1 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#1. Who are you?\|WC Calendar#1. Who are you?]]
+2 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#2. The Meeting\|WC Calendar#2. The Meeting]]
+3 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#3. What do we do with the bodies?\|WC Calendar#3. What do we do with the bodies?]]
+4 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#4. Talking for hours\|WC Calendar#4. Talking for hours]]
+5 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#5. Mommy Issues\|WC Calendar#5. Mommy Issues]]
+6 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#6. What a Reunion\|WC Calendar#6. What a Reunion]]
+7 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#7. Some Lore\|WC Calendar#7. Some Lore]]
+8 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#8. All these names\|WC Calendar#8. All these names]]
+9 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#9. A history of dragons\|WC Calendar#9. A history of dragons]]
+10 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#10. Apocathery Heist\|WC Calendar#10. Apocathery Heist]]
+11 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#11. Making Connections\|WC Calendar#11. Making Connections]]
+12 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#12. Silk House Ambush\|WC Calendar#12. Silk House Ambush]]
+13 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#13. Nothing I didn't know\|WC Calendar#13. Nothing I didn't know]]
+14 - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#14. Secret identities galore\|WC Calendar#14. Secret identities galore]]
 
 ## Read them all below
 
-#### 1. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.11.21 Who are you|21.11.21 Who are you]]
+#### 1. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.11.21 Who are you\|21.11.21 Who are you]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -59,11 +59,11 @@ surface elves outside GREYROCK
 Adjudicator – A hooded figure, entirely obscured, silently enters the room; in the bone white hands reaching out from their black robes – a box, made of shimmering, petrified silk webs.
 – Iymes gave the stones to Eos to vote (breaking the unspoken rules)
 – 3 white, 2 black
-Iymes staring where Saba was sat. 'Go to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]]. It's time to broker revenge.'
+Iymes staring where Saba was sat. 'Go to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]]. It's time to broker revenge.'
 
 Wyds – markets and uncomfy
 Wood elf closing down shop – ARVEN, apprentice enchanter. platinum necklace, teardrop locket filled with water(?)
-Sasrene contracted by DMH to kill her, 30GP reward. contact in the [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/004. Organisations/Groups/Collectors|COLLECTORS]] is offering 1500 GP for the necklace, waiting the Dark Keep in Intra
+Sasrene contracted by DMH to kill her, 30GP reward. contact in the [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/004. Organisations/Groups/Collectors\|COLLECTORS]] is offering 1500 GP for the necklace, waiting the Dark Keep in Intra
 
 Sas aided by a 'Vibe' – voice poking out from her hair – little friend?
 Sas basically oneshots Arven
@@ -80,7 +80,7 @@ Sas heads back to the guild
 
 Shelby heads to 'Bone Buiding'
 – about Sas 'They took my breath away'
-– meets [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Wisp|WISP]] SYLVALANE, a tall blue-skinned woman, with a wide brimmed hat and cloud hair
+– meets [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Wisp\|WISP]] SYLVALANE, a tall blue-skinned woman, with a wide brimmed hat and cloud hair
 HF gives the necklace
 Wisp 'you should go, dear. You know he doesn't like you.'
 – hear a soft familiar twinkling as she breathes out the smoke from her fancy long pipe
@@ -131,10 +131,10 @@ Atton walks through, dissapearing from Garlick's sight
 All step into the dark, wind grows sharper, archway fades away
 Wind to white like silk or snow, shifting figure of a man appears
 WIS save – so alien its frightening to atton, garlick, sas
-cacophancy of joyous voices 'Delight! For YOU have been CHOSEN by [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Gods/The Ice Queen|The Ice Queen]], the Queen of the Ice Mountains, for salient duty, in her service. Should YOU accept, YOU WILL BE SPUN with a WISH. That which YOU WISH most.'
+cacophancy of joyous voices 'Delight! For YOU have been CHOSEN by [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Gods/The Ice Queen\|The Ice Queen]], the Queen of the Ice Mountains, for salient duty, in her service. Should YOU accept, YOU WILL BE SPUN with a WISH. That which YOU WISH most.'
 
 We all see (seperate) visions of that wish
-'Your duty to the Ice Queen – You must remove [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Faeryl|Faeryl]] [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/La'val|La'val]] from the board.'
+'Your duty to the Ice Queen – You must remove [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Faeryl\|Faeryl]] [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/La'val\|La'val]] from the board.'
 
 Eos 'In what form will we recieve the wish'
 A – the way we were showed, Is a vision of the future
@@ -162,15 +162,15 @@ Everyone takes the hand, palms burn with cold
 'There are more chosen. Meet them at the Silk House.
 
 Eos 'Who are you?'
-A – many names said at once, but the key one is '[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Lord of Winter Winds|Lord of Winter Winds]]'
+A – many names said at once, but the key one is '[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Lord of Winter Winds\|Lord of Winter Winds]]'
 Eos offers their name – 'and mine is Eosphorous.'
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.03 The Meeting|21.12.03 The Meeting]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.03 The Meeting\|21.12.03 The Meeting]]
 
 </div></div>
 
 
-#### 2. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.03 The Meeting|21.12.03 The Meeting]]
+#### 2. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.03 The Meeting\|21.12.03 The Meeting]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -196,19 +196,19 @@ Convinces her way back home
 – back to pub
 – sees a figure jerkily walking towards her
 
-It's HF [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Fabia|Fabia]], who suddenly snaps back into their body
-– in their pocket is a ticket to Full of Borveath @ [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Ivory Theatre|Ivory Theatre]]
-– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Wisp|Wisp]] acting as Matron Mother of Aurvyath
+It's HF [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Fabia\|Fabia]], who suddenly snaps back into their body
+– in their pocket is a ticket to Full of Borveath @ [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Ivory Theatre\|Ivory Theatre]]
+– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Wisp\|Wisp]] acting as Matron Mother of Aurvyath
 – also a small friend under their cloak
 
 To left, narrow dark building
 – doesn't notice sas, who's pretending to be drunk
 
-Enters [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Silk House|Silk House]]
+Enters [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Silk House\|Silk House]]
 – long dark narrow tavern with blue flamed candles and strewn scarves
 – piano player is a large hulked ?
-– mainly workers from fish factories and mushroom farms ([[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/004. Organisations/Businesses/Mole's Stalactites|Mole's Stalactites]] is one)
-— they have the [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Wasting|Wasting]] from working with the paralytic [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Blue Blood Drops|Blue Blood Drops]]
+– mainly workers from fish factories and mushroom farms ([[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/004. Organisations/Businesses/Mole's Stalactites\|Mole's Stalactites]] is one)
+— they have the [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Wasting\|Wasting]] from working with the paralytic [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Blue Blood Drops\|Blue Blood Drops]]
 – bar is unattended, barmaids asleep
 – sees a soft swirling white glow around their hand
 
@@ -228,41 +228,41 @@ Sas
 - tries to grab At
 – sees other familiar faces in the patrons
 – eerie figure 
-—stark white mask with a painted smiling face [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Smiling Mask|Smiling Mask]]
+—stark white mask with a painted smiling face [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Smiling Mask\|Smiling Mask]]
 — curved swords with cutouts 
 — two long white braids
 – and other local thieves (related to/work with ???)
-— one pale eye, other wrapped – elf – [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato|Kato]]
+— one pale eye, other wrapped – elf – [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato\|Kato]]
 — human woman
 — drow with red eyes and red scars crackling 
 – buys drinks for the second lot 
-– sees a wood elf sitting in one of the groups — silver hair, green eyes, [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Arven|Arven]]??
+– sees a wood elf sitting in one of the groups — silver hair, green eyes, [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Arven\|Arven]]??
 
 Eos
 - knows their vague whereabouts
-– finds a red hanky with House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]] sigil embroided and a cursive AD stitched in their balled up fist
-([[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Artel|Artel]] desor, elderboy of desor)
+– finds a red hanky with House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]] sigil embroided and a cursive AD stitched in their balled up fist
+([[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Artel\|Artel]] desor, elderboy of desor)
 – ' I don't appreciate being taken for a ride like that ' 
-– roughs up spare clothes, alter self to look like a local - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Aliases/Martel|Martel]]
+– roughs up spare clothes, alter self to look like a local - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Aliases/Martel\|Martel]]
 
 At bar
 – elf with white hair drinking alone
 – x3 barmaids, only dwarf still awake 
 — one tanned heavily tattooed woman 
-– bartender '[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Grit|Grit]]' – half orc man, pale hair, blind in one eye
+– bartender '[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Grit\|Grit]]' – half orc man, pale hair, blind in one eye
 
 HF – walks away from bar
 Eos – gets a stale ale
 At – white drink (label has crossed out 'Saltwater' and 'Fish Oil')
 Sas – gets upcharged and threatened
 – 'I'll get my guy in the back' — hulking orc man, yellow eyes, small cooks apron
-– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Garrok|Garrok]] —– doesn't speak
+– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Garrok\|Garrok]] —– doesn't speak
 
 Piano player – half orc woman, pale skin, short dark hair – was at the fighting ring
 
 Sas leaving 
-– sees 2 figures, clean skin beneath their robe, with deliberately dirty hands [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Clean Drow|Clean Drow]]
-– overhears '[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Ezara|Ezara]]' said by one
+– sees 2 figures, clean skin beneath their robe, with deliberately dirty hands [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Clean Drow\|Clean Drow]]
+– overhears '[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Ezara\|Ezara]]' said by one
 – aware the masked woman has clocked her – reverses mask to look at woman in the 'eyes'
 
 Eos stumbles into their tabl
@@ -275,31 +275,31 @@ HF – how'd you get the hand mark?
 At – I was drunk and there was a very spooky magic man 
 HF – was it cold? 
 A – very 
-HF – we were both figure visited by a servant of [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Gods/The Ice Queen|The Ice Queen]] ... 
+HF – we were both figure visited by a servant of [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Gods/The Ice Queen\|The Ice Queen]] ... 
 A – I'm still trying to figure out if that actually happened
 
 lil creature scurries under HF's cloak as At and Sas argue
 Everyone steps outside 
 HF – named FABIA 
-Eos – named [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Aliases/Martel|Martel]], mushroom farmer? 
+Eos – named [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Aliases/Martel\|Martel]], mushroom farmer? 
 – all talking about the mission
 
 x2 two clean hooded figures coming out, hands clasped (to their own) infront of them 
 – they bristle, then hurry off
 
 Inn by main gate in Ekel 
-– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Black Web Inn|Black Web Inn]] in Shelith 
-– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Green Foot|Green Foot]] in Renri
+– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Black Web Inn\|Black Web Inn]] in Shelith 
+– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Green Foot\|Green Foot]] in Renri
 – we head to Shelith, heading to bridge to Renri 
 – see some of the shadows start to move 
-– 8 shadowy people appear, front one is [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato|Kato]]
+– 8 shadowy people appear, front one is [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato\|Kato]]
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.11.21 Who are you|21.11.21 Who are you]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.17 What do we do with the bodies|21.12.17 What do we do with the bodies]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.11.21 Who are you\|21.11.21 Who are you]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.17 What do we do with the bodies\|21.12.17 What do we do with the bodies]]
 
 </div></div>
  
 
-#### 3. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.17 What do we do with the bodies|21.12.17 What do we do with the bodies]]
+#### 3. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.17 What do we do with the bodies\|21.12.17 What do we do with the bodies]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -311,11 +311,11 @@ Garlick wakes, axes and self bloody
 – wild magic sorc :eyes: 
 – sees group near
 
-Drow, white hair, one eye covered in a dirty bandage – [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato|Kato]] 
+Drow, white hair, one eye covered in a dirty bandage – [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato\|Kato]] 
 – he unfastens cloak to grab weapon – eos/martel sees glowing white (like everyone's hand) inside 
 – Kato – 'money or life'
-– Sas – you understand what this means. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter|Cutter]] will hear 
-– kato – you haven't heard? [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter|Cutter]]'s out, bounty on his head. (then smthg i missed oop) 
+– Sas – you understand what this means. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter\|Cutter]] will hear 
+– kato – you haven't heard? [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter\|Cutter]]'s out, bounty on his head. (then smthg i missed oop) 
 – sas – you're not as good as him
 
 combat
@@ -331,7 +331,7 @@ garlick – weapon does extra fire damage :eyes:
 
 kato – frostbitten wood axe – where the white glow is from
 fabia has familiar
-– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Jeremy|jeremy]] – tiny lil monster 
+– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Jeremy\|jeremy]] – tiny lil monster 
 atton decapitates a fleeing guy 
 sas pulls the elder mentor role – -6hp = 11
 
@@ -340,36 +340,36 @@ kato drinks potion of teleport
 – garlick tries to hit it out of his hand 
 jeremy grabs last guy's leg, crawls up and screams in his face 
 – fabia stabs him 
-– sas grabs him 'whats going on with [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter|Cutter]]' guy – “cutter ..... eant”, dies
-mispronounciation of [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Elant|Elant]] kulg Isa of House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Houses/Maytyl|Maytyl]] - oldest son of house maytyl
+– sas grabs him 'whats going on with [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter\|Cutter]]' guy – “cutter ..... eant”, dies
+mispronounciation of [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Elant\|Elant]] kulg Isa of House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Houses/Maytyl\|Maytyl]] - oldest son of house maytyl
 
 fabia
 – whos cutter and why are we involved 
 sas – friend of mine, unrelated 
 jeremy getting closer to garlick 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Aliases/Martel|Martel]] offers garlick a piggy back
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Aliases/Martel\|Martel]] offers garlick a piggy back
 
-Heading to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Green Foot|Green Foot]], pass into Renri, then Shelith 
+Heading to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Green Foot\|Green Foot]], pass into Renri, then Shelith 
 – garlick jumps off, acts v proper 
-– pass [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Big Locations/Illien Spires|Illien Spires]] – two stalagmites ? edging shelith – job boards
+– pass [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Big Locations/Illien Spires\|Illien Spires]] – two stalagmites ? edging shelith – job boards
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Green Foot|Green Foot]] 
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Individual Locations/Green Foot\|Green Foot]] 
 – long place of wood, no rot (unlike rest of city) 
 – bright red mushrooms 
 – decent looking place 
 – more mid-tier than lower 
-– garlick recognises [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Tilly|tilly]] 
+– garlick recognises [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Tilly\|tilly]] 
 — dryder??? — spider body — neighbourhood healer 
 – barkeep – sickly human with glowing green eyes and mushrooms growing out their face 
 — everyone who works here has looked like that
 
 garlick takes sas and fabia to tilly +10hp 
 – jeremy doesn't want to be ugly TT.TT 
-– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Tilly|tilly]] averts eyes from any drow
+– [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Tilly\|tilly]] averts eyes from any drow
 
 barkeep's voice is v strangled 
 get a room
-everyone says why they don't like [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Faeryl|Faeryl]] 
+everyone says why they don't like [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Faeryl\|Faeryl]] 
 – eos casts detect magic
 
 Sasrene
@@ -379,11 +379,11 @@ Sasrene
   -  The rapier on her hip glows black and grey with necromancy magics. 
 
 Atton
-  -  The gaudy House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Shavlyl|Shavlyl]] insignia on his gauntlet glows faintly with too many 
+  -  The gaudy House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Shavlyl\|Shavlyl]] insignia on his gauntlet glows faintly with too many 
       different magics to clearly discern.
   -  The glaive on his back glows black and grey with necromancy magics.
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Fabia|Fabia]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Fabia\|Fabia]]
   -  Jeremy glows purple with conjuration magics.
 
 Garlick
@@ -399,12 +399,12 @@ The table fashioned out of a glossy, green mushroom between the beds glows black
 – garlick with invisible (?) magic hand tugging at atton's belt 
 – Eos drops alter self “well, that was exhausting”
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.03 The Meeting|21.12.03 The Meeting]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.01.10 Talking for hours|22.01.10 Talking for hours]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.03 The Meeting\|21.12.03 The Meeting]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.01.10 Talking for hours\|22.01.10 Talking for hours]]
 
 </div></div>
 
 
-#### 4. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.01.10 Talking for hours|22.01.10 Talking for hours]]
+#### 4. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.01.10 Talking for hours\|22.01.10 Talking for hours]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -418,23 +418,23 @@ Sas going to leave
 
 Eos offers a truth in exchange for .... not forgiveness but to move on
 	A truth for a deceloption
-Sas wants to know about the name by [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato|Kato]]'s man - Eant
+Sas wants to know about the name by [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato\|Kato]]'s man - Eant
 	Eos tells them its Elant
 Atton - how is the mask shiny 
 	'its magic'
 	how does it work?
 	' its magic '
-Fabia - House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]] ... any secrets?
+Fabia - House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]] ... any secrets?
 	needs help regarding ?? but cannot ask outright
 	Eos tells them about Desor nearly being destroyed due to an attempted uprising
 	[ SECRET : Eos also knows the house weaponmaster and head house wizard are allegedly from the abyss - weird that there's,,, drow already in the abyss hm ... j hanging, in the abyss ]
 
 For the mission :
-Eos suggests removing [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Faeryl|Faeryl]] from the political board
+Eos suggests removing [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Faeryl\|Faeryl]] from the political board
 	Sas suggests discrediting theirSight
 	Eos agrees - suggests that they have an additional secret they would reveal in a week
 Fabia - put Desor (MM or HP) as scapegoat
-	Sas - knows a [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/La'val|La'val]] traitor? - would be able to convince them to put [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]] as a scapegoat
+	Sas - knows a [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/La'val\|La'val]] traitor? - would be able to convince them to put [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]] as a scapegoat
 
 Fabia's job - real good at the lut
 	- works at the jewelry shop 'Na T'puuli'
@@ -490,15 +490,15 @@ sas heads to renri
 martel heads to aunelis - through renri & elvila (-1 GP)
 	not unnerved by the shadows and whispering and sensation of being watched
 	they drop the alter self and don't wear the mask as soon they enter aunelis
-	meet [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Arnet|Arnet]] at base of stone steps up to elggedir
+	meet [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Arnet\|Arnet]] at base of stone steps up to elggedir
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Arnet|Arnet]] - skin covered in ashy bandages and black armour
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Arnet\|Arnet]] - skin covered in ashy bandages and black armour
 	beady bloodyshot eyes are the only thing that can be seen through
 	voice from around eos 
 		'eos, where have you been?'
 		eos tells them ... most of the truth (i was in an alt dimension for five hours, then got caught up with a group i couldn't shake)
 			'i wasn't at the desor meeting'
-		A - 'we met with [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Artel|Artel]], MM and HPs were busy attending other matters. We detailed - they - he detailed the feud between [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Arcice|Arcice]] and [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]]. He asked for our assistance, offered large sums of money. You, or not-you didn't accept. We returned, then you left.'
+		A - 'we met with [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Artel\|Artel]], MM and HPs were busy attending other matters. We detailed - they - he detailed the feud between [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Arcice\|Arcice]] and [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]]. He asked for our assistance, offered large sums of money. You, or not-you didn't accept. We returned, then you left.'
 		A - 'what do you mean by an alternate dimension?'
 			eos speaks of the archway and the elven runes
 		A - 'was this about Fae'ryl?'
@@ -520,12 +520,12 @@ More details on Maytyl
 Where do they get their economic power from - get the details
 When am I getting the further Arnet details?
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.17 What do we do with the bodies|21.12.17 What do we do with the bodies]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.18 Mommy Issues|22.02.18 Mommy Issues]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/21.12.17 What do we do with the bodies\|21.12.17 What do we do with the bodies]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.18 Mommy Issues\|22.02.18 Mommy Issues]]
 
 </div></div>
  
 
-#### 5. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.18 Mommy Issues|22.02.18 Mommy Issues]]
+#### 5. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.18 Mommy Issues\|22.02.18 Mommy Issues]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -538,16 +538,16 @@ Heads to Silk House
 – Mostly same folk, not the Smile Mask or Keto
 – On Mask's table, piece of paper and spray of blood
 —Letter written in blood ; Be seeing you :)
-– Overhears 'There's always the dead carts. You want to get in with [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Houses/Alveirynn|Alveirynn]]'
+– Overhears 'There's always the dead carts. You want to get in with [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Houses/Alveirynn\|Alveirynn]]'
 — By a group (Arven?)
-— Dead carts – reps of [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Do'ghym|Do'ghym]] and Alveirynn, sweeping through Shelith for dead and dying
+— Dead carts – reps of [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Do'ghym\|Do'ghym]] and Alveirynn, sweeping through Shelith for dead and dying
 Sas attempts to follow them
 – Elven lady looks exactly like Arven
 – Until they cross the bridge, wind picks up, sees two normal arms (instead of the wood of before for one)
 
 Heads to Rug Shop (super drab area)
 – Normal level of decay, with 'weeping spot' mushrooms (mildly poisonous, don't step on them)
-– Calls out '[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter|Cutter]]?'
+– Calls out '[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter\|Cutter]]?'
 – Mushrooms receed, creating a path into the shop
 – Hooded figure, thick blue smoke, he sighs 'Knew you'd find me here kid'
 — Mushroom man! Mushroom head w/ black eyes, smoking wooden pipe, bleeding profusely
@@ -579,7 +579,7 @@ Heads to Ekel for armour
 Passes through into Elvila
 – Surprisingly nice shops, amethyst made water fountain in center of courtyard
 – Remember's there's a blacksmiths here
-– Reachs out to ask someone, ends up infront of a group of 6 [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Arcice|Arcice]] soldiers w/ MM in center
+– Reachs out to ask someone, ends up infront of a group of 6 [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Arcice\|Arcice]] soldiers w/ MM in center
 — The group look at Fabia in disgust, walk away
 – Goes to grab money from the bottom of the fountain
 — Fails a Wis save, something resisting her taking the money
@@ -593,10 +593,10 @@ Jeremy tells him the vague beats
 – Fabia takes their jewelry repair stuff to the back
 
 Eos
-Talking w/ [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Arnet|Arnet]]
+Talking w/ [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Arnet\|Arnet]]
 E ; You heard anything about murders? Unusual targets or by a kobold and the eldest Shalvyl son?
 A ; There's an execution planned. MM and Patron are in talks, MM wants him dead
-Eos heads to NE block, House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]], but also hopefully to run into Atton?
+Eos heads to NE block, House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]], but also hopefully to run into Atton?
 
 Atton
 Heads home
@@ -629,18 +629,18 @@ MM ; I don't think I do need anything to do with you.
 – He goes unconscious, sees a 'familiar figure' enter the room – grotesque appearance, cloaked, hunched, stringy hair
 
 Eos
-Heads to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]], most psychically imposing council house
+Heads to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]], most psychically imposing council house
 As they pass Shalvyl, spots familiar spiderling carriage, embellished w/ Do'ghym sigil
 Eos waits outside it, sends small spider into the building.
 – At top of corridor, sees Do'ghym guards.
 – Spider climbs the stairs, sees Head Wizard Alvir
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.01.10 Talking for hours|22.01.10 Talking for hours]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.22 What a Reunion|22.02.22 What a Reunion]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.01.10 Talking for hours\|22.01.10 Talking for hours]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.22 What a Reunion\|22.02.22 What a Reunion]]
 
 </div></div>
   
 
-#### 6. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.22 What a Reunion|22.02.22 What a Reunion]]
+#### 6. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.22 What a Reunion\|22.02.22 What a Reunion]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -654,7 +654,7 @@ Eos ends FF, Atton dragged through the courtyard
 – Draws eyes, but Kelor isn't that sad or surprised
 – Youngest sister is kinda sad
 Terse greeting, Alvir looking at Eos w/ disdain, Kelor w/ unease
-– Alvir heads to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Do'ghym|Do'ghym]]
+– Alvir heads to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Do'ghym\|Do'ghym]]
 
 Heads to Do'ghym
 – Hooked at the top, bridge stretching over a pit 'to the Abyss', spiked archway, two spiked towers both lit w/ fires that never go out
@@ -668,7 +668,7 @@ A ; Do you ? eat food ?
 E ; No.
 ( summons magic servants, like visible unseen servants? )
 E ; Why did you reject me?
-A ; Why do we still have [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Arcice|Arcice]] in the council? No-one likes them, they're a bit of a recluse. We're better than [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]], and definitely Shalvyl. We're not the only ones who want them gone. If you don't want our offering, talk to any other member of the Council.
+A ; Why do we still have [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Arcice\|Arcice]] in the council? No-one likes them, they're a bit of a recluse. We're better than [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]], and definitely Shalvyl. We're not the only ones who want them gone. If you don't want our offering, talk to any other member of the Council.
 E ; Why couldn't Saba come?
 A ; Busy attending other matters, she doesn't think your house is that important
 — LIES
@@ -678,7 +678,7 @@ Heads to Ekel
 
 Sas
 Rests for 4 hours
-Heads to the [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/High Weaver|High Weaver]]'s office, outside is a waiting / lounge room
+Heads to the [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/High Weaver\|High Weaver]]'s office, outside is a waiting / lounge room
 – Spartan and plain, spine dart thrown at Sas by an apologetic young drow, room has a couple of spiderlings
 – Recognises two – Minelv & Elder
 M ; You seen the HW? She seemed upset when you left last night
@@ -714,7 +714,7 @@ S ; Give these back if you decide you want me here
 Heads onto the streets, there's an increased Shalvyl presence
 – Tosses a chromatic orb at the guards (end of alley)
 – Kills one, threatens the other, but he just dies
-– TT.TT lost family in three senses ([[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter|cutter]], HW, atton)
+– TT.TT lost family in three senses ([[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter\|cutter]], HW, atton)
 
 Fabia
 Working, untangling the jewelry, success!
@@ -741,7 +741,7 @@ Eos ; Ah, so you know
 – Sound behind wall
 – Eos casts False Life, + 10 Temp
 
-Sas heads around the wall, finds [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Martha|Martha]] (Jake's new chara)
+Sas heads around the wall, finds [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Martha\|Martha]] (Jake's new chara)
 – She's a doctor, strange mask for her profession
 – Takes it off, black hair w/ white stripe, human
 – Has only been underground for the past few months, looking for something? That they couldn't get on the surface?
@@ -753,12 +753,12 @@ We agree to split up, research team and other
 – Sas to figure out the state of the underground and what's up
 – Fabia can choose and/or help figure things out from their shop
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.18 Mommy Issues|22.02.18 Mommy Issues]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.03.27 Some Lore|22.03.27 Some Lore]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.18 Mommy Issues\|22.02.18 Mommy Issues]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.03.27 Some Lore\|22.03.27 Some Lore]]
 
 </div></div>
  
 
-#### 7.[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.03.27 Some Lore|22.03.27 Some Lore]]
+#### 7.[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.03.27 Some Lore\|22.03.27 Some Lore]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -769,11 +769,11 @@ We agree to split up, research team and other
 Fabia's boss - drow with blonde hair
 - Uylesses (?)
 
-Sas' friend in [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/La'val|La'val]] - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Auneriel|Auneriel]]
+Sas' friend in [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/La'val\|La'val]] - [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Auneriel\|Auneriel]]
 - was the one who warned Sas about the Shalvyl mutiny
 	-why?
 
-Afern told Sas that Ren from [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Arcice|Arcice]] leaves the city to sell poisons at [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Big Locations/Greyrock|Greyrock]]
+Afern told Sas that Ren from [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Arcice\|Arcice]] leaves the city to sell poisons at [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/006. Lore/Big Locations/Greyrock\|Greyrock]]
 	Ren also chummy with high elf Errow Faethril
 		Another one of Sas' allies
 	Arcice has 'shops' in Greyrock
@@ -785,12 +785,12 @@ Smiling woman
 	- wierd cause DMH are controlled by Laval, when Laval want a hit not through DMH, ask her
 	- she is ferall
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.22 What a Reunion|22.02.22 What a Reunion]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.06 All these names|22.04.06 All these names]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.02.22 What a Reunion\|22.02.22 What a Reunion]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.06 All these names\|22.04.06 All these names]]
 
 </div></div>
   
 
-#### 8. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.06 All these names|22.04.06 All these names]]
+#### 8. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.06 All these names\|22.04.06 All these names]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -804,11 +804,11 @@ Hear some laboured breathing from the entrance of Aunelis
 
 Garlick gives us old parchment scrolls, charred at the edges
 - handwritten letters and notes (from ~3440)
--- ebbeth [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Usurped/Auvryath|auvryath]] MM and ayarda [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Usurped/Elag|elag]] MM (mentor and mentee relationship)
+-- ebbeth [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Usurped/Auvryath\|auvryath]] MM and ayarda [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Usurped/Elag\|elag]] MM (mentor and mentee relationship)
 - ayada wanted knowledge from dragons
 -- suspects lyn wants to overthrow
 
-garlick went home to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Usurped/Auvryath|auvryath]] (the ruined homes)
+garlick went home to [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Usurped/Auvryath\|auvryath]] (the ruined homes)
 - found the notes in a false bottom in Lyra's (eldest daughter) desk
 
 eos loots the guards. 10sp & wanted poster for garlick (it's going for 15gp)
@@ -829,7 +829,7 @@ Fabia holding ball 'I want to make a cloak for garlick'
 - share out comms
 
 library team - eos as lla'aes
-- head to top left of elvila, house [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Houses/Lirast|lirast]] (large stone temple, with strangely open plan and large archways)
+- head to top left of elvila, house [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Houses/Lirast\|lirast]] (large stone temple, with strangely open plan and large archways)
 - most people are students of the wizard school, symbol embroided on the chest
 - head into hallway, walls lined with books
 
@@ -859,12 +859,12 @@ Sas and garlick head to DarkKeep
 - sas meets Ona (short drow with long silver braid)
 - S 'The one i was protecting is dead. I think I fucked up.'
 
-S 'I want info on ppl under ur domain. on elant martel, [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato|kato]] [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/004. Organisations/Groups/Collectors|collectors]], and on a number of the high houses.'
+S 'I want info on ppl under ur domain. on elant martel, [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato\|kato]] [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/004. Organisations/Groups/Collectors\|collectors]], and on a number of the high houses.'
 O 'kato has successfully taken over the servants. will be here soon to talk to the boss.'
 O 'kato meets Elant at the silk house once a month with a big crate. we can only assume its being taken to the Hollows'
 - hollows are a tunnel system under the city from Mushroom roots. servants operate through it.
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato|kato]] walks in. sas slides 500 gp to ona
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato\|kato]] walks in. sas slides 500 gp to ona
 s 'look out for dmh sister. have u heard anything about Auneriel?'
 
 Kato has glowing swords. Human has longsword of ice. Short drow with glowing dragon bone pipe.
@@ -874,12 +874,12 @@ Sas slides shalvyl symbol across bar to Kato
 both sas and garlick nat 1 stealth to get away
 - human woman slams sas against the wall
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.03.27 Some Lore|22.03.27 Some Lore]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] ->  [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.24 A history of dragons|22.04.24 A history of dragons]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.03.27 Some Lore\|22.03.27 Some Lore]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] ->  [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.24 A history of dragons\|22.04.24 A history of dragons]]
 
 </div></div>
    
 
-#### 9. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.24 A history of dragons|22.04.24 A history of dragons]]
+#### 9. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.24 A history of dragons\|22.04.24 A history of dragons]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -892,13 +892,13 @@ Library - silk tapestry preserved in glass of the Hallowing
 - ending are elves descending on the city
 
 La'rael inherited dominion - the Blessing
-Fabia knows this because they are part of House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]]
+Fabia knows this because they are part of House [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]]
 
-The new part covers Alia [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]] - Matron Mother. 
+The new part covers Alia [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]] - Matron Mother. 
 - She sacrificed her family (?)
 -- Her daughter La'rael survived the sacrifice
 (( how does Fabia know? ))
---- La'rael is hidden but also a blood member and has the Blessing of [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor|Desor]]
+--- La'rael is hidden but also a blood member and has the Blessing of [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]]
 ---- Helps them conjure demons, makes them intimidating and charismatic
 
 Martha finds a book
@@ -913,18 +913,18 @@ Martha finds a book
 -- eos casts inflict wounds
 -- leave portal, there are some shavyl guards and another big tarantula
 
-sas escapes, tells Ulyus to watch his back with [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato|Kato]]
+sas escapes, tells Ulyus to watch his back with [[290-299 TTRPG/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato\|Kato]]
 Garlick unconscious in sas' safehouse
 x3 smoky dragons following Sas
 - kato 'see you around uyulus'
 sas steps outside in a hood, veeran aurvyath (2nd child) is there, says hi 
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.06 All these names|22.04.06 All these names]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.06.16 Apocathery Heist|22.06.16 Apocathery Heist]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.06 All these names\|22.04.06 All these names]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.06.16 Apocathery Heist\|22.06.16 Apocathery Heist]]
 
 </div></div>
 
 
-#### 10. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.06.16 Apocathery Heist|22.06.16 Apocathery Heist]]
+#### 10. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.06.16 Apocathery Heist\|22.06.16 Apocathery Heist]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -995,12 +995,12 @@ martha takes off the mask and goes for a bite – (mask wasn't magical, darkvisi
 
 sas' familiar distracts the guards, we all sneak out
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.24 A history of dragons|22.04.24 A history of dragons]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.07.05 Making Connections|22.07.05 Making Connections]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.04.24 A history of dragons\|22.04.24 A history of dragons]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.07.05 Making Connections\|22.07.05 Making Connections]]
 
 </div></div>
 
 
-#### 11. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.07.05 Making Connections|22.07.05 Making Connections]]
+#### 11. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.07.05 Making Connections\|22.07.05 Making Connections]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -1032,7 +1032,7 @@ He looks surprised, recognising - 'I'd thought she'd be dead by now'
 'she poses a major threat to you, to the foundation Doghym has built. we will have to find and deal with her.'
 ' we cannot afford to have that selection process exposes'
 
-he knows the name [[Benjamin|Benjamin]]
+he knows the name [[Benjamin\|Benjamin]]
 ' she is going to be severly dissapointed. for all intents and purposes, benjamin drake is dead'
 'doctor drake was a dangerous man. he is dead enough that he cannot continue his work'
 ' he was a menace to the city and not a part of Doghym'
@@ -1162,12 +1162,12 @@ eos shares the fact theyre bringing martha in - sas won't stop them
 S: there was someone in the DMH w/ unusual rel with High Weaver. more depth to it. she was a weaver but during the Aurv usurping, both came back shaken and changed. the partner left with no trace
 
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.06.16 Apocathery Heist|22.06.16 Apocathery Heist]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush|22.08.25 Silk House Ambush]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.06.16 Apocathery Heist\|22.06.16 Apocathery Heist]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush\|22.08.25 Silk House Ambush]]
 
 </div></div>
 
 
-#### 12. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush|22.08.25 Silk House Ambush]]
+#### 12. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush\|22.08.25 Silk House Ambush]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -1268,15 +1268,15 @@ sas : what do i need to do?
 eos casts enthrall, tells shadows to take atton's body
 
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.07.05 Making Connections|22.07.05 Making Connections]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Secret identities galore|22.10.21 Secret identities galore]]
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.07.05 Making Connections\|22.07.05 Making Connections]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Secret identities galore\|22.10.21 Secret identities galore]]
 
 </div></div>
 
 
 #### 13. Nothing I didn't know
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Nothing I didn't know|22.10.21 Nothing I didn't know]] - 1x1
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Nothing I didn't know\|22.10.21 Nothing I didn't know]] - 1x1
 
-#### 14. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Secret identities galore|22.10.21 Secret identities galore]]
+#### 14. [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Secret identities galore\|22.10.21 Secret identities galore]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -1373,6 +1373,6 @@ one of the OG dragons
 
 
 
-[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush|22.08.25 Silk House Ambush]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar|WC Calendar]] -> 
+[[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush\|22.08.25 Silk House Ambush]] -> [[290-299 TTRPG/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> 
 
 </div></div>
