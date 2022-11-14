@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/bubble-pop-s1/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/bubble-pop-s1/"}
 ---
 
 
@@ -8,22 +8,22 @@ LIL DESCRIPTION
 
 ## Contents
 
-1 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#1. Starting Times|Bubble Pop S1#1. Starting Times]]
-2 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#2. First day of school|Bubble Pop S1#2. First day of school]]
-3 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#3. Downtime|Bubble Pop S1#3. Downtime]]
-4 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#4. Chickens and Shady Deals|Bubble Pop S1#4. Chickens and Shady Deals]]
-5 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#5. Library Heist and Downtime Studying|Bubble Pop S1#5. Library Heist and Downtime Studying]]
-6 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#6. The one where Yobi died|Bubble Pop S1#6. The one where Yobi died]] 
-7 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#7. Damien's an idiot|Bubble Pop S1#7. Damien's an idiot]] 
-8 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#8. Fucked up fog|Bubble Pop S1#8. Fucked up fog]] 
-9 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#9. Dump the Lore|Bubble Pop S1#9. Dump the Lore]] 
-10 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#10. Shopping Episode|Bubble Pop S1#10. Shopping Episode]]
-11 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#11. To Make a Murderer|Bubble Pop S1#11. To Make a Murderer]]
-12 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#12. Things are coming together|Bubble Pop S1#12. Things are coming together]]
-13 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#13. They want to kill Taylor|Bubble Pop S1#13. They want to kill Taylor]]
-14 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#14. Turn to Ghosts|Bubble Pop S1#14. Turn to Ghosts]]
-15 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#15. Oops ....|Bubble Pop S1#15. Oops ....]]
-16 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#16. The First Finale Meetup|Bubble Pop S1#16. The First Finale Meetup]]
+1 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#1. Starting Times\|Bubble Pop S1#1. Starting Times]]
+2 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#2. First day of school\|Bubble Pop S1#2. First day of school]]
+3 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#3. Downtime\|Bubble Pop S1#3. Downtime]]
+4 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#4. Chickens and Shady Deals\|Bubble Pop S1#4. Chickens and Shady Deals]]
+5 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#5. Library Heist and Downtime Studying\|Bubble Pop S1#5. Library Heist and Downtime Studying]]
+6 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#6. The one where Yobi died\|Bubble Pop S1#6. The one where Yobi died]] 
+7 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#7. Damien's an idiot\|Bubble Pop S1#7. Damien's an idiot]] 
+8 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#8. Fucked up fog\|Bubble Pop S1#8. Fucked up fog]] 
+9 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#9. Dump the Lore\|Bubble Pop S1#9. Dump the Lore]] 
+10 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#10. Shopping Episode\|Bubble Pop S1#10. Shopping Episode]]
+11 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#11. To Make a Murderer\|Bubble Pop S1#11. To Make a Murderer]]
+12 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#12. Things are coming together\|Bubble Pop S1#12. Things are coming together]]
+13 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#13. They want to kill Taylor\|Bubble Pop S1#13. They want to kill Taylor]]
+14 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#14. Turn to Ghosts\|Bubble Pop S1#14. Turn to Ghosts]]
+15 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#15. Oops ....\|Bubble Pop S1#15. Oops ....]]
+16 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1#16. The First Finale Meetup\|Bubble Pop S1#16. The First Finale Meetup]]
 
 
 ## Read them all below
@@ -36,7 +36,7 @@ LIL DESCRIPTION
 
 
 
-START -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/02. First day of school|02. First day of school]]
+START -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/02. First day of school\|02. First day of school]]
 
 Back in 2021, the world erupted into flames as countries turned on each other during what was meant to be peace talks but ended up being the destruction of the world. Rather than keeping cool heads and talking their way through the conflict like good leaders should, some leaders (who remain nameless in the history books, their existence wiped from public eye as penance ~~Trump~~) pushed those small red buttons. 
 
@@ -105,7 +105,7 @@ Back in school
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/1. Starting Times and Lore|1. Starting Times and Lore]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/3. Downtime|3. Downtime]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/1. Starting Times and Lore\|1. Starting Times and Lore]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/3. Downtime\|3. Downtime]]
 
 Taylor and Nyx go
 Fight a bear
@@ -153,7 +153,7 @@ play card game (loose all money, get 5HP from taylor)
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/02. First day of school|02. First day of school]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/4. Chickens and Shady Deals|4. Chickens and Shady Deals]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/02. First day of school\|02. First day of school]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/4. Chickens and Shady Deals\|4. Chickens and Shady Deals]]
 
 Taylor on a mission for the next few weeks
 
@@ -260,7 +260,7 @@ Taylor has been HMWM's ward for 15 years (linked to the Prescott fire 15 years a
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/3. Downtime|3. Downtime]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/5 Library Heist and Downtime Studying|5 Library Heist and Downtime Studying]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/3. Downtime\|3. Downtime]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/5 Library Heist and Downtime Studying\|5 Library Heist and Downtime Studying]]
 
 Taylor's dogtag - V.P. (initials on it)
 	Yobialso saw a key (shape thing) on a seperate chain around her neck
@@ -292,7 +292,7 @@ Taylor has 3 (HMWM as current)
 Yobi had 3, currently 1 (though they are dead?)
 HMWM was once married, but partner died at the end of the school year last year, shortly after Alanis got back. He currently has a crush on VP O'Sully
 
-Al goes to [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien|Damien]]'s classroom (to get access to his comp but also for history)
+Al goes to [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien\|Damien]]'s classroom (to get access to his comp but also for history)
 D - pain at mention of 'team', especially at the mention of Lei (wave of guilt)
 He's been going to the Ethereal Return a lot recently
 D & A head off to ER bar
@@ -309,7 +309,7 @@ NOTE AL WRITES ON THEIR ARM : LOOK AT DAMIEN'S PHOTO LATER
 
 Damien infodump :
 Looking for Alanis. Found an underground fight club of mutants (run by non-mutants)
-Hustlers went : Kelly and [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Lei|Lei]] went missing. Landon took Zane and got out of there. 
+Hustlers went : Kelly and [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Lei\|Lei]] went missing. Landon took Zane and got out of there. 
 They called Charles Stiegan and Ibram Baxter (previous warlock and sorc teachers)
 Kelly was dead. Lei magic shackled. Individual wearing a hood was attacking the group w/ Lei (because she was shackled)
 Charles was greviously hurt.
@@ -352,7 +352,7 @@ Gave them the money, exchanged business cards, left.
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/4. Chickens and Shady Deals|4. Chickens and Shady Deals]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/6 The one where Yobi died|6 The one where Yobi died]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/4. Chickens and Shady Deals\|4. Chickens and Shady Deals]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/6 The one where Yobi died\|6 The one where Yobi died]]
 
 Library Team : Nyx, Yobi, Skylar, Alanis 
 Distraction : Taylor, Ansel ( T gonna step on A ) confirmation T is a wild magic sorc
@@ -384,9 +384,9 @@ Al : parents work on the magical coma ward (recognised something about Y?) – o
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/5 Library Heist and Downtime Studying|5 Library Heist and Downtime Studying]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/7 Damien's an Idiot|7 Damien's an Idiot]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/5 Library Heist and Downtime Studying\|5 Library Heist and Downtime Studying]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/7 Damien's an Idiot\|7 Damien's an Idiot]]
 
-Nyx & Headmaster – [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/HMWM|HMWM]] accussed them of accessing library N – 'coerced by an outside party'
+Nyx & Headmaster – [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/HMWM\|HMWM]] accussed them of accessing library N – 'coerced by an outside party'
 
 Midterms – simulations of combat Alanis + Ansel late for assembly
 
@@ -398,7 +398,7 @@ Ansel's blacksmith mentor guy – he's making a cool sword – who for? why is i
 
 Alanis only takes a short rest, goes gambling all night again.
 
-6 – Arena Team fighting against [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien|Damien]] – his mutation is blue fire (used to be red :eyes: ???) – he's still feeling super guilty (about what? Al? someone/thing else? is this just cause i took bad notes?) – 3 people go down but damien is super hurt WHY DO I KEEP MISSING WTF
+6 – Arena Team fighting against [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien\|Damien]] – his mutation is blue fire (used to be red :eyes: ???) – he's still feeling super guilty (about what? Al? someone/thing else? is this just cause i took bad notes?) – 3 people go down but damien is super hurt WHY DO I KEEP MISSING WTF
 
 Al goes gambling. Mental health die goes down. Ansel goes ??? hustling??? something in the ethereal return
 
@@ -413,7 +413,7 @@ Al goes gambling. Mental health die goes down. Ansel goes ??? hustling??? someth
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/6 The one where Yobi died|6 The one where Yobi died]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/8 Fucked Up Fog|8 Fucked Up Fog]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/6 The one where Yobi died\|6 The one where Yobi died]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/8 Fucked Up Fog\|8 Fucked Up Fog]]
 
 8.9.21
 
@@ -423,7 +423,7 @@ Scorpion Bar – owner & son (Donald Scorpion) – other's aren't trying to win 
 
 Kelly liked caramel ice-cream Landen would go silence when working on a song Zane used to like hanging out in the park with the team
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien|Damien]] has his new sword / no roses on his outfit at all Confrontation KISS has done a ritual to help Lei break out herself [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Lei|Lei]] – oath of crown but for found family (the hustlers!!) D currently doesn't have access to his powers He bought half a week to research
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Damien\|Damien]] has his new sword / no roses on his outfit at all Confrontation KISS has done a ritual to help Lei break out herself [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Lei\|Lei]] – oath of crown but for found family (the hustlers!!) D currently doesn't have access to his powers He bought half a week to research
 
 Nyx might get arrested if they share their gma's research Ansel couldn't read Lei's mind at the hospital (emotional background noise) Skylar's dad knows that the fight club belongs to a cult – the Pura Humanum Superiore – (other mutants were rescued there?) Damien figured out how to change/remove the controlling aspect of the shackle Al changes the controller to Damien (should have worked??)
 
@@ -435,7 +435,7 @@ D healed Lei in ethereal form appears Al announced their triad
 
 Ansel is in the kitchen w/ Taylor (acting awkwardly? history between them and D?)
 
-Taylor gets a message from [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy|Benjy]] (needs urgent help)
+Taylor gets a message from [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy\|Benjy]] (needs urgent help)
 
 </div></div>
 
@@ -448,13 +448,13 @@ Taylor gets a message from [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/7 Damien's an Idiot|7 Damien's an Idiot]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/9 Dump the Lore|9 Dump the Lore]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/7 Damien's an Idiot\|7 Damien's an Idiot]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/9 Dump the Lore\|9 Dump the Lore]]
 
 1.9.21
 
-T texts – [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy|Benjy]] doesn't text back His voicemail is him and T messing around (sibling energy)
+T texts – [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy\|Benjy]] doesn't text back His voicemail is him and T messing around (sibling energy)
 
-Head to forest Yobi tracks / Nyx fails arcana / Ansel wants to read the animals / Alanis text Oliver (bard teach)(gets 1d10 inspo) / Nyx hacks Ben's phone / Taylor fails to investigate / Yobi tracks / [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Ingram|Ingram]] finds – he went to do something at the boundary & the temple
+Head to forest Yobi tracks / Nyx fails arcana / Ansel wants to read the animals / Alanis text Oliver (bard teach)(gets 1d10 inspo) / Nyx hacks Ben's phone / Taylor fails to investigate / Yobi tracks / [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Ingram\|Ingram]] finds – he went to do something at the boundary & the temple
 
 Ben surrounded by snakes He goes down He's got shadows around him Snakes are keeping my card! T grabs staff, glows purple, sends shockwave (contacts burn off)
 
@@ -487,13 +487,13 @@ Eve casts Greater Restoration – heals everyone Olive casts wall of magic & eve
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/8 Fucked Up Fog|8 Fucked Up Fog]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/10 Shopping Episode|10 Shopping Episode]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/8 Fucked Up Fog\|8 Fucked Up Fog]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/10 Shopping Episode\|10 Shopping Episode]]
 
-Peeps return home [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Teams/Blaze Bandits|Blaze Bandits]] are getting more detention than the Stumblers (not just for being late) Alanis gets a bet (teacher dead by the end of the year) – 300 / 25 / 100 (at ½)
+Peeps return home [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Teams/Blaze Bandits\|Blaze Bandits]] are getting more detention than the Stumblers (not just for being late) Alanis gets a bet (teacher dead by the end of the year) – 300 / 25 / 100 (at ½)
 
 Peterson doesn't take Ansel to detention? (lets them off – probs an ins check on their mood) Y bites Peterson – taken to HMWM – lost their guardian last year (Dearant?) – hurt by their resurrection during midterms – Ingram poops on HMWM's head – was at the top of their class?
 
-Al goes to Olive – the effect of the spores – only seen outside the bubble N researches – haze similar to outside the dome (which has a rolling fog) – animals were wierd cause they were migrating / moving away from the fog – first creation by Dr [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Prescott|Prescott]] was radiation suits (then to domes) — he kept refusing to say how they worked / what they were
+Al goes to Olive – the effect of the spores – only seen outside the bubble N researches – haze similar to outside the dome (which has a rolling fog) – animals were wierd cause they were migrating / moving away from the fog – first creation by Dr [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Prescott\|Prescott]] was radiation suits (then to domes) — he kept refusing to say how they worked / what they were
 
 Cleric teach slips An note 'see me after class, I'm worried about you'
 
@@ -520,7 +520,7 @@ TAYLOR HAS A GUN Head can't write or say aloud the secrets of the dome Stumblers
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/9 Dump the Lore|9 Dump the Lore]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/11 To Make a Murderer|11 To Make a Murderer]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/9 Dump the Lore\|9 Dump the Lore]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/11 To Make a Murderer\|11 To Make a Murderer]]
 
 AC now 15 – bracers
 
@@ -546,7 +546,7 @@ CULT PLACE DOOR – chanting on the other side – 'the twins' are fighting each
 
 
 #### 11. To Make a Murderer
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/11 To Make a Murderer|11 To Make a Murderer]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/11 To Make a Murderer\|11 To Make a Murderer]]
 
 #### 12. Things are coming together
 
@@ -556,7 +556,7 @@ CULT PLACE DOOR – chanting on the other side – 'the twins' are fighting each
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/11 To Make a Murderer|11 To Make a Murderer]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/13 They want to kill Taylor|13 They want to kill Taylor]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/11 To Make a Murderer\|11 To Make a Murderer]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/13 They want to kill Taylor\|13 They want to kill Taylor]]
 
 Ansel – Insight checks Glowing Alanis – gets a blast of 'unknowable something', 11 dmg, goes DOWN AGAIN – their eyes gow slightly midnight blue before they get blown back and go unconscious Taylor – Arcana checks – becomes full of fear, unable to say anything Nyx uses Healing Potion, Ansel is back up
 
@@ -609,7 +609,7 @@ Taylor checks the group – phones HMWM We finish sleeping – will head them of
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/12 Things are Coming Together|12 Things are Coming Together]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/14 Turn to Ghosts|14 Turn to Ghosts]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/12 Things are Coming Together\|12 Things are Coming Together]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/14 Turn to Ghosts\|14 Turn to Ghosts]]
 
 3.12.21
 
@@ -653,7 +653,7 @@ ben phones, al demands he get eve and oliver all three teleport over – ben pul
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/13 They want to kill Taylor|13 They want to kill Taylor]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/15 Oops|15 Oops]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/13 They want to kill Taylor\|13 They want to kill Taylor]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/15 Oops\|15 Oops]]
 
 10/2/22
 
@@ -688,7 +688,7 @@ Al wakes up, damien talking to parents downstairs – Heads to Damien's, to scho
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/14 Turn to Ghosts|14 Turn to Ghosts]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/16. Meetup|16. Meetup]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/14 Turn to Ghosts\|14 Turn to Ghosts]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/16. Meetup\|16. Meetup]]
 
 17.2.22
 
@@ -732,7 +732,7 @@ Al jumps on his back, fails grapple, sleight of hand, pulls his cloak off An goe
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/15 Oops|15 Oops]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/1. Mission Assigned|1. Mission Assigned]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/15 Oops\|15 Oops]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/1. Mission Assigned\|1. Mission Assigned]]
 
 Texts - instant messages from Edmund, they're all our greatest wishes
 Nyx - don't trust him! he killed Taylor
