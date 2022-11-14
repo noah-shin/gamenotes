@@ -74,7 +74,7 @@ OU 'I've been waiting for you, Keepers of the Jewels'
 
 
 [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal\|Forbidden Fey Journal]]
-[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/1. You meet at a tavern\|1. You meet at a tavern]] / 16 - 10 - 22 / [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/3.\|3.]]
+[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/1. You meet at a tavern\|1. You meet at a tavern]] / 16 - 10 - 22 / [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/3. A sinister tea party\|3. A sinister tea party]]
 
 cassian : It's hard to put 'wanker' and 'little dick' in the same sonnet and put it to music
 
@@ -185,5 +185,105 @@ You see a torn page, as if from a book, that has been scribbled on haphazardly. 
 Upon touching the broken dove wing, you see images begin to flash in your minds eye. An image of a woman appears, her back turned. She is dressed in all white, and a shimmering essence appears to surround her in an ephemeral sheen. You see flashes of feathers, and feel a strange calm wash over you.
 
 A grass-woven satchel, holding few treasures. The metal coins contained inside have not been tarnished by the prolonged exposure to the elements, and upon a closer look at the satchel itself, it seems a fey charm has been placed upon it to keep the contents unmarred. You find a collection of coins that add up to around 5 gold pieces, various earrings, and a tarnished locket on a short chain. The pictures within have long ago been aged beyond visibility.
+
+</div></div>
+
+
+#### 3. A sinister tea party
+[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#Contents \| Contents]] | [[https://gamenotes.netlify.app/ \| Home]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal\|Forbidden Fey Journal]]
+[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/2. Dove Dungeon Crawl\|2. Dove Dungeon Crawl]] / 13/11/2022 / [[4. FF\|4. FF]]
+
+Detect magic on doorway - antecedents on at base of well
+
+The wing feather glows w/ magic - same as floor, trail leading into the dark
+
+head down corridor
+infront of us - another small shimmering bird flitting around - almost like its asking us to follow it
+goes down for a while, evens out, then steps up - surrounded by glowing sigils
+say similar things about the antecedents - then a sage and directions pointing up
+head up steps, then wooden panel in the way
+- trap door (we're underneath it(, stuck in place from years of disuse
+- hubub of voices behind it, woman talking to several people at once, with exchange of coin
+- storeroom, very dark, old tomes and glass bottles
+
+indie recognises it as maggie's potion shop - 
+shop's been around as long as we can remember
+maggie is new to us#
+used to be an old lady named 'elee' ?
+sage = magic potion shop maker person
+
+try to sneak through the shop
+sorrel and orrin invisible, try to sneak through
+orrin caught by maggie
+
+
+maggie : recently took a trip through the // dynasty, took some herbs, and several people were rather peeved about that
+maggie: where are your companions, i have every kind of magic detection on my doors
+
+indie tells her abotu the trapdoor
+maggie had no idea it was there
+
+aunty lee moved to the icarus dynasty
+opens book, filled with old sketches of texts and animals
+long story for origin of book - on trip to gather flora from elysium
+they weren't too happy i tried to sneak in
+so i borrowed some artefacts from elysium
+
+one page - kraken on chain
+annotations : mind manipulation, water ? 
+other page - half torn off, sketch of a wing
+annotations : pal---
+
+gather downstairs for tea party
+she recognises orrin's pendant
+points it out in the book - corner torn off
+Rillifane Rallathil - diety
+lists ingredients for something - needs fey oil to activate it
+more annotations : power derived from this diety
+
+orrin recognises the god's name
+has own leather-bound book - three years old, engraved w/ a big tree w/ green snake wrapped around it
+
+flips back to page w/ wing 
+m: someone had this in elysium but it was broken
+m: i couldn't figure it out before i was expelled
+
+m: none of u seem like u were part of elysium
+sorrel insight
+cassian reaches up to their heart at the mention
+
+some pages have a language we can't read (celestial)
+
+stag (sorrel's) - half page torn out
+annotations: magmell .??? (torn out)
+
+corner of page could be beginning of sketch of my norigae
+mostly torn out, someone clearly intended to take this
+
+rorin's - no-one bothered to take it
+annotation: power of the mimic, power of the octopus, minor jewel
+
+book found in restricted archives of royal palace
+was ruined when she picked it up
+
+maggie pissed off the royal families and two ambassadors
+rest were too bloodthirsty to pay notice to
+m: i borrowed someone's face for a while
+c: how did you get in? they know each other so well up there
+
+head out - towards alex
+he's fine - sorrel does a scry-esque-thing
+
+head to our parent's home
+aurora and eli'ebadereahdeep
+
 
 </div></div>
