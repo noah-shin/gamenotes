@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/12-things-are-coming-together/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/12-things-are-coming-together/"}
 ---
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/11 To Make a Murderer|11 To Make a Murderer]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/13 They want to kill Taylor|13 They want to kill Taylor]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/11 To Make a Murderer\|11 To Make a Murderer]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/13 They want to kill Taylor\|13 They want to kill Taylor]]
 
 Ansel – Insight checks Glowing Alanis – gets a blast of 'unknowable something', 11 dmg, goes DOWN AGAIN – their eyes gow slightly midnight blue before they get blown back and go unconscious Taylor – Arcana checks – becomes full of fear, unable to say anything Nyx uses Healing Potion, Ansel is back up
 
