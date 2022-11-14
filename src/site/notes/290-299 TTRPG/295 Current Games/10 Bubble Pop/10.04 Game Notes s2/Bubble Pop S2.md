@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-04-game-notes-s2/bubble-pop-s2/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-04-game-notes-s2/bubble-pop-s2/"}
 ---
 
 
@@ -8,20 +8,20 @@ LIL DESCRIPTION
 
 ## Contents
 
-1 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#1. Mission Assigned|Bubble Pop S2#1. Mission Assigned]]
-2 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#2. Bubble Tea Time|Bubble Pop S2#2. Bubble Tea Time]]
-3 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#3. ?|Bubble Pop S2#3. ?]]
-4 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#4. Fight Club|Bubble Pop S2#4. Fight Club]]
-5 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#5. ?|Bubble Pop S2#5. ?]]
-6 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#6. Investigation Time|Bubble Pop S2#6. Investigation Time]]
-7 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#7. Competition Round 2|Bubble Pop S2#7. Competition Round 2]]
-8 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#8. ?|Bubble Pop S2#8. ?]]
-9 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#9. Warehouse Worries|Bubble Pop S2#9. Warehouse Worries]]
-10 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#10. A Hole in the Earth|Bubble Pop S2#10. A Hole in the Earth]]
-11 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#11. Into the Abyss|Bubble Pop S2#11. Into the Abyss]]
-12 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#12. Reach the surface|Bubble Pop S2#12. Reach the surface]]
-13 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#13. Where is everyone?|Bubble Pop S2#13. Where is everyone?]]
-14 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#14. Free the mind|Bubble Pop S2#14. Free the mind]]
+1 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#1. Mission Assigned\|Bubble Pop S2#1. Mission Assigned]]
+2 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#2. Bubble Tea Time\|Bubble Pop S2#2. Bubble Tea Time]]
+3 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#3. ?\|Bubble Pop S2#3. ?]]
+4 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#4. Fight Club\|Bubble Pop S2#4. Fight Club]]
+5 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#5. ?\|Bubble Pop S2#5. ?]]
+6 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#6. Investigation Time\|Bubble Pop S2#6. Investigation Time]]
+7 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#7. Competition Round 2\|Bubble Pop S2#7. Competition Round 2]]
+8 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#8. ?\|Bubble Pop S2#8. ?]]
+9 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#9. Warehouse Worries\|Bubble Pop S2#9. Warehouse Worries]]
+10 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#10. A Hole in the Earth\|Bubble Pop S2#10. A Hole in the Earth]]
+11 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#11. Into the Abyss\|Bubble Pop S2#11. Into the Abyss]]
+12 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#12. Reach the surface\|Bubble Pop S2#12. Reach the surface]]
+13 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#13. Where is everyone?\|Bubble Pop S2#13. Where is everyone?]]
+14 - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#14. Free the mind\|Bubble Pop S2#14. Free the mind]]
 
 ## Read them all below
 
@@ -33,7 +33,7 @@ LIL DESCRIPTION
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/16. Meetup|16. Meetup]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/2. Bubble Tea Time|2. Bubble Tea Time]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/16. Meetup\|16. Meetup]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/2. Bubble Tea Time\|2. Bubble Tea Time]]
 
 BP - 9.4 - Mission Assigned
 
@@ -58,7 +58,7 @@ Nyx - hasn't talked about the grandma
 - Lots of wandering in the forest
 - Teaching younger mutants self-defense (Maude, Aravine, Darlene, Cett)
 
-Yobi - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Ingram|Ingram]] has a family
+Yobi - [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Ingram\|Ingram]] has a family
 - Researching darker magic and curses
 -- Removes their curse, doesn't see auras or ghosts
 -- No longer wear bandages over his eyes
@@ -81,7 +81,7 @@ Prescott 'Individuals from Middlesborough have been turning up there recently'
 Al hugs everyone goodbye.
 Vicky torn between sending Ansel off on good terms or a bitch slap.
 
-Everyone teleports to [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Locations/Darkpit|Darkpit]].
+Everyone teleports to [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Locations/Darkpit\|Darkpit]].
 
 It's medieval style, with cobblestone streets and braziers
 - Night time, only guards around, with a symbol of an eye on their armour
@@ -99,8 +99,8 @@ Group stealth in, Penny watching
 - Group debate whether to be themselves
 - Nyx heads into mess hall
 -- Ppl are tired after travelling for a year
--- [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy|Benjy]] is alive! Winks at Nyx
-- Can see [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Teams/Blaze Bandits|Blaze Bandits]] 
+-- [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Benjy\|Benjy]] is alive! Winks at Nyx
+- Can see [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Teams/Blaze Bandits\|Blaze Bandits]] 
 -- Leaders Peter Kerzach (tall black guy) and Richard Crestvale (mousy white dude) are having a debate
 --- 'Don't know what the teachers are gonna be like. Do we go to school?'
 - Benjy might think Taylor is still dead.
@@ -117,7 +117,7 @@ Group stealth in, Penny watching
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/1. Mission Assigned|1. Mission Assigned]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/4. Fight Club|4. Fight Club]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/1. Mission Assigned\|1. Mission Assigned]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/4. Fight Club\|4. Fight Club]]
 
 14.5.22
 
@@ -132,21 +132,21 @@ Rachel and Eevec of Stealth Outlaws try to hide weapons
 - they get caught real easy
 - Ansel sneaks one by Eric with their 'ability'
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Penny|Penny]] heads home, chats to Conrad.
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Penny\|Penny]] heads home, chats to Conrad.
 
 Meet at Bubble Tea shop run by Amleigh.
 - Halloween vibes and black cat cafe, diner booths
 - We each grab drinks, and head to 'park' <- no green, broken as shit
 
-Have a chat, Penny reveals she overheard about [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Prescott|Prescott]] and his group
+Have a chat, Penny reveals she overheard about [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Prescott\|Prescott]] and his group
 - And that they're after who's causing the unconsciousness
 
 Penny enters their home with an elaborate fake ritual (Ansel imitates)
 (( How did Prescott find out about the energy drain? ))
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Conrad|Conrad]] and Penny jailbreak all the ID bands
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/People/Conrad\|Conrad]] and Penny jailbreak all the ID bands
 - Try and find outfits for the rave tonight
-- Ansel gets [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Teams/Talon|Talon]] logo as bodypaint by Conrad
+- Ansel gets [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Teams/Talon\|Talon]] logo as bodypaint by Conrad
 
 </div></div>
 
@@ -163,12 +163,12 @@ Penny enters their home with an elaborate fake ritual (Ansel imitates)
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/2. Bubble Tea Time|2. Bubble Tea Time]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/5. The One where Yobi Really Died|5. The One where Yobi Really Died]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/2. Bubble Tea Time\|2. Bubble Tea Time]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/5. The One where Yobi Really Died\|5. The One where Yobi Really Died]]
 
 BP - 4.6 - Fight Club
 
 Fight club starts
-- [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Penny|Penny]] lends Nyx her rapier
+- [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.00 Wiki/Party/Penny\|Penny]] lends Nyx her rapier
 - Ansel rents a sword (1GP)
 - Yobi rents bow
 Skylar rents warhammer
@@ -248,7 +248,7 @@ Party sacrifices levels to try and resurrect folks :!?!?!?!?!?!?!?!
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/4. Fight Club|4. Fight Club]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/6. Investigation Time|6. Investigation Time]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/4. Fight Club\|4. Fight Club]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/6. Investigation Time\|6. Investigation Time]]
 
 where tf are any of my notes
 
@@ -263,7 +263,7 @@ where tf are any of my notes
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/5. The One where Yobi Really Died|5. The One where Yobi Really Died]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/7. Competition Round Two|7. Competition Round Two]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/5. The One where Yobi Really Died\|5. The One where Yobi Really Died]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/7. Competition Round Two\|7. Competition Round Two]]
 
 25/06
 
@@ -313,7 +313,7 @@ Skylar – training telepathy and physical str — new and improved feat
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/6. Investigation Time|6. Investigation Time]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/8. Missed session|8. Missed session]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/6. Investigation Time\|6. Investigation Time]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/8. Missed session\|8. Missed session]]
 
 2/7
 
@@ -388,7 +388,7 @@ conrad looks Bad, bella held back
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/7. Competition Round Two|7. Competition Round Two]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/9. Warehouse Worries|9. Warehouse Worries]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/7. Competition Round Two\|7. Competition Round Two]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/9. Warehouse Worries\|9. Warehouse Worries]]
 
 Missed the beginning of the session :
 
@@ -428,7 +428,7 @@ need to be reported to the 'supreme watcher'
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/8. Missed session|8. Missed session]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/10. A Hole in the Earth|10. A Hole in the Earth]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/8. Missed session\|8. Missed session]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/10. A Hole in the Earth\|10. A Hole in the Earth]]
 
 16/7
 
@@ -466,7 +466,7 @@ our second wind
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/9. Warehouse Worries|9. Warehouse Worries]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/11. Into the Abyss|11. Into the Abyss]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/9. Warehouse Worries\|9. Warehouse Worries]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/11. Into the Abyss\|11. Into the Abyss]]
 
 30/8
 
@@ -538,7 +538,7 @@ this is the endgame
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/10. A Hole in the Earth|10. A Hole in the Earth]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/12. Reach the surface|12. Reach the surface]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/10. A Hole in the Earth\|10. A Hole in the Earth]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/12. Reach the surface\|12. Reach the surface]]
 
 27/8
 
@@ -699,7 +699,7 @@ elijah - it'll be nice to see the sunshine for the first time in a millenia
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/11. Into the Abyss|11. Into the Abyss]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/13. Where is everyone|13. Where is everyone]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/11. Into the Abyss\|11. Into the Abyss]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/13. Where is everyone\|13. Where is everyone]]
 
 8/10
 
@@ -774,7 +774,7 @@ achy and pen not to be harmed?
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/12. Reach the surface|12. Reach the surface]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/14. Free  the mind|14. Free  the mind]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/12. Reach the surface\|12. Reach the surface]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/14. Free  the mind\|14. Free  the mind]]
 
 22/10
 
@@ -849,7 +849,7 @@ lei and team arrive!
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/13. Where is everyone|13. Where is everyone]] -> [[15. |15. ]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/13. Where is everyone\|13. Where is everyone]] -> [[15. \|15. ]]
 
 Fight club - waiting for ppl to arrive
 
