@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/14-resny/14-03-game-notes/resny-calendar/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/14-resny/14-03-game-notes/resny-calendar/"}
 ---
 
 
@@ -7,10 +7,10 @@ An every-so-often oneshot-esque thing set in the Dread Domains, run by Jess!
 
 ## Contents
 
-[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#01 Where the Hell Are We | Where the Hell are we?]]
-[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#2 What's in a Soul | What's in a Soul?]]
-[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#3 Split the Party | Split the Party, I dare you]]
-[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#4 Finale | An Epic Finale]]
+[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#01 Where the Hell Are We \| Where the Hell are we?]]
+[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#2 What's in a Soul \| What's in a Soul?]]
+[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#3 Split the Party \| Split the Party, I dare you]]
+[[290-299 TTRPG/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar#4 Finale \| An Epic Finale]]
 
 ## Read them all below
 
