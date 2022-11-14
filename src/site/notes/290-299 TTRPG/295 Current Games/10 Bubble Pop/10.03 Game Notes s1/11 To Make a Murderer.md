@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/11-to-make-a-murderer/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/11-to-make-a-murderer/"}
 ---
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/10 Shopping Episode|10 Shopping Episode]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/12 Things are Coming Together|12 Things are Coming Together]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/10 Shopping Episode\|10 Shopping Episode]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/12 Things are Coming Together\|12 Things are Coming Together]]
 
 People in the ring are former Ringmasters ([# irony](https://gamenotes.writeas.com/tag:irony)) – Zane & Laura – went missing ages ago, thought to be with the circus until recently Zanax sees Al, thinks 'Oh Shit' Twins are feeling 'fear & sadness'
 
