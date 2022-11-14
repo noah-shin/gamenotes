@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/13-they-want-to-kill-taylor/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/290-299-ttrpg/295-current-games/10-bubble-pop/10-03-game-notes-s1/13-they-want-to-kill-taylor/"}
 ---
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/12 Things are Coming Together|12 Things are Coming Together]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/14 Turn to Ghosts|14 Turn to Ghosts]]
+[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/12 Things are Coming Together\|12 Things are Coming Together]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/14 Turn to Ghosts\|14 Turn to Ghosts]]
 
 3.12.21
 
