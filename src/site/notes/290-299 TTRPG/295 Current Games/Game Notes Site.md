@@ -18,8 +18,8 @@ All my game notes will now be published here instead of writeas, just cause it'l
 ****
 
 #### Chaos & Cantrips
-> [[290-299 TTRPG/294 Finished Games/16 Chaos and Cantrips/1. Meet the Gang\|1. Meet the Gang]] 
-> [[290-299 TTRPG/294 Finished Games/16 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]]
+> [[290-299 TTRPG/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]]
+> [[CC Wiki\|CC Wiki]] 
 
 #### Blackthorn Guild
 > [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] 
