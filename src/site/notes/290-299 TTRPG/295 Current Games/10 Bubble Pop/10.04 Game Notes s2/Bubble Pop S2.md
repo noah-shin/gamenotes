@@ -849,7 +849,7 @@ lei and team arrive!
 
 
 
-[[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/13. Where is everyone\|13. Where is everyone]] -> [[15. \|15. ]]
+5/11 | [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]] | [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/13. Where is everyone\|13. Where is everyone]] -> [[290-299 TTRPG/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/15. Are we all going to die\|15. Are we all going to die]]
 
 Fight club - waiting for ppl to arrive
 
