@@ -7,10 +7,10 @@ Run on Tuesdays by Lauren!
 The party include the ex-knight Nikiti (Jess), the stargazing bat Rudy (Vinnie), the jock of a shapeshifter Silk (Noah), the emerald dragonborn Sage (Ash), and the mysterious missing-memoried Jackie (Jake).
 
 ## Contents
-1 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#1 . Arriving at the Guild \| Arriving at the Guild]]
-2 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#2. Find the Manor \| The Masquerade Manor]]
-3 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#3. Sequined Shopping \| Sequined Shopping]]
-4 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#4. Sage and the Belle of the Ball \| Sage and the Belle of the Ball]]
+1 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#1 . Arriving at the Guild\|Blackthorn Journal#1 . Arriving at the Guild]]
+2 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#2. Find the Manor\|Blackthorn Journal#2. Find the Manor]]
+3 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#3. Sequined Shopping\|Blackthorn Journal#3. Sequined Shopping]]
+4 - [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#4. Sage and the Belle of the Ball\|Blackthorn Journal#4. Sage and the Belle of the Ball]]
 
 ## Read them all below
 
@@ -225,7 +225,7 @@ Head to spell shop
 
 
 
-<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping\|3. Sequined Shopping]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | 11 - 10 - 22 | [[5.\|5.]] >>
+<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/3. Sequined Shopping\|3. Sequined Shopping]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | 11 - 10 - 22 | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/5.\|5.]] >>
 
 Ash: Sage - emerald dragonborn, draped in white and gold scarves, confident but young, many pockets and pouches, herbalist stuff, very comforting presence.
 
@@ -259,7 +259,8 @@ S to R: how much does blackthorn mean to you? do we want to be trapped in here w
 Jasper follows him through, now on the prince's shoulder
 
 Silk and Jackie post up next to doors inside ballroom
-R and N head to medic tent
+N posted up outside
+R head to medic tent
 
 Sage ambushes R in the quiet room
 R shares that someone's arrived that isn't a fan of them
