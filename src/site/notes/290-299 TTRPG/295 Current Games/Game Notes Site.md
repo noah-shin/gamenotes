@@ -50,6 +50,13 @@ All my game notes will now be published here instead of writeas, just cause it'l
 
 ****
 
+# Solo Games
+
+[[290-299 TTRPG/296 Solo/10 Archive of Forgotten Dreamings/Archive of Forgotten Dreamings\|Archive of Forgotten Dreamings]] - Jeeyon Shim
+[[290-299 TTRPG/296 Solo/11 Field Guide to Memory/Field Guide to Memory\|Field Guide to Memory]] - Jeeyon Shim
+
+****
+
 # Archive
 
 [[290-299 TTRPG/294 Finished Games/10 Caves of Lathander/Wiki/CoL Wiki\|CoL Wiki]]
