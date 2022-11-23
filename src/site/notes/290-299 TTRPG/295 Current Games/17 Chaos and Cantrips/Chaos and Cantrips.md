@@ -60,7 +60,7 @@ Tyenmo approaches, Vada's accused her of stealing her buns, trail of powered sug
 
 
 
-[[290-299 TTRPG/295 Current Games/17 Chaos and Cantrips/1. Meet the Gang\|1. Meet the Gang]] | [[290-299 TTRPG/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[3.\|3.]]
+[[290-299 TTRPG/295 Current Games/17 Chaos and Cantrips/Notes/1. Meet the Gang\|1. Meet the Gang]] | [[290-299 TTRPG/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[3.\|3.]]
 
 15/11
 
