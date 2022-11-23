@@ -6,10 +6,14 @@
 Run on Sundays by Molly!
 The party include siblings Orrin and Indie, and the strange pair Cassian and Sorrel.
 
+****
+
 ## Contents
 1 - [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#1 . You meet at a tavern \| You meet in a Tavern]]
 2 - [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#2. Dove Dungeon Crawl \| Dove and Dagger Down a Well]]
 3 - [[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#3. A sinister tea party \| A sinister tea party]]
+
+****
 
 ## Read them all below
 
