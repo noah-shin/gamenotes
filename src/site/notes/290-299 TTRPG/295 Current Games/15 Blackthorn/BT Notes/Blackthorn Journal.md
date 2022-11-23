@@ -293,7 +293,14 @@ Jackie in ballroom, watches group of three angels by drinks table start gasping 
 
 
 
-<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/4. Sage and the Belle of the Ball\|4. Sage and the Belle of the Ball]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | 22 - 11 - 22 | [[6.\|6.]] >>
+<< [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/4. Sage and the Belle of the Ball\|4. Sage and the Belle of the Ball]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG/295 Current Games/15 Blackthorn/BT Notes/6.\|6.]] >>
+
+| 22/11/22 | Dmg taken    | Dmg dealt | Kills | Deaths | Nat 1 | Nat 20 |
+| -------- | ------------ | --------- | ----- | ------ | ----- | ------ |
+| Silk     | 15,16,3,26,8 | 13, 18, 7 | 1     | 1      |       | 2      |
+| Sage     | 0            | much      |       |        |       |        |
+| Jackie   | 0            | much      | 1     |        |       | 1?     | 
+| Nikiti   | 0            | 31,much   | 1     |        |       |        |
 
 N by the front door
 Prince walks past
@@ -335,7 +342,7 @@ Sage figures out that staring at them will stop them from moving
 J destroys the angel (flash of yellow magic, smacks it, and it shatters)
 One of the stone pieces has a blinking eye, before it just ... stops
 
-silk goes DOWN
+silk takes goes DOWN
 one hit - 2 failed death saves
 jasper the cat comes over and paws at silk's now changeling prone body
 second hit - permadead
@@ -349,7 +356,7 @@ Jackie hears a little whisper from Jasper: I led you home. But I'll be back, oth
 
 ****
 
-Whilst dead
+Whilst dead - secret talk!
 Feel myself back in my og form
 Feel something pawing at me, reaching into my soul
 I can see the cat, as the kitten, sat there - the floor is water and the days are passing quickly overhead
@@ -381,6 +388,5 @@ Sage comes by, casts Calm Emotions, Silk calms down and settles into his normal 
 Sage recognises the Prince Atala face
 
 Silk: That was a cool cat, wasn't it?
-
 
 </div></div>
