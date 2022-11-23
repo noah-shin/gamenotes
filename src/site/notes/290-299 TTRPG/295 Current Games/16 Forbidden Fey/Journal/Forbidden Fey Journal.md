@@ -18,7 +18,6 @@ The party include siblings Orrin and Indie, and the strange pair Cassian and Sor
 ## Read them all below
 
 #### 1 . You meet at a tavern
-[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#Contents \| Contents]] | [[/ \| Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -71,7 +70,6 @@ OU 'I've been waiting for you, Keepers of the Jewels'
 
 
 #### 2. Dove Dungeon Crawl
-[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#Contents \| Contents]] | [[/ \| Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -195,7 +193,6 @@ A grass-woven satchel, holding few treasures. The metal coins contained inside h
 
 
 #### 3. A sinister tea party
-[[290-299 TTRPG/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal#Contents \| Contents]] | [[https://gamenotes.netlify.app/ \| Home]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
