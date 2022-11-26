@@ -12,14 +12,6 @@ All my game notes will now be published here instead of writeas, just cause it'l
 
 ****
 
-### OneShots
-> [[290-299 TTRPG Notes/294 Finished Games/09 Oneshots/_Oneshots\|_Oneshots]]
-
-### Solo Games
-> [[290-299 TTRPG Notes/296 Solo/Solo Games\|Solo Games]]
-
-****
-
 # Current Games
 
 #### Chaos & Cantrips
@@ -52,27 +44,24 @@ All my game notes will now be published here instead of writeas, just cause it'l
 
 ****
 
-# Liminal Existence
+# Other
+
+These are games that aren't current regular campaigns, and references that I use.
 
 #### Resny 
 > [[290-299 TTRPG Notes/295 Current Games/14 Resny/14.03 Game Notes/Resny Calendar\|Resny Calendar]]
 
+### [[290-299 TTRPG Notes/296 Solo/Solo Games\|Solo Games]]
+
+### [[290-299 TTRPG Notes/292 Ideas/TTRPG Ideas\|TTRPG Ideas]]
+
+### [[290-299 TTRPG Notes/294 Finished Games/Archived Games\|Archived Games]]
+
+### [[_Oneshots \| Oneshot]]
+
+### Reference
+[[290-299 TTRPG Notes/Systems\|Systems]]
+[[290-299 TTRPG Notes/290 Reference/TTRPG Glossary\|TTRPG Glossary]]
+[[290-299 TTRPG Notes/290 Reference/DND Wiki\|DND Wiki]]
+
 ****
-
-# Archive
-
-[[290-299 TTRPG Notes/294 Finished Games/10 Caves of Lathander/Wiki/CoL Wiki\|CoL Wiki]]
-[[290-299 TTRPG Notes/294 Finished Games/11 Lost Mines Ben/Wiki/LMoP Wiki\|LMoP Wiki]]
-[[290-299 TTRPG Notes/294 Finished Games/12 Celtic/12.02 Wiki/Celtic Wiki\|Celtic Wiki]]
-[[290-299 TTRPG Notes/294 Finished Games/13 Oros' Temple/Oros' Temple - Serrah\|Oros' Temple - Serrah]]
-
-## Ran
-
-[[290-299 TTRPG Notes/294 Finished Games/15 BEEE/BEEE\|BEEE]]
-[[290-299 TTRPG Notes/294 Finished Games/14 Monday Game/my final dungeon\|my final dungeon]]
-
-## Ideas
-
-[[Masks Game\|Masks Game]]
-[[290-299 TTRPG Notes/292 Ideas/12 Exandria/Critical Role\|Critical Role]]
-[[290-299 TTRPG Notes/292 Ideas/13 Zero/Zero\|Zero]]
