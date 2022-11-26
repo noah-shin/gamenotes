@@ -23,6 +23,7 @@ LIL DESCRIPTION
 13 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#13. Where is everyone?\|Bubble Pop S2#13. Where is everyone?]]
 14 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#14. Free the mind\|Bubble Pop S2#14. Free the mind]]
 15 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#15. The Big Reveal x2\|Bubble Pop S2#15. The Big Reveal x2]]
+16 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#16. What for do you mourn?\|Bubble Pop S2#16. What for do you mourn?]]
 
 ## Read them all below
 
@@ -1054,3 +1055,7 @@ al tries counterspell
 he counterspells backs
 
 </div></div>
+
+
+#### 16. What for do you mourn?
+[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/16. What for do you mourn\|16. What for do you mourn]]
