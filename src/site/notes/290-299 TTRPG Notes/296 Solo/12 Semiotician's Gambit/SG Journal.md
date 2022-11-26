@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/296-solo/12-semiotician-s-gambit/sg-journal/"}
+---
+
+[[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Semiotician's Gambit\|Semiotician's Gambit]]
+
+Semiotician = Fool
