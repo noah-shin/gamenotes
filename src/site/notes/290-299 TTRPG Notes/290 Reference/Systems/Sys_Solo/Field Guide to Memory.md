@@ -2,11 +2,7 @@
 {"dg-publish":true,"permalink":"/290-299-ttrpg-notes/290-reference/systems/sys-solo/field-guide-to-memory/"}
 ---
 
-[[290-299 TTRPG Notes/290 Reference/TTRPG Glossary#System Template \| Categories]] <- Delete
-`= this.TTRPG.status`
-
-# `= this.Alias`
-Credit: https://jeeyonshim.itch.io/field-guide-to-memory
+[Credit](https://jeeyonshim.itch.io/field-guide-to-memory)
 
 _Field Guide to Memory_ is a connected path game about legacy, wonder, cryptids and the vastness of a human life, designed by Jeeyon Shim and Shing Yin Khor.  
   
