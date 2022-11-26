@@ -7,10 +7,10 @@ Games that don't require anyone else, for all your solo ttrpg needs, because sch
 
 ### Ongoing
 
-[[290-299 TTRPG Notes/296 Solo/10 Archive of Forgotten Dreamings/Archive of Forgotten Dreamings\|Archive of Forgotten Dreamings]]
-[[290-299 TTRPG Notes/296 Solo/11 Field Guide to Memory/Field Guide to Memory\|Field Guide to Memory]] 
+[[290-299 TTRPG Notes/296 Solo/10 Archive of Forgotten Dreamings/Archive of Forgotten Dreamings Journal\|Archive of Forgotten Dreamings Journal]]
+[[290-299 TTRPG Notes/296 Solo/11 Field Guide to Memory/Field Guide to Memory Journal\|Field Guide to Memory Journal]] 
 
 ### Played
 
-[[290-299 TTRPG Notes/296 Solo/12 Semiotician's Gambit/Semiotician's Gambit\|Semiotician's Gambit]]
+[[290-299 TTRPG Notes/296 Solo/12 Semiotician's Gambit/SG 12-12-21\|SG 12-12-21]]
 [[290-299 TTRPG Notes/296 Solo/13 PFOS/Pocket full of Stars\|Pocket full of Stars]]
