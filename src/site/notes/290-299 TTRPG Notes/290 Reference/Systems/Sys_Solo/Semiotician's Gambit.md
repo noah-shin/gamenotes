@@ -25,7 +25,7 @@ Had _atrocious_ luck the first two rounds, with a low virtue and high vice, but 
 
 ## Gameplay
 
-[[290-299 TTRPG Notes/296 Solo/12 Semiotician's Gambit/SG 12-12-21\|SG 12-12-21]]
+[[290-299 TTRPG Notes/296 Solo/12 Semiotician's Gambit/SG Journal\|SG Journal]]
 
 ### Resources
 (may not be available on this website)
