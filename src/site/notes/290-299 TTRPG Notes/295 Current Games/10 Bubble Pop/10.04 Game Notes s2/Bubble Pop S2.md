@@ -915,7 +915,7 @@ achy gets final blow on bella demon
 
 
 
-19/11 | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/14. Free  the mind\|14. Free  the mind]] -> [[16. \|16. ]]
+19/11 | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/14. Free  the mind\|14. Free  the mind]] -> [[16. What for do you mourn \|16. What for do you mourn ]]
 
 Arriving back at the warehouse
 Walk in, it looks really different
