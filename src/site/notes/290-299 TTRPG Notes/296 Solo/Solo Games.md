@@ -12,5 +12,5 @@ Games that don't require anyone else, for all your solo ttrpg needs, because sch
 
 ### Played
 
-[[290-299 TTRPG Notes/296 Solo/12 Semiotician's Gambit/SG 12-12-21\|SG 12-12-21]]
-[[290-299 TTRPG Notes/296 Solo/13 PFOS/Pocket full of Stars\|Pocket full of Stars]]
+[[290-299 TTRPG Notes/296 Solo/12 Semiotician's Gambit/SG Journal\|SG Journal]]
+[[290-299 TTRPG Notes/296 Solo/13 PFOS/PfoS Journal\|PfoS Journal]]
