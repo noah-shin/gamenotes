@@ -52,7 +52,7 @@ Tyenmo approaches, Vada's accused her of stealing her buns, trail of powered sug
 </div></div>
 
 
-#### 2. Unknown
+#### 2. Seafood Scandals
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -60,7 +60,7 @@ Tyenmo approaches, Vada's accused her of stealing her buns, trail of powered sug
 
 
 
-[[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/1. Meet the Gang\|1. Meet the Gang]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[3.\|3.]]
+[[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/1. Meet the Gang\|1. Meet the Gang]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/3. Spicy Solutions\|3. Spicy Solutions]]
 
 15/11
 
@@ -103,7 +103,7 @@ john wades into the water - its 10ft deep
 finds them all
 basil - speak with animals : hit the man in the tank!
 arty finishes off the beans in a round!
-john chucks a prawn at basil's feed
+john chucks a prawn at basil's feet
 basil panic kills it
 
 we win with record time
@@ -144,5 +144,65 @@ gammon meets us outside
 g: you have to help, its gotten out of hand! my mother's stall has been caught on fire!
 g grabs arty's wrist to drag them over
 
+
+</div></div>
+
+
+#### 3. Unknown
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/2. Seafood Scandals\|2. Seafood Scandals]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[4.\|4.]] >>
+
+gammon still holding arty's wrist
+she snarls at him (proper snarl), and tries to break his hold
+he runs away lmao
+
+smell smoke as we get closer to the seafood stall - just putting out a fire looking quite panicked
+basil and bitty can't see anyone who looks suspicious - some people looking confused at the sky
+
+almost looks like someone dropped a small bomb
+no evidence of anything magical at the fire start
+but some unusual magic around the edges
+arty thinks they _are_ associated with the creatures from the mountains
+basil has heard stories of invisible blue monkeys that steal your food and like fruit
+sort of a folk story
+
+basil approaches a fish stall stray cat
+big invisible fast birds in the sky that the cat couldn't catch
+_fanny mcgee on the other end of the market_
+
+some of the hot sauces from those same remote mountainous locations
+
+head to cassim
+itty gets a taste test of different hot sauces
+homegrown - family secret
+stall is secretly bigger
+crates on one wall, desk in the middle, two used camping beds
+basil heads to the big Pepper crate - three straw lined cages w/ persimmons in them
+arty - desk - business records, nothing too untoward
+john - some boxes just full of persimmons, and his hand touches something invisible and fluffy
+hear some chittering and tiny claws
+Responsibility of collecting the shipments has moved to Cassim over the past few months
+
+head to teymo and tell her our suspicions - that cassim brought them here and used them to disrupt the two biggest stalls - the seafood and noodles
+head to cassim and annoy him into letting himself being brought in
+
+lamia gives us 100gp to split between us (basil has it rn)
+100/5=20 | 5 from itty to john, and 5 from bitty to arty
+
+level up to lvl 3!
+
+John is made of oil - thieves tools in his fingers - is an _experiment_
+Arty is a vamp - has fangs and drinks blood
+
+John: I was stolen from my village as a child and turn into a weapon
+a warforged with silicon skin
+tested on by the enemy
+arty helped them escape
 
 </div></div>
