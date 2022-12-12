@@ -22,6 +22,7 @@ To gain their ultimate desires, and to see House La'val fall.
 12 - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#12. Silk House Ambush\|WC Calendar#12. Silk House Ambush]]
 13 - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#13. Nothing I didn't know\|WC Calendar#13. Nothing I didn't know]]
 14 - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#14. Secret identities galore\|WC Calendar#14. Secret identities galore]]
+15 - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar#15. 22.12.12 Back Room Politics\|WC Calendar#15. 22.12.12 Back Room Politics]]
 
 ## Read them all below
 
@@ -1374,5 +1375,239 @@ one of the OG dragons
 
 
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush\|22.08.25 Silk House Ambush]] -> [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> 
+
+</div></div>
+
+
+#### 15. [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/22.12.12 Back Room Politics\|22.12.12 Back Room Politics]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/22.10.21 Secret identities galore\|22.10.21 Secret identities galore]] | [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] | ?
+
+Garlick in the room w/ Veeren
+Throws up in a corner
+pulls out a 20ft wooden ladder from coat, hitting the ceiling
+
+idrith: we have one more shock, you need to sit down
+eeza also survived
+when the house was attacked, our lair was ambushed (believed to be dmh)
+the laval seers saw to it that the ambush would be when we're at our weakest
+we killed the assassins, but were forced to retreat
+she was taken to house laval for reasons we don't know
+will you help us?
+
+Garlick: tell me what i need to do
+
+****
+
+Snoss' other kobols were sent to find each of us
+
+MARTHA
+at house Alveirynn, at the lab
+kobold finds her
+
+martha: who sent you
+kobol: idrith, not dead deep dragon, all three living members of house auvrayath, garlick (to some extent), some other ppl, we are gonna do a heist!
+martha: what's your name?
+kobold: digby
+kobold: everyone is currently at the black web tavern, i can escort you there
+martha: do you plan on me getting harmed in any way whatsoever?
+kobold: not me, and i don't think anyone else!
+martha: how did you get in?
+kobold: i was already here, getting my treatment
+
+head to tavern
+
+FABIA
+in room in desor
+
+hear knock at door, grizzled kobold
+kobold: you're fabia? 
+fabia: I am, who's asking
+kobold: fuckin.
+kobold: Your friends need ur help with a heist
+fabia: i thought that would be more convincing
+kobold: i work for somebody very rich
+fabia: i need insurance
+kobold unclasps old chain w/ rusty ring from around neck: this was my grandma's, you can keep it until we get there
+
+heads to tavern
+
+SASRENE
+did get contacted by garlick, headed to shalvyl house
+sneaking there
+
+EOS
+talk to matron - does give necklace (should prevent being divined on)
+stalking around looking for arnet
+tug on robe by a a little young yellow kobold
+
+kobold: eos?
+eos: ....
+kobold: some of your friends asked me to find you, if you want, to go
+eos: ...who are you?
+kobold: toad, envoy for, for, for, i can't tell you
+eos: if it's a secret, they don't have any power. ... what do you mean, my friends?
+toad: i've been sent on behalf of, ... i've been told that you're a little less than trustworthy. they're not in power now, but they will be by the end of the day. if that helps, i would hate to see you die, from being on the wrong side of the power shift. but garlick, and the others?
+eos: ah, so plans are being set into motion today. inconvenient, but lead the way
+
+heads to tavern
+eos does a round of calls to people - hits up garlick, then fabia, then martha (finds out its black web tavern, finished call and says 'i cannot kill them, cannot kill them')
+then sas - who hasn't got a kobold
+sas: its a day for final showdowns
+eos twigs where sas is going
+a lil chat, eos actually kinda sees the point of sas going to kill their sis
+eos: go get ur revenge, i'm for you, but i think it'd be nice if you waited a bit?
+eos: i'll see you later or i'll see your familiar with your will, in a bit
+
+sas phones garlick
+garlick: are you not with fredrick?
+sas: idk, i've been very sneaky this morning, do you need me?
+garlick: we have a plan, but your plan was to do murder
+sas: i'm going to go kill atrys shalvyl, she usurped my mother and tried to kill me
+garlick: it's your day, do what you want, though it'd be nice to have you here
+sas: she deserves to get thrown in a body pit
+garlick: maybe a hug would work? but if not, you know where i am
+
+sas calls eos back
+sas: i need to at least see her
+sas: the will is actually in my tent
+eos: kill her for me
+sas: keep them safe, you're the only one i trust with that
+
+arnet doesn't respond to eos' comm
+shadow men are around, might respond if i ask them something
+casts identify on the amulet
+eos as platin-ust when half an hour out from the inn
+
+****
+
+all at tavern
+strangely empty considering its so near to the entrance to the city
+no-one at the bar
+someone in a circle booth - martha, hasn't met veeren before, but say hi
+fabia and eos turn up
+
+fabia recognises veerick, but wouldn't have spoken
+doesn't recognise veeren
+eos probs recognise veeren
+
+veeren: if you're ready, i feel like i shouldn't tell you any more
+eos: eh, half of us already know what's going on
+veeren: ah. if you'd like to follow me to the back
+
+beefy no-name steps out
+lyra steps out - eos recognises and shallowly bows in recognition
+see into room - tied up veerick, garlick, faint bell recognition idrith
+eos sits on bed, pats veerick on the knee
+veeren enters and closes the door behind everyone
+
+eos: its good to see you all again, it's been a while
+veeren clears throat, motions to idrith
+idrith: it's good to see you all, there's no delicate way to put this, i am idrith, of what is left of house auvryath. you've all been called to help us do a heist!
+i: we plan to take the fountain in ekel market to aunelis, and ressurect the dead dragon that is trapped in the crystal
+i: the city guards are preoccupied with closing the city gates, in the lower tier of the city. we'll be in the unguarded middle tier. we need you and our assorted muscle to take out any guards that still might be there. once we're at the fountain, we will leave it to todd to grab the crystal
+
+at base of bed, opens chest and pulls out small golden bird cage, with iridescent light blue toad inside. the toad blinks slowly. 
+i: this is todd. he found us when we travelling in a sea hag lair. we're not entirely sure what he is, but we think of him as a living bag of holding.
+i: the plan is, go to the crystal, team takes out the guards, if any, todd grabs crystal, todd regurgitates crystal in aunelis, veerick when then resurrect the dragon (erzel?)
+
+i: we got sucked into the feywild, then a sea hag lair, with a coven of sea hags. todd came to our rescue, we all jumped inside him, and he jumped to safety
+i: we think he's a portal, but a normal frog combined with some fae shit
+i: as far as i'm aware, no deaths required. only physical component is the scale, which you already brought
+
+martha: why are we supposed to help you?
+i: we just need muscle
+g: i thought we were friends?
+m: i'm just worried about a dragon killing us all
+i: erzel is a great guy, never tried to kill us (eos clocks that idrith is only telling a partial truth, there have been times where erzel (best guy of all the dragons) was not so great)
+
+eos: what do you know of aunelis
+i: i know it's empty, and the only feasible place in the city
+eos: but why is it so empty?
+i: ghost stories. 
+i: we're planning on hitting the clearing that's pretty close to the cavern wall
+eos: what if there was a distraction at house shalvyl
+
+****
+
+sas arrives, having sent a note to sis w/ familiar
+calls eos, then feel presence behind her - skinny little dagger pressed up against her throat
+recognises it as auvryath make
+sas: please remove the knife from my throat, i'm here to help.
+eos hears this and heads out to main room, sees lyra behind sas
+lyra circles around sas, still knife at throat
+sas: you look grown up
+lyra: thanks to you
+sas: yeah, the chance you have is due to mercy
+lyra: wow, intresting choice of words. you're here to help us? i find that very hard to believe
+sas: i made a promise to veeren and to garlick, and i'm going to keep that promise
+lyra: you make one ... one wrong move, and i will, i promise, i will kill you
+lyra pulls away, tries to nick sas, fails
+
+eos: anyone for a drink?
+shuffles sas to the door, does the single knock
+eos: glad you didn't die
+sas: i wrote a note, think you'd be proud of it
+eos ushers sas in, goes to talk to lyra
+
+sas recognises idrith as the Harvester - fellow ex-weaver, super close to HW, should be very dead, was ex-communicated and left the city
+og harvester had a debilitating and deadly disease, which should've killed her by now
+
+sas: cool skin you're wearing, who's underneath it
+i: and you are?
+sas: well i knew the original wearer of her skin
+i: yes, the people who tried to kill me. are you with them?
+sas: i was, and still am. but you might know me from the letters, known as 'the girl'?
+i: sorry, i don't make a habit of remembering the names of people so insignificant
+sas: sasrene, etc full name
+i: it's a pleasure to meet you. i'm idrith, though you might know that already from your snooping in my personal business.
+i: i assume you're here to help, though i do wonder why
+sas: i get it, but you might want to get in contact with your other dragon in the DMH, cause last i saw her she was in house la'val, so you might want to contact her
+i: you're very ..
+sas: i'm very angry right now
+i: hm. amusing.
+garlick: am i the only one who didn't know this?
+i: news to me. (truthful) that's she with la'val, though i was trying to keep it a secret with her position within the city, and she was my failsafe. not anymore...
+sas: she wasn't anyway. 
+garlick: why have none of you told me this before?
+
+****
+
+eos: you were in the feywild right? shit's gone tits up here re the prophecy
+lyra: i've heard theres a shifting of power amongst the archfey. in the sea hag lair, we came across a half-dead individual who was rambling about some kind of pact they had made with the high queen, some kind of ... it all went wrong, they shouldn'tv'e, they'd been left down there to die
+lyra: they didn't capable of seeing or hearing us, looking into the distance
+lyra: they seemed pretty humanoid, some kind of surface elf, maybe half-elf
+
+lyra: we were just gonna let the dragons do the talking for us, take the city back
+lyra: we plan to destroy the current ruling council, kill anyone loyal to them, then re-establish order as it was
+
+eos: have you ever been the only house here?
+i: it depends who you ask. we dragons have been above the city, with the city as an extension of our domain since before do'ghym settled in what was the city
+eos: be wary of the additional forces. doghym have vested interests here, the underground is moving, the city guard are preoccupied for a reason, and the archfey are in every corner of the city
+i: i am not concerned with the archfey in the slightest, they can do as they please
+
+start arguing about the morality of killing everyone in the room
+frightening presence - everyone gets too scared to speak
+
+garlick detect magic - room is Flooded in Div magic, except eos
+someone is watched/was watching us
+
+eos: it's not that we want to stop you. but you have far more potential allies in this room than you may think
+garlick goes into a panick - casts Flock of Familiars - 100 parrots appear in the room, perching everywhere
+
+the tavern door is Slammed open
+sas martha veeren and eos' spider head out - two shalvyl guards holding the doors open, barely make out three black carriages bearing the sigils for shavyl, desor and laval through them
+outside shavyl carriage is atrys, accompanied by two guards, looking very bored
+outside desor, saba, four guards, flock of handmaids, shadow crawling at her feet
+outside laval, faeryl floats out, four handmaids, smiles softly
+
+atry's eyes linger on sas, but can't tell if she recognises
+
 
 </div></div>
