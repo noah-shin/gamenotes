@@ -893,7 +893,7 @@ Library - silk tapestry preserved in glass of the Hallowing
 - ending are elves descending on the city
 
 La'rael inherited dominion - the Blessing
-Fabia knows this because they are part of House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]]
+Fabia knows this because they are part of House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]] - a splinter bloodline
 
 The new part covers Alia [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/Desor\|Desor]] - Matron Mother. 
 - She sacrificed her family (?)
