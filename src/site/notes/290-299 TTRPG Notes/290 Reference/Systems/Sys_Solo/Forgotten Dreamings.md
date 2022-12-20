@@ -25,4 +25,4 @@ Paywalled, and in its formative stages, but such a creative idea and cannot wait
 ### Resources
 (may not be available on this website)
 
-[[Archive of Forgotten Dreamings_ Guide to Play.pdf]]
+[[Archive of Forgotten Dreamings_ Guide to Play.pdf\|Archive of Forgotten Dreamings_ Guide to Play.pdf]]
