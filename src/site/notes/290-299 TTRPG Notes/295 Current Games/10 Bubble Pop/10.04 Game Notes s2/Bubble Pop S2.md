@@ -24,6 +24,8 @@ LIL DESCRIPTION
 14 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#14. Free the mind\|Bubble Pop S2#14. Free the mind]]
 15 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#15. The Big Reveal x2\|Bubble Pop S2#15. The Big Reveal x2]]
 16 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#16. What for do you mourn?\|Bubble Pop S2#16. What for do you mourn?]]
+17 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#17. The Showdown\|Bubble Pop S2#17. The Showdown]]
+17.5 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2#17.5 Sidegame Shenanigans\|Bubble Pop S2#17.5 Sidegame Shenanigans]]
 
 ## Read them all below
 
@@ -1167,5 +1169,150 @@ taylor - al
 benjy - olly
 polycule - taylor
 twins - each other
+
+</div></div>
+
+
+#### 17. The Showdown
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/16. What for do you mourn\|16. What for do you mourn]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]] | [[18/\|18/]] >>
+
+Only barrier left is a stone wall
+We encounter another series of sigils - we can restore some of hte lost love
+we get them all back but two - nyx and yobi, al and ansel
+ansel stood in a corner looking at damien and blushing
+alanis makes eye contact with ansel and then makes out with damien
+penny and nyx stand in a corner together
+
+open door, floating middle platform with steps leading up
+platform in the middle
+_shitton_ of ppl in this room - 34 shadow demons, 20 soulstinger, from the portal emerges something horned - baphyboi
+
+we're the sexy stumblers!
+we get just hit by Everyone
+al -24 -29
+nyx -29 -34
+ansel -28 -31
+penny -23 -30
+damien -48
+
+al kills one
+penny does 4 piercing shots in a row
+
+
+</div></div>
+
+
+#### 17.5 Sidegame Shenanigans
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/17. The Showdown\|17. The Showdown]] | [[18. \|18. ]]
+
+Sidegame from a Tuesday game - set in the Bubble Pop universe
+DM: Lauren
+Jake: Mox  / Ash: Shadow / Vinnie: Jesse / Noah: Blank
+
+There are three bubbles left
+Aramore is ... deceptive - a seedy underbelly
+Angelos - LA vibe, big city vibes
+
+Teleported from where we were to a strange location - grey rooms with uniform tiles
+looks like an interrogation room
+
+blank wakes - genial smile
+realises there's soundproofing in this room
+sound under the door - boots coming past - patrols 
+can't time them well - attention drawn to the mirror surface - 1 way mirror
+
+jesse is cuffed by the horse legs 
+Pulls out his cigar and takes a breather
+
+mox - humanoid person in beat up modern clothes, wearing a beat up gas mask
+picks their locks with a small knife in their sleeves
+gets up to try the door, doesn't work
+kicks the door, but no response
+(the party all hear it)
+dropkicks it, locking mechanism flies out, door slams open
+hallway with multiple doors, opening to a breakroom with multiple guards within it
+
+shadow wakes, unsurprised
+acid splash on the handcuffs
+
+mox was part of the rebellion on a city
+was investigating these strange portals
+was taken captive
+
+open armoury - kill two men in suits w/ a thunderwave
+both look very professional - now entirely dead
+one still alive 
+three guards come down the corridor
+two immediately combust, last one is very disorientated
+kill the last two (mox shot the last in the throat)
+
+mox finds governmental credentials on the dead bodies
+daniel o'mally and ?
+
+shadow is Spooked by the elevator
+we stealth up the stairs - higher than entrance level
+10 floors of basemenet
+25 floors above
+office worker to more important
+
+jesse: who are your folk?
+mox: people who don't want to be oppressed
+
+'i'm just fighting for my right to cameo'
+
+top floor, glass windows floor to ceiling
+perfect picket fence vibes in the town outside the window
+5 doors, 3 on right to smaller offices, 2 at end to bigger rooms
+ronald o'leery
+paul robin
+mendil kera
+one is blank
+cody Macintyre - head of the government
+
+mox heads into cody's room
+cody is behind the desk, working away, tall slender man with short black hair, blue suit that looks so dark its black
+mox calls alanis
+mox starts shooting
+cody 'that's not a very nice thing to do is it. why don't you say hello before you walk in. why don't you take that spell of me, i'd rather not squish like a bug, i like to play with my food first'
+blank 'who are you?'
+
+mox shoots the window, shattering it
+cody to blank 'i'd love to hunt you, but i've got to find a certain white haired lady first'
+al pipes up from the phone 'gl motherfucker'
+cody 'alanis is that you?'
+al 'no, it's sinala'
+cody 'make sure you survive what you're going through, cause i'd love for you to fight the boss first'
+al 'why tf aren't you here to fight the real big boss'
+code' no, baphomet will make us a lot of money first'
+
+mox ties the rope on the arrow
+grabs blank and jumps out the window
+shoots the roof and tries to rappel down
+
+swings down to the 19th floor
+alarms going off
+we get to the bottom floor, only 10 people above us
+no-one in the lobby
+we run out through the door
+
+mox able to lead blank to the portal
+then pushes blank through them
+the portal closes, mox bugs out
+
+
 
 </div></div>
