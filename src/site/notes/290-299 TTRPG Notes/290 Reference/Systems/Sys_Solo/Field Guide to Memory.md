@@ -21,4 +21,4 @@ Review
 ### Resources
 (may not be available on this website)
 
-[[FGTM Full game.pdf]]
+[[FGTM Full game.pdf\|FGTM Full game.pdf]]
