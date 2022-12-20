@@ -7,8 +7,8 @@
 
 | File                                                                                                   | Length   | System | Style       | Genre                                             |
 | ------------------------------------------------------------------------------------------------------ | -------- | ------ | ----------- | ------------------------------------------------- |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Field Guide to Memory\|Field Guide to Memory]] | Capaign  | Unique | Interactive | <ul><li>Punk_Solar</li></ul>                      |
 | [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Forgotten Dreamings\|Forgotten Dreamings]]     | Slowburn | Unique | Interactive | <ul><li>Poetry</li><li>Fantasy_Urban</li></ul>    |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Field Guide to Memory\|Field Guide to Memory]] | Capaign  | Unique | Interactive | <ul><li>Punk_Solar</li></ul>                      |
 | [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/DnDestiny\|DnDestiny]]                        | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>Mythic</li></ul>      |
 | [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/Star Wars 5e\|Star Wars 5e]]                  | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>SciFi_Space</li></ul> |
 
@@ -96,10 +96,11 @@
 
 ### Campaign
 
-| File                                                                                  | Status  | Cover                                                                                                                                                   | System | Style   | Prep | Genre                                             |
-| ------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------- | ---- | ------------------------------------------------- |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/DnDestiny\|DnDestiny]]       | Playing | ![coverimg\|100](https://images.squarespace-cdn.com/content/v1/5b224b7cd274cb79a2da5175/c8960bb0-f54b-4a74-9c72-6e9498d2eb6e/PGB_ExportedFromPDF.png)   | 5e     | Sandbox | Low  | <ul><li>SciFi_Other</li><li>Mythic</li></ul>      |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/Star Wars 5e\|Star Wars 5e]] | Playing | ![coverimg\|100](https://external-preview.redd.it/iN7RrG0453D4qNznslzlwl809gqj7DLUm1oNYquzJ_4.jpg?auto=webp&s=75154663332c9bfefe57d38236e97703be66d298) | 5e     | Sandbox | Low  | <ul><li>SciFi_Other</li><li>SciFi_Space</li></ul> |
+| File                                                                                              | Status   | Cover                                                                                                                                                   | System | Style    | Prep  | Genre                                                                                     |
+| ------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------- | ----- | ----------------------------------------------------------------------------------------- |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/Blades in the Dark\|Blades in the Dark]] | Wishlist | ![coverimg\|100](https://bladesinthedark.com/sites/default/files/inline-images/blades_cover2.jpg)                                                       | BitD   | Homebrew | Equal | <ul><li>Fantasy_Urban</li><li>Punk_Steam</li><li>Crime</li><li>Action_Adventure</li></ul> |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/DnDestiny\|DnDestiny]]                   | Playing  | ![coverimg\|100](https://images.squarespace-cdn.com/content/v1/5b224b7cd274cb79a2da5175/c8960bb0-f54b-4a74-9c72-6e9498d2eb6e/PGB_ExportedFromPDF.png)   | 5e     | Sandbox  | Low   | <ul><li>SciFi_Other</li><li>Mythic</li></ul>                                              |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/Star Wars 5e\|Star Wars 5e]]             | Playing  | ![coverimg\|100](https://external-preview.redd.it/iN7RrG0453D4qNznslzlwl809gqj7DLUm1oNYquzJ_4.jpg?auto=webp&s=75154663332c9bfefe57d38236e97703be66d298) | 5e     | Sandbox  | Low   | <ul><li>SciFi_Other</li><li>SciFi_Space</li></ul>                                         |
 
 
 ****
