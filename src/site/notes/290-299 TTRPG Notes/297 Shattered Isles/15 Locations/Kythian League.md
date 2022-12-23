@@ -8,7 +8,7 @@
 Where the main story resides.
 
 Language: Kythar
-Capital: Kivan, previously known as Kithwall, also known as Pinch Point
+Capital: [[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Kivan\|Kivan]], previously known as Kithwall, also known as Pinch Point
 
 Based off northern Europe and western Russia.
 Akin to Akoros
