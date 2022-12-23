@@ -11,7 +11,8 @@ This was once a storybook fantasy world of magic and wonders, which was destroye
 
 When the sun shattered, sections now orbit themselves in the sky, some disappeared, some sunk into missing parts of the sea, and some have lingered closer to the mountain peaks of the Isles - rendering the old capital of Akharia into blistering desert, sinking the old cities of Rodest into eternal night, and dimming Kythia into twelve-hour cycles of water light.
 
-The moon looms huge and bright, swelling with each passing year, as if drawn ever closer by some terrible power. During certain phases of its transit, the moon appears to multiply across the sky, in pairs and trios of sibling lights, as if reflected on the facets of a vast crystalline dome - now known as Selune and Sarlunar. It is not known what causes these pale, dimmer sisters to appear, but occultists and natural philosophers have no shortage of arcane explanations and scientific hypotheses.
+The moon looms huge and bright, swelling with each passing year, as if drawn ever closer by some terrible power. During certain phases of its transit, the moon appears to multiply across the sky, in pairs and trios of sibling lights, as if reflected on the facets of a vast crystalline dome - now known as Selune (with a 13 day cycle) and Sarlunar (with a 79 day cycle).
+It is not known what causes these pale, dimmer sisters to appear, but occultists and natural philosophers have no shortage of arcane explanations and scientific hypotheses.
 
 The ancient stars still hang in the black sky, though their arrangements sometimes swirl and change according to unknown principles of celestial motion.
 
