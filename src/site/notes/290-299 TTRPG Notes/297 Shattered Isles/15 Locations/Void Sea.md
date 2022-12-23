@@ -5,4 +5,4 @@
 
 # The Void Sea
 
-The “water” of the Void Sea seems to be composed of opaque black ink, but it’s possible to see constellations of shimmering stars far below the surface. 
+When the oceans turned to black ink during the cataclysm, a new realm of constellations appeared in the depths of the seas—millions of tiny pinpoints of light, somehow clearly visible far below the waves. To sail upon the waters of the Shattered Isles is to be flung into the void—the crushing dark of black sky upon black water, stars far above and stars far below. Not every sailor is able to keep their sanity.
