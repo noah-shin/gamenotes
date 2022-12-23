@@ -18,6 +18,22 @@ The savvy and the ruthless of Kivan do well to position themselves to profit fro
 
 Akin to Duskvol
 
+
+## Festivals
+
+Seltide : Last day of every month
+An informal holiday based upon the folk-practice honouring a forgotten sky deity.
+
+Arkenvorn : 30th of Kalivet
+Honouring the institution of the Spirit Wardens
+
+Unison : 16th Volnisvet
+Celebrating the end of the Unity War with Rodest (Severos won)
+
+Gratitude: 59th Carilvet
+Honouring the Immortal Emperor’s ascension to the throne and salvation of the Shattered Isles—as well as celebrating thankfulness for other things in life.
+
+
 ## Darkness
 
 Like all the great cities of the Imperium, Kivan operates massive generators around the clock, to produce the power needed for lightning barriers as well as the thousands of electroplasmic lights that illuminate the public thoroughfares. The city is densely packed inside the ring of immense lightning towers that protect it from the murderous ghosts of the blighted deathlands beyond.
@@ -33,6 +49,14 @@ Because of the perpetual darkness, a small hand lantern is practically a require
 Areas of illicit dealings or ill-repute sometimes enforce a “no lamps” policy, so business may be conducted in the anonymous darkness.
 
 ## Law and Order
+
+#### Justice
+
+Under this system, a citizen can expect to receive justice commensurate with their social status and wealth. The Inspectors are famously incorruptible and hold themselves apart from Kivan’s sprawling network of bribery, but the other institutions are bought and paid for by the powers-that-be and rarely (if ever) bite the hand that feeds them. 
+
+The Bluecoats are under general orders to enforce the law, but in practical terms, they serve the needs of the richest and most influential groups and harass the poorest and least powerful—essentially operating as another street gang extorting the underclasses. If you’re captured by the Bluecoats or brought before a magistrate, it’s the depth of your pockets and the breadth of your political connections that will almost always decide the case, not the application of jurisprudence.
+
+It’s often said that everyone is guilty in Kivan, so make sure you get rich before you get caught.
 
 #### Institutions
 
@@ -50,13 +74,68 @@ Areas of illicit dealings or ill-repute sometimes enforce a “no lamps” polic
 
 There is another related institution, the **Spirit Wardens**, but they serve the Emperor directly and are not officially part of Kivan’s law enforcement apparatus. 
 
-#### Justice
+#### City Watch Structure
 
-Under this system, a citizen can expect to receive justice commensurate with their social status and wealth. The Inspectors are famously incorruptible and hold themselves apart from Kivan’s sprawling network of bribery, but the other institutions are bought and paid for by the powers-that-be and rarely (if ever) bite the hand that feeds them. 
+Within the Bluecoats - the order is:
 
-The Bluecoats are under general orders to enforce the law, but in practical terms, they serve the needs of the richest and most influential groups and harass the poorest and least powerful—essentially operating as another street gang extorting the underclasses. If you’re captured by the Bluecoats or brought before a magistrate, it’s the depth of your pockets and the breadth of your political connections that will almost always decide the case, not the application of jurisprudence.
+Constable (Bluecoat) : Bottom of the barrel, standard police grunts. Underpaid and unrespected.
+Report to their first-line sergeant.
+Twelve to fifteen per precinct.
 
-It’s often said that everyone is guilty in Kivan, so make sure you get rich before you get caught.
+&
+
+Corporal : Same pay as Bluecoats, but more responsibility. Shoe-ins for promotion, and effectively a sergeant's assistant.
+Report to their sergeant.
+One or two per sergeant.
+
+-> 
+
+Sergeant : Handles multiple cases at a time, responsible for the general running of things.
+Lead 3 to 6 constables and a corporal or two.
+Two or three per precinct.
+
+-> 
+
+Precinct Lieutenant : Responsible for the day-to-day running of a single police 'building'.
+One per precinct.
+Most districts have 3/4 precincts, with one acting as the HQ.
+
+-> 
+
+District Captain : Bitter competition exists to try and get made captain of an 'easy' district like Charterhall.
+Appointed by the Police Commander.
+One per district.
+
+-> 
+
+Commander of the Watch :  Getting made Commander is almost like tenure - the Commander stepping down for any other reason than retirement is extremely unusual.
+Reports directly to the City Council.
+Chosen by council vote.
+
+#### Inspector Structure
+
+A single organisation that has jurisdiction across all of Akaros.
+The number of active individual inspectors in Akaros is a closely guarded secret.
+
+A flat command structure, all inspectors have the same power within the organisation.
+Any given inspector has the power to take over an active police case.
+While the Inspectors are a legally distinct entity, Bluecoats tend to let them do what they want.
+
+Agent : The 'on-the-ground' inspectors, uncorruptable detectives and experts of getting to the bottom of things.
+
+& 
+
+Analyst : Process information - documents, records, deeds. If there's a paper trail, an analyst knows it happened.
+
+&
+
+Spy : Undercover agents, infiltrating criminal organisations and outfits. Masters of subterfuge, fearing nothing.
+
+->
+
+Director : Runs the Inspectors.
+Chosen by the previous Director and Lord Governor. If incumbent or unavailable, chosen by a vote from the Kythian High Council.
+Reports directly to the Emperor.
 
 #### Underworld
 
