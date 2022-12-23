@@ -7,10 +7,10 @@
 
 | File                                                                                                   | Length   | System | Style       | Genre                                             |
 | ------------------------------------------------------------------------------------------------------ | -------- | ------ | ----------- | ------------------------------------------------- |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Forgotten Dreamings\|Forgotten Dreamings]]     | Slowburn | Unique | Interactive | <ul><li>Poetry</li><li>Fantasy_Urban</li></ul>    |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/DnDestiny\|DnDestiny]]                        | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>Mythic</li></ul>      |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/Star Wars 5e\|Star Wars 5e]]                  | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>SciFi_Space</li></ul> |
 | [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Field Guide to Memory\|Field Guide to Memory]] | Capaign  | Unique | Interactive | <ul><li>Punk_Solar</li></ul>                      |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/DnDestiny\|DnDestiny]]                        | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>Mythic</li></ul>      |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/Star Wars 5e\|Star Wars 5e]]                  | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>SciFi_Space</li></ul> |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Forgotten Dreamings\|Forgotten Dreamings]]     | Slowburn | Unique | Interactive | <ul><li>Poetry</li><li>Fantasy_Urban</li></ul>    |
 
 
 # 201 - Solo
@@ -84,8 +84,9 @@
 
 ### Oneshots
 
-| File | Status | Cover | System | Style | Prep | Genre |
-| ---- | ------ | ----- | ------ | ----- | ---- | ----- |
+| File                                                                                | Status | Cover                                                                            | System | Style | Prep | Genre                                                 |
+| ----------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------- | ------ | ----- | ---- | ----------------------------------------------------- |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/The Mustang\|The Mustang]] | \-     | ![coverimg\|100](https://img.itch.zone/aW1nLzMzMDQ4OTcucG5n/original/1aQyIW.png) | \-     | \-    | \-   | <ul><li>Western_Weird</li><li>Horror_Gothic</li></ul> |
 
 
 ### Slowburn
@@ -96,11 +97,8 @@
 
 ### Campaign
 
-| File                                                                                              | Status   | Cover                                                                                                                                                   | System | Style    | Prep  | Genre                                                                                     |
-| ------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------- | ----- | ----------------------------------------------------------------------------------------- |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/Blades in the Dark\|Blades in the Dark]] | Wishlist | ![coverimg\|100](https://bladesinthedark.com/sites/default/files/inline-images/blades_cover2.jpg)                                                       | BitD   | Homebrew | Equal | <ul><li>Fantasy_Urban</li><li>Punk_Steam</li><li>Crime</li><li>Action_Adventure</li></ul> |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/DnDestiny\|DnDestiny]]                   | Playing  | ![coverimg\|100](https://images.squarespace-cdn.com/content/v1/5b224b7cd274cb79a2da5175/c8960bb0-f54b-4a74-9c72-6e9498d2eb6e/PGB_ExportedFromPDF.png)   | 5e     | Sandbox  | Low   | <ul><li>SciFi_Other</li><li>Mythic</li></ul>                                              |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/Star Wars 5e\|Star Wars 5e]]             | Playing  | ![coverimg\|100](https://external-preview.redd.it/iN7RrG0453D4qNznslzlwl809gqj7DLUm1oNYquzJ_4.jpg?auto=webp&s=75154663332c9bfefe57d38236e97703be66d298) | 5e     | Sandbox  | Low   | <ul><li>SciFi_Other</li><li>SciFi_Space</li></ul>                                         |
+| File | Status | Cover | System | Style | Prep | Genre |
+| ---- | ------ | ----- | ------ | ----- | ---- | ----- |
 
 
 ****
@@ -109,13 +107,15 @@
 
 ### Oneshots
 
-| File | Status | Cover | System | Style | Prep | Genre |
-| ---- | ------ | ----- | ------ | ----- | ---- | ----- |
+| File                                                                                                | Status | Cover                 | System | Style | Prep  | Genre                                 |
+| --------------------------------------------------------------------------------------------------- | ------ | --------------------- | ------ | ----- | ----- | ------------------------------------- |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/Lasers and Feelings\|Lasers and Feelings]] | \-     | ![coverimg\|100](img) | \-     | Style | Prepp | <ul><li>SciFi</li><li>Gener</li></ul> |
 
 
 ### Slowburn
-| File | Status | Cover | System | Style | Prep | Genre |
-| ---- | ------ | ----- | ------ | ----- | ---- | ----- |
+| File                                                                        | Status | Cover                                                                                       | System  | Style | Prep  | Genre                                 |
+| --------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------- | ------- | ----- | ----- | ------------------------------------- |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/Chamber\|Chamber]] | \-     | ![coverimg\|100](https://img.itch.zone/aW1hZ2UvODM4NTk2LzQ3MDA2NDUucG5n/347x500/5WH0cH.png) | Paragon | \-    | Prepp | <ul><li>Scifi</li><li>Gener</li></ul> |
 
 
 ### Campaign
