@@ -7,7 +7,7 @@
 
 <!--TIMELINE BEGIN tags='IEHistory'--><div class="timeline"><div class="timeline-container timeline-right"><h2 style="text-align: right;">286-1-01 Current Day</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card cyan">
 </div></div></div><div class="timeline-container timeline-left">286-1-01<div class="timeline-event-list" style="display: block"><div class="timeline-card cyan"><article><h3><a class="internal-link" href="/290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/13.01 Events/Imperial Capital Moves.md">Imperial Capital Moves</a></h3></article><p> 
-	The Immortal Emperor moves their capital from Cortis to Kithwall - now known as [[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Kivan\|Kivan]].
+	The Immortal Emperor moves their capital from Cortis to Kithwall - now known as [[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Kivan/Kivan\|Kivan]].
 </p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">284-5-16</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card cyan"><article><h3><a class="internal-link" href="/290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/13.01 Events/End of the Unity War.md">End of the Unity War</a></h3></article><p> 
 	The Unity War comes to an end when Rodest surrenders after Queen Alayne and her husband are killed by an assassin.
 </p></div></div></div><div class="timeline-container timeline-left"><h2>239-4-36</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card cyan"><article><h3><a class="internal-link" href="/290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/13.01 Events/Start of the Unity War.md">Start of the Unity War</a></h3></article><p> 
