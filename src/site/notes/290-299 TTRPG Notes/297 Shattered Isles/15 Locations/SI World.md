@@ -20,18 +20,18 @@ The ancient stars still hang in the black sky, though their arrangements sometim
 ## Imperium
 
 The Imperium spreads across the Shattered Isles, leaving only A'otua and Chunhi out.
-The center originates from Khorotia's [[Cortis\|Cortis]], but moved to reside in [[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Kivan\|Kivan]] in 286 IE.
+The center originates from Khorotia's [[Cortis\|Cortis]], but moved to reside in [[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Kivan/Kivan\|Kivan]] in 286 IE.
 
-[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Khorotian Empire\|Khorotian Empire]]
-[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Kythian League\|Kythian League]]
-[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Akharia\|Akharia]]
-[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Blighted Lands\|Blighted Lands]]
-[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Al'tham\|Al'tham]]
+[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/15.10 Nations/Khorotian Empire\|Khorotian Empire]]
+[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/15.10 Nations/Kythian League\|Kythian League]]
+[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/15.10 Nations/Akharia\|Akharia]]
+[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/15.10 Nations/Blighted Lands\|Blighted Lands]]
+[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/15.10 Nations/Al'tham\|Al'tham]]
 
 ## Non-Imperial
 
-[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Free Nations of A'otua\|Free Nations of A'otua]]
-[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Chunhi Protectorate\|Chunhi Protectorate]]
+[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/15.10 Nations/Free Nations of A'otua\|Free Nations of A'otua]]
+[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/15.10 Nations/Chunhi Protectorate\|Chunhi Protectorate]]
 
-[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/Void Sea\|Void Sea]]
+[[290-299 TTRPG Notes/297 Shattered Isles/15 Locations/15.10 Nations/Void Sea\|Void Sea]]
 
