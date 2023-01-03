@@ -63,7 +63,7 @@ These are games that aren't current regular campaigns, and references that I use
 ### [[_Oneshots \| Oneshot]]
 
 ### Reference
-[[290-299 TTRPG Notes/Systems\|Systems]]
+[[290-299 TTRPG Notes/290 Reference/Systems\|Systems]]
 [[290-299 TTRPG Notes/290 Reference/TTRPG Glossary\|TTRPG Glossary]]
 [[290-299 TTRPG Notes/290 Reference/DND Wiki\|DND Wiki]]
 
