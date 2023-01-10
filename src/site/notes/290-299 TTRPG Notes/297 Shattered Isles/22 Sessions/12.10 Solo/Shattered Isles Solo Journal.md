@@ -9,5 +9,5 @@
 
 ****
 
-[[290-299 TTRPG Notes/297 Shattered Isles/22 Sessions/12.10 Solo/Taliesin Al'In\|Taliesin Al'In]]
-[[290-299 TTRPG Notes/297 Shattered Isles/22 Sessions/12.10 Solo/Ophelia Bell\|Ophelia Bell]]
+[[290-299 TTRPG Notes/297 Shattered Isles/22 Sessions/12.10 Solo/Characters/Taliesin Al'In\|Taliesin Al'In]]
+[[290-299 TTRPG Notes/297 Shattered Isles/22 Sessions/12.10 Solo/Characters/Ophelia Bell\|Ophelia Bell]]
