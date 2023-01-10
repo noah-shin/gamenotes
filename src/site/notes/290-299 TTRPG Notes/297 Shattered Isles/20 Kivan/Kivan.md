@@ -19,10 +19,8 @@ The savvy and the ruthless of Kivan do well to position themselves to profit fro
 
 ## Inspirations
 
-Akin to Duskvol within BitD
 Gangs = Six of Crows, Peaky Blinders
-City = Dishonored (without the rat plague)
-People = Ankh-Mopork (without order)
-Sessions = Leverage 
-Heists = Locke Lamora
-Other = Bloodborne, Mistborn
+City = Dishonored (without the rat plague, but with ghosts), AC Syndicate
+People = Ankh-Mopork (without order) from Discworld, Leyendecker 
+Heists = Locke Lamora, Leverage
+Other = Bloodborne, Mistborn, Arcane
