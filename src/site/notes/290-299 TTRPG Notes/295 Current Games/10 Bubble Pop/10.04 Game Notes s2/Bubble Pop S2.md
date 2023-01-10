@@ -1181,7 +1181,7 @@ twins - each other
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/16. What for do you mourn\|16. What for do you mourn]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]] | [[18/\|18/]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/16. What for do you mourn\|16. What for do you mourn]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/17.5 Sidegame Shenanigans\|17.5 Sidegame Shenanigans]] >>
 
 Only barrier left is a stone wall
 We encounter another series of sigils - we can restore some of hte lost love
@@ -1217,7 +1217,7 @@ penny does 4 piercing shots in a row
 
 
 
-[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/17. The Showdown\|17. The Showdown]] | [[18. \|18. ]]
+[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/17. The Showdown\|17. The Showdown]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/18. Le Petit Mort\|18. Le Petit Mort]]
 
 Sidegame from a Tuesday game - set in the Bubble Pop universe
 DM: Lauren
@@ -1314,5 +1314,42 @@ then pushes blank through them
 the portal closes, mox bugs out
 
 
+
+</div></div>
+
+
+#### 18. Le Petit Mort
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/17.5 Sidegame Shenanigans\|17.5 Sidegame Shenanigans]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]] |  >>
+
+35 more demons turned up
+
+nyx is engorging and their arm is vibrating
+
+we're all starting to fuck off
+ansel makes a fucking BAD DEAL
+ansel turns, makes weird kissy noises, skunk spray, squirted bad vibes, FAILED
+FUCKING
+DIES
+
+Everyone but Nyx, Anchy, Lei and Benjy dimension door out
+nyx and penny share a look - penny _begging_ nyx to get out
+
+everyone but achy is teleported out
+achyls is teleporting out, 30ft at a time
+something happens in the room, we don't know cause we all left
+
+lando tries to rez ansel. its counterspelled? lando counterspells that, it works
+out of nowhere, a thin green ray hits ansel and they die again, disintegrated
+
+rand leaning against a nearby tree
+steps forward to kill the rest, then stops
+'its not fun when its not a challenge'
 
 </div></div>
