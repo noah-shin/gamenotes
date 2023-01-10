@@ -38,17 +38,17 @@ Constable Reyf
 
 ## Allies
 
-Kivan Council
-Billhooks
-Kivan Crows
-Ironhook Prison
-Lord Scurlock
-The Unseen
+[[290-299 TTRPG Notes/297 Shattered Isles/19 Factions/Kivan Council\|Kivan Council]]
+[[Billhooks\|Billhooks]]
+[[Kivan Crows\|Kivan Crows]]
+[[290-299 TTRPG Notes/297 Shattered Isles/19 Factions/Ironhook Prison\|Ironhook Prison]]
+[[290-299 TTRPG Notes/297 Shattered Isles/19 Factions/Lord Scurlock\|Lord Scurlock]]
+[[290-299 TTRPG Notes/297 Shattered Isles/19 Factions/The Unseen\|The Unseen]]
 
 ## Enemies
 
-Imperial Military
-Underworld
+[[290-299 TTRPG Notes/297 Shattered Isles/19 Factions/Imperial Military\|Imperial Military]]
+[[Underworld\|Underworld]]
 
 ****
 
