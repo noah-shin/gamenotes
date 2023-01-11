@@ -40,15 +40,19 @@ Ruled by the Immortal Emperor, the Imperium spreads across the Shattered Isles, 
 
 [[290-299 TTRPG Notes/297 Shattered Isles/15 The World/Shattered Isle Languages\|Shattered Isle Languages]]
 [[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/Shattered Isle Counting Time\|Shattered Isle Counting Time]]
+[[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/SI Celestial Bodies\|SI Celestial Bodies]]
 
 ## Magic
 
-[[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Kivan Haunted\|Kivan Haunted]]
-[[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/SI Celestial Bodies\|SI Celestial Bodies]]
-[[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/SI Monsters and Beings\|SI Monsters and Beings]]
-[[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/SI Rituals\|SI Rituals]]
-[[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Strange Forces in the Isles\|Strange Forces in the Isles]]
+[[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Shattered Magic\|Shattered Magic]]
+[[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Shattered Creatures\|Shattered Creatures]]
 [[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Void Leviathans\|Void Leviathans]]
+[[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Fight in the Dark\|Fight in the Dark]]
+
+
+
+
+
 
 # Kivan Society
 
