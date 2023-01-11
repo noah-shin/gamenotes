@@ -15,26 +15,13 @@ This was once a storybook world of magic and wonders, which was destroyed and an
 
 ****
 
-# [[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Kivan\|Kivan]]
-
-[[290-299 TTRPG Notes/297 Shattered Isles/Kivan Factions\|Kivan Factions]]
-[[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Districts/Kivan Districts\|Kivan Districts]]
-
-****
-
-# NPCs
-
-[[290-299 TTRPG Notes/297 Shattered Isles/11 NPCs/Kivan NPC Groups\|Kivan NPC Groups]]
-
-[[290-299 TTRPG Notes/297 Shattered Isles/11 NPCs/Immortal Emperor\|Immortal Emperor]]
-
-****
-
 # Nations
 
-Ruled by the Immortal Emperor, the Imperium spreads across the Shattered Isles, leaving only A'otua and Chunhi out.
+Ruled by the Immortal Emperor, the Imperium spreads across the Shattered Isles, leaving only A'otua and Chunhi with any claim to independence.
 
-The centre originated from Khorotia's [[Cortis\|Cortis]], but moved to reside in [[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Kivan\|Kivan]] in 286 IE.
+[[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/History of the Shattered Isles\|History of the Shattered Isles]]
+
+[map in progress]
 
 [[290-299 TTRPG Notes/297 Shattered Isles/15 The World/Khorotian Empire\|Khorotian Empire]]
 [[290-299 TTRPG Notes/297 Shattered Isles/15 The World/Kythian League\|Kythian League]]
@@ -49,13 +36,10 @@ The centre originated from Khorotia's [[Cortis\|Cortis]], but moved to reside in
 
 ****
 
-# Wiki
+## Worldbuilding
 
-## Calendar
-
-[[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/History of the Shattered Isles\|History of the Shattered Isles]]
-[[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/Kivan Festivals\|Kivan Festivals]]
-[[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/SI Calendar\|SI Calendar]]
+[[290-299 TTRPG Notes/297 Shattered Isles/15 The World/Shattered Isle Languages\|Shattered Isle Languages]]
+[[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/Shattered Isle Counting Time\|Shattered Isle Counting Time]]
 
 ## Magic
 
@@ -67,6 +51,8 @@ The centre originated from Khorotia's [[Cortis\|Cortis]], but moved to reside in
 [[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Void Leviathans\|Void Leviathans]]
 
 # Kivan Society
+
+[[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/Kivan Festivals\|Kivan Festivals]]
 
 ## [[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Academia/Academia\|Academia]]
 
@@ -98,3 +84,18 @@ The centre originated from Khorotia's [[Cortis\|Cortis]], but moved to reside in
 ## Vices
 
 [[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Vices/Bloodneedle\|Bloodneedle]]
+
+# [[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Kivan\|Kivan]]
+
+[[290-299 TTRPG Notes/297 Shattered Isles/Kivan Factions\|Kivan Factions]]
+[[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Districts/Kivan Districts\|Kivan Districts]]
+
+****
+
+# NPCs
+
+[[290-299 TTRPG Notes/297 Shattered Isles/11 NPCs/Kivan NPC Groups\|Kivan NPC Groups]]
+
+[[290-299 TTRPG Notes/297 Shattered Isles/11 NPCs/Immortal Emperor\|Immortal Emperor]]
+
+****
