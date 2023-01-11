@@ -7,7 +7,9 @@
 
 Where the main story resides.
 
-Also known as the **Kythian League,** the northern most isles are industrialised and ruthless, and is now home to the Capitol of the The Imperium - [[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Kivan\|Kivan]] . 
+[map in progress]
+
+Also known as the **Kythia,** the northern most isles are industrialised and ruthless, and is now home to the Capitol of the The Imperium - [[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Kivan\|Kivan]] . 
 
 A land of dark, petrified forests and rocky hills, it once resembled Medieval England and traditional swords and sorcery games. The rich coastal cities get their wealth from leviathan hunting and from mining colonies deep inland. 
 
