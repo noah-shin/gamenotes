@@ -13,4 +13,4 @@ Only the bravest or most desperate of captains dare to sail beyond sight of land
 
 Not every sailor is able to keep their sanity.
 
-But not only must you worry for the metaphysical, but the tangible. A host of new, monstrous sea creatures have emerged from the depths with a penchant for violence and a hunger for the flesh of humans and animals alike - the [[Leviathans\|Leviathans]].
+But not only must you worry for the metaphysical, but the tangible. A host of new, monstrous sea creatures have emerged from the depths with a penchant for violence and a hunger for the flesh of humans and animals alike - the [[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Void Leviathans\|Void Leviathans]].
