@@ -14,7 +14,7 @@ It spread across the Shattered Isles, from the central nation of Khorotia, and t
 
 ## 707 PC - 1 - 01  (707 years before the Cataclysm, in the first month, the first day)
 
-> The old Kythian kingdom establishes a port town at the river delta.
+> The old Kythian kingdom establishes a port town at the river delta ontop of the village Pinch Point, named Kithwall.
 > It trades between the mirroring [[Porthos\|Porthos]] across the bay, and the coal mining settlement [[Duwall\|Duwall]] in the near mountains.
 
 ## 58 PC - 1 - 02
@@ -79,7 +79,7 @@ The Great Conflagration
 
 ## 786 IE - 1 - 01
 
-> The Immortal Emperor moves their capital from Cortis to Kithwall - now newly named Kivan.
+> The Immortal Emperor moves their capital from Cortis to Kithwall - now newly named [[290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Kivan\|Kivan]].
 
 ## 788 IE
 
