@@ -6,7 +6,7 @@
 When the sun shattered, sections now orbit themselves in the sky, some disappeared, some sunk into missing parts of the sea, and some have lingered closer to the mountain peaks of the Isles - rendering the old capital of Akharia into blistering desert, sinking the old cities of Rodest into eternal night, and dimming Kythia into twelve-hour cycles of watery light.
 
 Out of the chaos rose the Immortal Emperor - and with them, the Imperium.  
-It spread across the Shattered Isles, from the centeral nation of Khorotia, and their central capitol Cortis.
+It spread across the Shattered Isles, from the central nation of Khorotia, and their central capitol Cortis.
 
 **PC:** Pre-Cataclysm. **PSC**: Post-Cataclysm. **IE:** Imperial Era
 
@@ -23,27 +23,26 @@ It spread across the Shattered Isles, from the centeral nation of Khorotia, and 
 
 ## 55 PC - 1 - 01
 
-> Kythia begins to splinter into civil war, caused by the prophecy. There is a military coup, overthrowing the Kythian Emperor Kadriss.
+> Kythia begins to splinter into civil war, caused by the prophecy. There is a military coup, overthrowing the Kythian [[Emperor Kadriss\|Emperor Kadriss]].
 > The war is violent but brief, and the prophet and Emperor are banished.
 
 > Criminals, refugees, and loyalists all dissappear into the northern reaches of Kythia, last seen in Kivan.
 
 ## 0 - 0 - 0
 
-[[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/13.01 History/SI Cataclysm\|SI Cataclysm]]
-> A Cataclysm
+> A [[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/13.01 History/SI Cataclysm\|Cataclysm]]
+
 > The world is **destroyed**
 > The Gates of Death are broken in an unknown working, shattering the nation of E**d**n into fragmented isles, unleashing spirits and strange forces, twisting the sky into something unrecognisable.
 
 ## 74 PSC - 6 - 58 / 1 IE - 1 - 01
 
-[[290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/13.01 History/Imperial Ascension\|Imperial Ascension]]
 > Out of the chaos emerges one who claims to have the answers. To make life liveable again.
 > The Immortal Emperor ascends their throne in Cortis, immediately enacting major changes across Khorotia.
 
 ## 104 PSC / 40 IE - 1 - 01
 
-> Within 40 years, the other major islands come under Imperial rule, exchanging allegiance for security and order.
+> Within 40 years, the other major [[290-299 TTRPG Notes/297 Shattered Isles/The Shattered Isles#Nations\|lands]] come under Imperial rule, exchanging allegiance for security and order.
 
 ## 193 IE - 1 - 02
 
@@ -53,12 +52,17 @@ It spread across the Shattered Isles, from the centeral nation of Khorotia, and 
 
 ## 256 IE - 3 - 47
 
-> The first hunters succeed at harvesting and refining [[Leviathan\|Leviathan]] blood, reaping a fuel source that will eventually power the Imperium.
+> The first hunters succeed at harvesting and refining [[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Void Leviathans\|Void Leviathans]] blood, reaping a fuel source that will eventually power the Imperium.
 
-## 272 IE - 2 - 19
+## 314 IE
+
+The Great Conflagration
+
+## 372 IE - 2 - 19
 
 > The Immortal Emperor decrees that all cities of the Imperium are to begin construction of lightning barriers to replace waning protective sorceries. 
 > The first prototype barrier towers are built in Kithwall around the district that will become Charterhall.
+> While the stated reason for these barriers was the obvious threat from the ghostlands, many wonder if the barriers—fueled by the leviathans’ own blood—were not also meant as a deterrent against the great beasts returning to our coastal metropoles.  
 
 ## 739 IE - 4 - 36
 
