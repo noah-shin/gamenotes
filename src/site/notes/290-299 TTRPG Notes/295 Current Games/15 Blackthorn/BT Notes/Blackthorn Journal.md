@@ -47,7 +47,7 @@ First fight - Nikiti vs Silk, N wins
 
 Rudy wanted to know if I've shared everything about my dad?
 Silk's fave memory - being in the fields with my sibling
-Rudy's - meeting Galodril
+Rudy's - meeting Calandra Aldarina
 Jackie's - waking everyday with Jasper
 Nikiti's - wedding day
 
@@ -400,11 +400,11 @@ Silk: That was a cool cat, wasn't it?
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/5. Silk dies\|5. Silk dies]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[7.\|7.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/5. Silk dies\|5. Silk dies]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/7.\|7.]] >>
 03/01/2022
 
 Thoughts: The angels became the costumes?
-Basil turns up
+Rudy turns up
 
 Crowd had gone to front door
 Dompins went opposite
@@ -442,9 +442,9 @@ rudy finishes the arrest
 
 take the hat out
 khinnis : do you know who i am?
-basil: you're in an area you shouldn't be in here, with suspicious chanting
+rudy: you're in an area you shouldn't be in here, with suspicious chanting
 
-basil figures out he wasn't invited
+rudy figures out he wasn't invited
 but was on the list?
 wasn't fearing for his life
 never met the lady of the house here
