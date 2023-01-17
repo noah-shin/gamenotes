@@ -23,4 +23,4 @@ Some people see attunement as a normal part of life—a new human sense that is 
 
 ## Spirit Well
 
-A rift in the veil of reality, perhaps between this plane and the ghostfield, where [[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Shattered Creatures\|Shattered Creatures]] congregate. In ancient myth, they a spawning ground for demons.
+A rift in the veil of reality, perhaps between this plane and the ghostfield, where [[290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Shattered Creatures\|Shattered Creatures]] congregate. In ancient myth, they were a spawning ground for demons.
