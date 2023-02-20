@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/290-reference/systems/sys-large/star-wars-5e/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/Star Wars 5e/"}
 ---
 
 `= this.TTRPG.status`
