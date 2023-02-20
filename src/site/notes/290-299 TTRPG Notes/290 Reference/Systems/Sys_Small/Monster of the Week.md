@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/290-reference/systems/sys-small/monster-of-the-week/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/290 Reference/Systems/Sys_Small/Monster of the Week/"}
 ---
 
 [Credit:](https://evilhat.com/product/monster-of-the-week/)
