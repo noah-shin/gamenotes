@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/297-shattered-isles/13-calendar/13-01-history/start-of-the-unity-war/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/13.01 History/Start of the Unity War/","tags":["timeline","IEHistory"]}
 ---
 
 
