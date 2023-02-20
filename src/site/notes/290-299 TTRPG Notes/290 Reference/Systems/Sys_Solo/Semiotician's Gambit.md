@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/290-reference/systems/sys-solo/semiotician-s-gambit/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Semiotician's Gambit/"}
 ---
 
 `= this.TTRPG.status`
