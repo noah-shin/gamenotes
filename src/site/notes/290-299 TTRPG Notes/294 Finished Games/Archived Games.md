@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/294-finished-games/archived-games/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/294 Finished Games/Archived Games/"}
 ---
 
 
