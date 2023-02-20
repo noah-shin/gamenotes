@@ -106,5 +106,6 @@ Not listing them all here because there are So Many, but they should be linked t
 
 ## Nilwelv
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Dead Carts\|Dead Carts]]
-[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Blue Blood Drops\|Blue Blood Drops]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Wasting\|Wasting]]
+[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Nilwelv Plants\|Nilwelv Plants]]
+[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Nilwelv Animals\|Nilwelv Animals]]
