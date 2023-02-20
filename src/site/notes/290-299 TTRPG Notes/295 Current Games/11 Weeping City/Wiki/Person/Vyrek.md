@@ -10,4 +10,4 @@
 Purple eyes.
 
 
-Was once part of [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Auvryath\|Auvryath]], but avoided the Uprising by becoming the animal handler of [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Desor\|Desor]].
+Was once part of [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Auvryath\|Auvryath]], but avoided the Uprising by becoming the Master of Herds of [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Desor\|Desor]].
