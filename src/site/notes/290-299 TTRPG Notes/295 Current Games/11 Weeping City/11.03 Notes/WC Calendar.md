@@ -332,7 +332,7 @@ garlick – weapon does extra fire damage :eyes:
 
 kato – frostbitten wood axe – where the white glow is from
 fabia has familiar
-– [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Jeremy\|jeremy]] – tiny lil monster 
+– [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Jeremy\|Jeremy]] – tiny lil monster 
 atton decapitates a fleeing guy 
 sas pulls the elder mentor role – -6hp = 11
 
@@ -341,8 +341,9 @@ kato drinks potion of teleport
 – garlick tries to hit it out of his hand 
 jeremy grabs last guy's leg, crawls up and screams in his face 
 – fabia stabs him 
-– sas grabs him 'whats going on with [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter\|Cutter]]' guy – “cutter ..... eant”, dies
-mispronounciation of [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Elant\|Elant]] kulg Isa of House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Houses/Maytyl\|Maytyl]] - oldest son of house maytyl
+– sas grabs him 'whats going on with [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Cutter\|Cutter]]' 
+guy – “cutter ..... eant”, dies
+mispronounciation of [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Elant\|Elant]] kulg Isa of House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Houses/Maytyl\|Maytyl]] - oldest son of house maytyl
 
 fabia
 – whos cutter and why are we involved 
@@ -359,14 +360,14 @@ Heading to [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/00
 – bright red mushrooms 
 – decent looking place 
 – more mid-tier than lower 
-– garlick recognises [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Tilly\|tilly]] 
+– garlick recognises [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Tilly\|Tilly]] 
 — dryder??? — spider body — neighbourhood healer 
 – barkeep – sickly human with glowing green eyes and mushrooms growing out their face 
 — everyone who works here has looked like that
 
 garlick takes sas and fabia to tilly +10hp 
 – jeremy doesn't want to be ugly TT.TT 
-– [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/002. Party/Tilly\|tilly]] averts eyes from any drow
+– [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Tilly\|Tilly]] averts eyes from any drow
 
 barkeep's voice is v strangled 
 get a room
@@ -768,7 +769,7 @@ We agree to split up, research team and other
 
 
 Fabia's boss - drow with blonde hair
-- Uylesses (?)
+- Ulysses (?)
 
 Sas' friend in [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/003. Houses/Council/La'val\|La'val]] - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/005. People/NPCs/Auneriel\|Auneriel]]
 - was the one who warned Sas about the Shalvyl mutiny
@@ -914,7 +915,7 @@ Martha finds a book
 -- eos casts inflict wounds
 -- leave portal, there are some shavyl guards and another big tarantula
 
-sas escapes, tells Ulyus to watch his back with [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato\|Kato]]
+sas escapes, tells Ullus to watch his back with [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.02 Wiki/005. People/Unknown/Kato\|Kato]]
 Garlick unconscious in sas' safehouse
 x3 smoky dragons following Sas
 - kato 'see you around uyulus'
@@ -1332,6 +1333,7 @@ no div magic
 
 eos and martha have a chat
 reveal llargent identity
+eos tells m that he's been told to bring her in
 m doesn't know Lara'el
 
 ### next day
@@ -1374,7 +1376,7 @@ one of the OG dragons
 
 
 
-[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush\|22.08.25 Silk House Ambush]] -> [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> 
+[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/22.08.25 Silk House Ambush\|22.08.25 Silk House Ambush]] -> [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/WC Calendar\|WC Calendar]] -> [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/11.03 Notes/22.12.12 Back Room Politics\|22.12.12 Back Room Politics]]
 
 </div></div>
 
@@ -1443,7 +1445,6 @@ did get contacted by garlick, headed to shalvyl house
 sneaking there
 
 EOS
-talk to matron - does give necklace (should prevent being divined on)
 stalking around looking for arnet
 tug on robe by a a little young yellow kobold
 
@@ -1531,6 +1532,7 @@ eos: what do you know of aunelis
 i: i know it's empty, and the only feasible place in the city
 eos: but why is it so empty?
 i: ghost stories. 
+e: ghost stories often have real things behind them. just a word of warning.
 i: we're planning on hitting the clearing that's pretty close to the cavern wall
 eos: what if there was a distraction at house shalvyl
 
