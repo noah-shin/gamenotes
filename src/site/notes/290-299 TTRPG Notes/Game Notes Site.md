@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/game-notes-site/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/Game Notes Site/","tags":["gardenEntry"]}
 ---
 
 
