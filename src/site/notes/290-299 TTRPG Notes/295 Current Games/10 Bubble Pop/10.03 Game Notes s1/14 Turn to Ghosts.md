@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/295-current-games/10-bubble-pop/10-03-game-notes-s1/14-turn-to-ghosts/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/14 Turn to Ghosts/"}
 ---
 
 
