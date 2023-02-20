@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/297-shattered-isles/22-sessions/12-10-solo/scores/si-solo-1-swan-of-blood/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/297 Shattered Isles/22 Sessions/12.10 Solo/Scores/SI Solo 1 - Swan of Blood/"}
 ---
 
 
