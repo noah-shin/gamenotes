@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/295-current-games/14-resny/14-03-game-notes/4-finale/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/295 Current Games/14 Resny/14.03 Game Notes/4 Finale/"}
 ---
 
 
