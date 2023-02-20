@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/294-finished-games/09-oneshots/oneshots/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/294 Finished Games/09 Oneshots/_Oneshots/"}
 ---
 
 
