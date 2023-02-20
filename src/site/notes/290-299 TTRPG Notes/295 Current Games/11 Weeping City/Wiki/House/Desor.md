@@ -13,7 +13,7 @@ Wizard - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Syr
 Weaponmaster - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Erynyl\|Erynyl]]
 Patron - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Lirya\|Lirya]]
 Elderboy - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Artel\|Artel]]
-Animal handler - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Vyrek\|Vyrek]]
+Master of Herds - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Vyrek\|Vyrek]]
 
 # Description
 
@@ -23,7 +23,7 @@ Mistresses of the Abyss - abyssal beastmasters with demon slaves; masters of con
 
 # History
 
-During the [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Hallowing\|Hallowing]], the original Matron - [[Alia\|Alia]] - sacrificed her family for the Blessing - Dominion.
+During the [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Hallowing\|Hallowing]], the original Matron - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Aliya\|Aliya]] - sacrificed her family for the Blessing - Dominion.
 Her daughter [[La'rael\|La'rael]] survived, hidden, and also inherited the Blessing.
 
 # Building
