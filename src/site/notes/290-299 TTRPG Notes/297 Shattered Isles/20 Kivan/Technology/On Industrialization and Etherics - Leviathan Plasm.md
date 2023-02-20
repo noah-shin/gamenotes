@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/297-shattered-isles/20-kivan/technology/on-industrialization-and-etherics-leviathan-plasm/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/297 Shattered Isles/20 Kivan/Technology/On Industrialization and Etherics - Leviathan Plasm/"}
 ---
 
 
