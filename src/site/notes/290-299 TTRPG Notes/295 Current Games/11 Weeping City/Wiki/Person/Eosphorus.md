@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/295-current-games/11-weeping-city/wiki/person/eosphorus/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Eosphorus/"}
 ---
 
 
@@ -7,12 +7,12 @@
 
 
 **ALIGNMENT** : Lawful Evil
-**DEITY** : [[150-200 Notes/151 Archive/2022 Notes/11 Weeping City/11.02 Wiki/005. People/Gods/Kiaransalee\|Kiaransalee]]
+**DEITY** : [[Kiaransalee\|Kiaransalee]]
 **GENDER** : X
 
 ---
 
-**ALIAS** : [[Eos' Aliases
+**ALIAS** : [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Eos' Aliases\|Eos' Aliases]]
 
 Known as Eosphorus, the diplomat of House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Do'ghym\|Do'ghym]].
 	Meaning dawn-bringer, air, light, lucifer, venus, morningstar
@@ -36,11 +36,13 @@ Its just power and knowledge and position and burning desire that's always tempe
 
 # Backstory
 
-Theirs is a house - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Elag\|Elag]], third son and third daughter, and theirs is a name, Llar'gent, gold rings and thick gold lip-stick.
+Theirs is a house - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Elag\|Elag]], third son and third daughter, and theirs is a name, [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Llar'gent\|Llar'gent]], gold rings and thick gold lip-stick.
 
 They're thirty, a child, a secretary, when Elag finally establishes itself as a noble house, built on shadows and whispers, on secrets ferried from clerks and servant, on their whispered spells and hidden runes.
 
-They're fourty-two and they tell Uss'lyn a rumour they've tugged on until the end of the thread. She's their eldest sister, one whom lets Llar'gent tuck themself into her side, one who has visions of a certain mother's death. So they tell her of a certain House's Sight , and Uss'lyn uses that thread to tie tight a noose.
+Mother tells them, secrets like this aren't allowed to get out.
+
+They're fourty-two and they tell Uss'lyn a rumour they've tugged on until the end of the thread. She's their eldest sister, one whom lets Llar'gent tuck themself into her side, one who has visions of a certain mother's death. So they tell her of a certain House's Sight, and Uss'lyn uses that thread to tie tight a noose.
 
 They're fourty-two and they're third-born and they're the only clerk left, secret-keeper and secret-finder, and they look up to see a phantom holding a sword dripping red against their neck.
 
