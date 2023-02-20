@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/297-shattered-isles/16-magic/shattered-creatures/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/297 Shattered Isles/16 Magic/Shattered Creatures/"}
 ---
 
 
