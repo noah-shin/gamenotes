@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/297-shattered-isles/22-sessions/12-10-solo/shattered-isles-solo-journal/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/297 Shattered Isles/22 Sessions/12.10 Solo/Shattered Isles Solo Journal/"}
 ---
 
 
