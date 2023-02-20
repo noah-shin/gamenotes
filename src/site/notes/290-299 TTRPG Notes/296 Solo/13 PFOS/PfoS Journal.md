@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/296-solo/13-pfos/pfo-s-journal/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/296 Solo/13 PFOS/PfoS Journal/"}
 ---
 
 [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Pocket Full of Stars\|Pocket Full of Stars]]
