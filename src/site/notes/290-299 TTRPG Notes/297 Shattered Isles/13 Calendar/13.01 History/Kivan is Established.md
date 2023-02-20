@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/297-shattered-isles/13-calendar/13-01-history/kivan-is-established/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/13.01 History/Kivan is Established/","tags":["timeline","IEHistory"]}
 ---
 
 
