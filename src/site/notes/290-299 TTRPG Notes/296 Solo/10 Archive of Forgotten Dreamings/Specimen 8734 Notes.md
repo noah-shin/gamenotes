@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/296-solo/10-archive-of-forgotten-dreamings/specimen-8734-notes/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/296 Solo/10 Archive of Forgotten Dreamings/Specimen 8734 Notes/"}
 ---
