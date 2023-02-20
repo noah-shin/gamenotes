@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/290-reference/systems/sys-solo/field-guide-to-memory/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Field Guide to Memory/"}
 ---
 
 [Credit](https://jeeyonshim.itch.io/field-guide-to-memory)
