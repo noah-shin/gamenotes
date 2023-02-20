@@ -36,3 +36,6 @@ Some events were annual.
 
 # Running
 An annual ritual where the drow went out to commit a massacre against a surface community. It was only held where the surface was easily accessible.
+
+# Sporing
+The [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Nilwelv Plants#Common Drop Cups\|Nilwelv Plants#Common Drop Cups]] and [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Nilwelv Plants#Blue Drop Cups\|Nilwelv Plants#Blue Drop Cups]] on the cavern ceiling spore once a year intermittently for a month. Due to the highly paralytic properties of the blue drop cups, it is advised that time outside is limited. 
