@@ -23,10 +23,16 @@ They protect House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/
 Allies with everyone
 Tense with [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Arcice\|Arcice]]
 
-# Magic
+# Blessing
+
+**Silken Weaver's Sight**
+The ability to see into the future and weave it to [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Lolth\|Lolth]]'s Will.
+The extent of their Sight is unknown.
 
 They divine the future in these large, circular looms spun with silk (and in looms in general - smaller looms, y-shaped looms they keep on their person to divine the more immediate future).
 
 They draw their Sight from celestials / fae (which [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Elag\|Elag]] discovered. Uncertain if the looms are legit or just for show.
 
 # History
+
+During the [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Hallowing\|Hallowing]], [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Llar'as\|Llar'as]] sacrificed those left of her House, including her three daughters, to be Blessed.
