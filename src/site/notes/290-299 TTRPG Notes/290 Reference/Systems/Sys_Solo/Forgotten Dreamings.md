@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/290-reference/systems/sys-solo/forgotten-dreamings/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Forgotten Dreamings/"}
 ---
 
 [[290-299 TTRPG Notes/290 Reference/TTRPG Glossary#System Template \| Categories]] <- Delete
