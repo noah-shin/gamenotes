@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/297-shattered-isles/19-factions/bellweather-crematorium/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/297 Shattered Isles/19 Factions/Bellweather Crematorium/"}
 ---
 
 
