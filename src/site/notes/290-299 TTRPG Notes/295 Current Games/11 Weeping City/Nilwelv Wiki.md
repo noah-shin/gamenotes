@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/295-current-games/11-weeping-city/nilwelv-wiki/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/295 Current Games/11 Weeping City/Nilwelv Wiki/"}
 ---
 
 
@@ -64,8 +64,8 @@ Not listing them all here because there are So Many, but they should be linked t
 ## Major
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Feywild\|Feywild]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Oron Aia\|Oron Aia]]
-[[150-200 Notes/151 Archive/2022 Notes/11 Weeping City/11.02 Wiki/006. Lore/Big Locations/Demonweb Pits\|Demonweb Pits]]
-[[150-200 Notes/151 Archive/2022 Notes/11 Weeping City/11.02 Wiki/006. Lore/Big Locations/Infinite Web\|Infinite Web]]
+[[Demonweb Pits\|Demonweb Pits]]
+[[Infinite Web\|Infinite Web]]
 
 ## Cities
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Nilwelv\|Nilwelv]]
