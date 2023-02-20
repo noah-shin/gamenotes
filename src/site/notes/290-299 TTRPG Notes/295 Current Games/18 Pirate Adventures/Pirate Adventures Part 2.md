@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/295-current-games/18-pirate-adventures/pirate-adventures-part-2/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/295 Current Games/18 Pirate Adventures/Pirate Adventures Part 2/"}
 ---
 
 
