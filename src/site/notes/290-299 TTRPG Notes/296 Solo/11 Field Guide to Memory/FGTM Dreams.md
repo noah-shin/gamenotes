@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/296-solo/11-field-guide-to-memory/fgtm-dreams/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/296 Solo/11 Field Guide to Memory/FGTM Dreams/"}
 ---
 
 
