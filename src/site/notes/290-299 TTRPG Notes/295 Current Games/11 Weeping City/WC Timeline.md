@@ -8,7 +8,6 @@
 # Before the Hallowing
 
 Nilwelv was still known as Orthel, and House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Ilfar\|Ilfar]] were the first settlers in the city.
-
 Then, House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Auvryath\|Auvryath]], then House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Do'ghym\|Do'ghym]].
 
 # Founding
@@ -42,5 +41,9 @@ The [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Hallowing\
 	[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Sasrene\|Sasrene]] goes missing
  
 3790 - The three dragons of [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Auvryath\|Auvryath]] are killed in their lair by the [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Organisation/Dark Mother's Hand\|Dark Mother's Hand]], and the house was usurped in a night.
+
+3800 - House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Desor\|Desor]] are poisoned.
+	The Weaponmaster (?), Wizard (?), and youngest priestess ([[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Saba\|Saba]]'s youngest child [?]), as well as most of the House's demon stock, are killed.
+	The House absorb a new Weaponmaster and Wizard - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Erynyl\|Erynyl]] and [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Syra\|Syra]] - are found in the [[Abyss\|Abyss]].
  
 3810 - Current day
