@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/295-current-games/11-weeping-city/wc-quests/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/295 Current Games/11 Weeping City/WC Quests/"}
 ---
 
 
@@ -116,7 +116,7 @@ Why were the dragons in the [[290-299 TTRPG Notes/295 Current Games/11 Weeping C
 2 :
 - Fabia - Purpose of the ticket, when to go?
 - Is [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Arven\|Arven]] dead or not?
-- Who is [[150-200 Notes/151 Archive/2022 Notes/11 Weeping City/11.02 Wiki/005. People/Unknown/Ezara\|Ezara]]?
+- Who is [[Ezara\|Ezara]]?
 - Who is the [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Smiling Mask\|Smiling Mask]]?
 - Who are the clean drow? - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Elant\|Elant]] and ?
 - What does [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Kato\|Kato]] want?
