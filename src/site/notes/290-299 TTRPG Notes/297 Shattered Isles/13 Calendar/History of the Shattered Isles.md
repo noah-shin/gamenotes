@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/297-shattered-isles/13-calendar/history-of-the-shattered-isles/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/297 Shattered Isles/13 Calendar/History of the Shattered Isles/"}
 ---
 
 
