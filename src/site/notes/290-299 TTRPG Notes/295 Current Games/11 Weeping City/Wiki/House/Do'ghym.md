@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/290-299-ttrpg-notes/295-current-games/11-weeping-city/wiki/house/do-ghym/"}
+{"dg-publish":true,"permalink":"/290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Do'ghym/"}
 ---
 
 
@@ -15,7 +15,7 @@ Elderboy - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/I
 
 # Description
 
-Walkers in the Forgotten Ways, Followers of [[150-200 Notes/151 Archive/2022 Notes/11 Weeping City/11.02 Wiki/005. People/Gods/Kiaransalee\|Kiaransalee]] - recluse wizards of death, undeath and revenge; masters of necromancy magics.
+Walkers in the Forgotten Ways, Followers of [[Kiaransalee\|Kiaransalee]] - recluse wizards of death, undeath and revenge; masters of necromancy magics.
 
 # Relationships
 
