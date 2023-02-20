@@ -70,3 +70,5 @@ patterns glow and move, before there's a strange portal
 
 hand goes directly through, warm air on the other side
 thea passes through
+
+[[290-299 TTRPG Notes/295 Current Games/18 Pirate Adventures/Pirate Adventures Part 2\|Pirate Adventures Part 2]]
