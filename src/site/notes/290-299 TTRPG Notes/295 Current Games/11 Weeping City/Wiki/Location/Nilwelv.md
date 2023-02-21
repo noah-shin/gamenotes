@@ -31,6 +31,8 @@ Amrinti is a grand and striking level, full of marvels of stone, crystal and mag
 
 The few buildings here all belong to those of the Council, their stonework integrated into the natural stalagmites, stalactites and cave columns. The average passer-by, not that there are many up here, might not how impractical their architecture is, with a strong reliance on magic to reinforce them.
 
+---
+
 ### Ardulae
 
 Elegance to the point of extremity, Ardulae is stark, empty, and imposing.
@@ -66,6 +68,8 @@ Elegance to the point of extremity, Ardulae is stark, empty, and imposing.
 #### Mols Stalactites
 > Caging House Arcice is a dense stalactite forest, where stone drips from the cavern ceiling and nearly reach the floor, giving the impression of a shadowed forest. Amongst the stone trees, the [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Nilwelv Plants#Blue Drop Cups\|Nilwelv Plants#Blue Drop Cups]] grow most abundantly.
 
+---
+
 ### Elggedir
 
 The second emptiest sub-district, another stalactite forest spans the space, though less dense than the one to the east. 
@@ -88,6 +92,8 @@ To climb the stairs up from Arl'she, it costs 1GP.
 
 Here the houses are built of stone, covered in [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Nilwelv Plants#Black Bark Mushrooms\|Nilwelv Plants#Black Bark Mushrooms]]. There is magic here, though much less.
 
+---
+
 ### Aunelis
 
 The emptiest area within all Nilwelv, Aunelis acts as the city's un(official) graveyard - as most bodies are composted and/or taken out of the city due to a lack of space.
@@ -96,6 +102,8 @@ The shadows here are unnerving, with subconscious whispers and the constant sens
 
 #### Aunelis Square
 > A small-ish courtyard that hasn't been stepped on by a living being since memory here began.
+
+---
 
 ### Elvila
 Home of most of the minor noble houses.
@@ -124,11 +132,15 @@ Home of most of the minor noble houses.
 > 
 > Grand stone stairs lead to open archways that lead into the house.
 
+---
+
 ### Erendor
 
 Home of the wealthiest and most successful merchants, it houses the occasional storefront.
 
 The space is incredibly neat and geometric, almost in defiance of the cavern system the city is built in, with a wide main road, where neat side roads branch off.
+
+---
 
 ### Tar'threl
 
@@ -155,6 +167,8 @@ Arl’she (Lower Nilwelv) - home of mid- and lower-class commoners, and most bus
 
 The houses are made of stone or damp, cave-rotted wood, all covered in [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Nilwelv Plants#Black Bark Mushrooms\|Nilwelv Plants#Black Bark Mushrooms]]. There is little magic present here.
 
+---
+
 ### Shelith
 
 A sub-district in Arl’she; the poorest sub-district, populated by sick, disfigured and/or disgraced drow and most of Nilwelv’s non-drow inhabitants. 
@@ -180,6 +194,8 @@ Stone floors, cobbled and crumbling; crumbling stalagmites and large rocks, holl
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Green Foot\|Green Foot]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/The Blue Bottle\|The Blue Bottle]]
 
+---
+
 ### Renri
 
 A sub-district in Arl’she; the industrial sub-district of Nilwelv, where most exports are manufactured. 
@@ -190,6 +206,8 @@ Entering Renri, you pass great, steel-reinforced stalagmites - factories, feedin
 
 #### Spider Farms
 > Directly beneath Elvila, giant spiders are hoisted up via a pulley system over the wall.
+
+---
 
 ### Intra
 
@@ -210,6 +228,8 @@ A sub-district in Arl’she; home of mid-class commoners
 > 
 > To the right of The Ivory theatre is a black tavern - an imitation of a keep. In shimmering, silver cursive on a sign hanging out on an iron rod- The [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Dark Keep\|Dark Keep]].
 
+---
+
 ### Ekel
 
 A sub-district in Arl’she; home of lower-class commoners (most of Nilwelv’s population). Mushroom farms on the ceiling.
@@ -224,6 +244,8 @@ Stone floors, stone stairs. Houses and shops made from stone, black bark mushroo
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Black Web Inn\|Black Web Inn]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Handsome Duregar\|Handsome Duregar]]
 
+---
+
 ### L'vet - The Veil
 
 A sub-district (of sorts) in Arl'she marked with high crime. 
@@ -233,6 +255,8 @@ Known as the 'Shelith in Ekel', it is formed of dark, narrow walkways; houses we
 #### Notable Locations
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Silk House\|Silk House]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Rug Shop\|Rug Shop]]
+
+---
 
 ### Orlin
 
