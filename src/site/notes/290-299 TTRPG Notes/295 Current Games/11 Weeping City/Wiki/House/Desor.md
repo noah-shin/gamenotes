@@ -30,9 +30,9 @@ Her daughter [[La'rael\|La'rael]] survived, hidden, and also inherited the Bless
 
 Most physically imposing house
 
-Hooked at the top, bridge stretching over a pit 'to the Abyss', spiked archway, two spiked towers both lit w/ fires that never go out
+A great wall, bowed in and hooked with spikes; a sharply curved bridge stretching over a pit into The Abyss; a spiked archway, two spiked towers on either side - lit with a roaring fire that never goes out. Iron gates bearing the House Desor sigil mark the entrance.
 
-Long red & gold banners slumped over the walls, pits of fire along the path, spider stables along one side.
+Beyond the wall, a great stone castle; long, gaudy red and gold bearing the House Desor sigil; pits with crackling fire on either side of a wide path through the courtyard; giant spiders held in the long stables to the left.
 
 # Blessing
 
