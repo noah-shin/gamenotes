@@ -22,17 +22,27 @@ Weaponmaster - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Pers
 
 # Description
 
+House Shavlyl is the most unstable House on the Council.
+
 Servants of the Sword.
+
+# Blessing
 
 Blessed by the Fleshcarver, [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Lolth\|Lolth]] - masters in swordcraft and swordsmanship, wielding strange, adamantine swords and a vast, secret knowledge of ancient drow sword arcana.
 
+They are cursed with the Fleshcarver’s bloodlust and bound permanently to their blades. 
+
 # History
 
-The previous Matron - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Irayrr\|Irayrr]] was killed because she took a high elf consort.
+It's speculated that the previous Matron - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Irayrr\|Irayrr]] - was killed because she took a high elf consort.
 
 # Building
 
-The most simple in design, it has two round towers on either side, with two larger towers behind it, and a looming silver door above a curling pair of staircases.
+The most simple in design, it opens with a great, adamantine gate - simple, with the House Shavlyl sigil worked into it.
+
+Beyond the gate is a heavily guarded courtyard, and a pair of curling staircases that lead to a large archway, with another gate, and a looming silver door.
+
+The building has two round towers on either side, with two larger towers behind it.
 
 The corridor is lined with the swords from the previous Matron Mother's.
 
