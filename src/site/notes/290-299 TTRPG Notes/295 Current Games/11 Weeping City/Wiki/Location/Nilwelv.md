@@ -267,8 +267,8 @@ A great, open space, cut with shallow rivers carved into the cave floor.
 #### Colosseum
 > The colosseum is imposing: a channel of water around it; stairs carved into the walls lead to row upon row of stone seats; a great booth where The Ruling Council sit."
 
-#### Yor'sarg
-> Across the wide bridge into Orling is the Nilwelv military academy. A great, open space, cut with shallow rivers carved into the cave floor. Tall stone towers - metal and magic.
+#### [[Yor'sarg\|Yor'sarg]]
+> Across the wide bridge into Orlin is the Nilwelv military academy. A great, open space, cut with shallow rivers carved into the cave floor. Tall stone towers - metal and magic.
 
 #### Nilwelv Prison
 > Two tall towers rest close to the cave wall on the outskirts of the city - the main compound and the cells. 
