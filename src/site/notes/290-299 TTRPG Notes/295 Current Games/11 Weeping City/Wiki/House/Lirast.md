@@ -23,11 +23,16 @@ Sages of Lolth; devoted to scholarly pursuits, producing the most powerful wizar
 
 # Building
 
-Large stone temple, with a strangely open plan and large archways.
-Most people here are students of [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Yor’faern\|Yor’faern]], the school symbol embroidered on the chest.
+Large stone temple, with a strangely, starkly open plan and large archways.
+Grand stone stairs lead to open archways that lead into the house.
 
-The hallways are all lined with books, arcane symbols carved into these archways in the walls. 
+The entrance hall is shallow and smells of cold leather and ink.
+The hallways are all lined with heavy black tomes of differing wear.
+A tall door with two simple staircases that lead to a landing with two more doors - the House and the Library.
 
+The library has arcane symbols carved into these archways in the walls. 
 Many many spiders here, palm-sized, glowing faintly white - same as [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Davina\|Davina]]'s eyes
+
+Most people here are students of [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Yor’faern\|Yor’faern]], the school symbol embroidered on the chest.
 
 One hallway has a silk tapestry preserved in glass, depicting the [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Hallowing\|Hallowing]]. 
