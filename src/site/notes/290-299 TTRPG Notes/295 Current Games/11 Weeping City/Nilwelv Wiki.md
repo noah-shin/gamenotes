@@ -72,14 +72,14 @@ Not listing them all here because there are So Many, but they should be linked t
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Greyrock\|Greyrock]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Silver Spring\|Silver Spring]]
 
-## City
+## Nilwelv
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Hollows\|Hollows]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Illien Spires\|Illien Spires]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Yor’sarg\|Yor’sarg]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Yor’faern\|Yor’faern]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Yor’yathrin\|Yor’yathrin]]
 
-## Shop
+## Shops
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Adona's Curiosities\|Adona's Curiosities]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Elvila Blacksmith\|Elvila Blacksmith]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Na T'puuli\|Na T'puuli]]
@@ -91,6 +91,8 @@ Not listing them all here because there are So Many, but they should be linked t
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Green Foot\|Green Foot]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Handsome Duregar\|Handsome Duregar]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Silk House\|Silk House]]
+[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/The Blue Bottle\|The Blue Bottle]]
+[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Location/Weeping Spot\|Weeping Spot]]
 
 ---
 
