@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/290-299 TTRPG Notes/296 Solo/11 Field Guide to Memory/Days/Day 1 - We regret to inform you/"}
 ---
 
+
 << [[290-299 TTRPG Notes/296 Solo/11 Field Guide to Memory/Field Guide to Memory Journal\|Field Guide to Memory Journal]] | [[290-299 TTRPG Notes/296 Solo/11 Field Guide to Memory/Days/Day 2 - A life richly lived\|Day 2 - A life richly lived]] >>
 
 ##### 30/10/2022 
