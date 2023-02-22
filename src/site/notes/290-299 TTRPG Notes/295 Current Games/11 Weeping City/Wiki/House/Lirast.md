@@ -23,9 +23,6 @@ Sages of Lolth; devoted to scholarly pursuits, producing the most powerful wizar
 
 # Building
 
-Large stone temple, with a strangely, starkly open plan and large archways.
-Grand stone stairs lead to open archways that lead into the house.
-
 The entrance hall is shallow and smells of cold leather and ink.
 The hallways are all lined with heavy black tomes of differing wear.
 A tall door with two simple staircases that lead to a landing with two more doors - the House and the Library.
