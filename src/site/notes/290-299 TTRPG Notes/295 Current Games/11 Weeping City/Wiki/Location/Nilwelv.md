@@ -52,7 +52,7 @@ Elegance to the point of extremity, Ardulae is stark, empty, and imposing.
 > 
 > Within the wall is a great stone castle, long, gaudy red and gold bearing the House Desor sigil; pits with crackling fire on either side of a wide path through the courtyard; giant spiders held in the long stables to the left.
 
-#### House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Shavlyl\|Shavlyl]]
+> [!info]- House [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Shavlyl\|Shavlyl]]
 > The most simple in design, the building opens with a great, adamantine gate, with the House Shavlyl sigil worked into it.
 > 
 > Beyond the gate is a heavily guarded courtyard, and a pair of curling staircases that lead to a large archway, with another gate, and a looming silver door.
