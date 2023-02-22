@@ -35,16 +35,9 @@ Largely unknown.
 
 SECRET : They have a secret for eternal life (which [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/House/Elag\|Elag]] discovered).
 
-# Building
+## Wizard tower
 
-A black spire, scraping the cavern ceiling, surrounded by a rough cage of stalactites connected to the spire by ropey, calcified web suspension bridges.
-
-## One spire
-
-Where [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Ulvyr\|Ulvyr]] resides, where he and his do their wizardly work.
-It's warped with foul necromantic magic, separated from the rest of the house.
-
-Steel doors at the entrance, cursing all those who enter unwelcome.
+Where [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Ulvyr\|Ulvyr]] resides.
 
 The hallways are quite, other than the sound of something dripping.
 There are many figures chained to the walls - those dead, dying, and long dead.
