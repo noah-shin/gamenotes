@@ -21,6 +21,8 @@ Ki-On (Noah) is a jedi on the run, turned merc, and has found herself taking rel
 [[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#11. New Ship Who Dis\|SW5e Calendar#11. New Ship Who Dis]]
 [[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#12. Into the Mines\|SW5e Calendar#12. Into the Mines]]
 [[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#13. Cave in!\|SW5e Calendar#13. Cave in!]]
+[[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#14. Loss\|SW5e Calendar#14. Loss]]
+
 
 ## Read them all below
 
@@ -1177,6 +1179,80 @@ figure reaches into its chest, revealing an orange, slightly blackened hand, nai
 pulls out a lightsaber - one half damaged, scarred, sparking - other side erupts an orange blade
 illuminates his face - two horns but one is gone, large scar down his face, missing an eye
 
+
+
+</div></div>
+
+
+#### 14. Loss
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/12-sw5e/12-03-game-notes/14-loss/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+27/02/23
+
+ellya subtly draws a gun
+kion takes a half step back - i don't enjoy repeating myself. who are you?
+
+his lightsaber rises higher, his other eye milky white (he's blind)
+guy - i survived darkness before and i will do it again. i will not let you get me.
+guy - you Reek of it
+guy - it travels. it journeys. it travels in your footsteps. i could feel it the moment you came to my home
+guiy- unlike those who came before, i will fight you
+
+roll initiative
+el and ellya go to punch
+he throws a rock at ey
+kion gets between them - stop, we mean you no harm, i'm kion, this is el and ey, we did not come here to fight
+ey puts down her weapons - none of us are dark side users
+guy's attention slides to el
+ey - they're misguided, they're my twin, they don't know any better, please
+
+guy - twins? family? you vermin are related, bound by blood, corrupted
+guy - i will take no joy in saving everyone from you
+
+ey uses animate weapons, hits him with a sword
+el grapples him (_25_ to grapple???)
+k draws saber, battle meditation - stop! think past your fear
+ey stunning hits him
+
+el takes his saber, psychometry
+> vision is taken by stars
+> on a mountaintop
+> fancy military black cloak, bottom half of a smooth pale face
+> black cloak pulls out a red saber, rushes at guy
+> cuts off a horn, part of his face, thrown away
+> he is clutching for dear life on the side of a cliff
+> black cloak steps up, hood blowing back to reveal korith
+> k stamps on guy's hands, before he falls, tumbling down the mountain
+> his lightsaber is broken in two, but he clings to life, and crawls into a cave
+
+kion holds saber to his throat - let us go.
+el puts the hilt of the saber to his temple and turns it on, killing him instantly
+
+tikka and gang run up - jedi? we're about to make a whole lot of money
+
+el runs up, holding the saber
+ey kills chuck, revealing gremgullo relation
+el force repulses everyone back
+
+we kill everyone
+kion turns their gun to el
+ey - put it down. turn it off
+el laughs hysterical in disbelief, doesn't put it down - what are you going to do? shoot me?
+ey shuts down, no emotion on her face 
+ey whispers - i can't protect you from this. you're not my twin. this isn't ... my twin. give her back.
+ey shoots.
+el goes down, instantly.
+
+kion strips everyone of their gear and money
+doesn't recognise the guy, but remembers a moment of him in the garden with a tender smile on his face
+puts all the bodies on a pyre
+ey takes some stuff from el
+ey also places el on the pyre
 
 
 </div></div>
