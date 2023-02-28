@@ -12,6 +12,8 @@ The party include the ex-knight Nikiti (Jess), the stargazing bat Rudy (Vinnie),
 3 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#3. Sequined Shopping\|Blackthorn Journal#3. Sequined Shopping]]
 4 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#4. Sage and the Belle of the Ball\|Blackthorn Journal#4. Sage and the Belle of the Ball]]
 5 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#5. The one where Silk dies\|Blackthorn Journal#5. The one where Silk dies]]
+6 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#6. Catch the Culprit\|Blackthorn Journal#6. Catch the Culprit]]
+7 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#7. Joining the ~~Cult~~ Club\|Blackthorn Journal#7. Joining the ~~Cult~~ Club]]
 
 ## Read them all below
 
@@ -400,7 +402,7 @@ Silk: That was a cool cat, wasn't it?
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/5. Silk dies\|5. Silk dies]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/7.\|7.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/5. Silk dies\|5. Silk dies]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/7. Joining the -Cult- Club\|7. Joining the -Cult- Club]] >>
 03/01/2022
 
 Thoughts: The angels became the costumes?
@@ -480,5 +482,106 @@ dompin rehashes the interrogation, gets the full story
 we completed our job satisfactorily!
 will get paid
 dompin: thank you for your services tonight
+
+</div></div>
+
+
+#### 7. Joining the ~~Cult~~ Club
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/15-blackthorn/bt-notes/7-joining-the-cult-club/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/6. Catch the Culprit\|6. Catch the Culprit]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/8. Unknown\|8. Unknown]] >>
+
+Sage - been working with the Dompin's for a while
+but heading back to blackthorn to see if she can help out more there
+
+dompin is fond of her, but glad to see sage go forward
+
+sage casts cure wounds on silk
+
+get back to the guild
+full house, everyone 
+head of guild behind the bar
+silk and rudy head over
+sage nervously asking endless questions to nikiti
+s and r bring over the other three - all go to the back office
+
+we sit around the room
+get paid - 350 GP each
+give the report - hashtag we all lived, and completed the mission
+sage introduces herself - sage gulliver
+rholl recognises the name, vaguely surprised - nikiti and sage see it
+silk remembers giving some of those hero medals (platinum heart) to someone with that same last name
+
+blackthorn protects its members
+such as those who found the law not on the side of good action
+in past, a changeling has submitted not their real name
+
+we need to submit a name
+and a team name
+and a basic will
+and where we want to get the guild tattoo
+
+tattoo works on scale and fur
+silk: does it work for those who ... change shape
+we all promise to keep a secret
+rholl leans forward, changes shape into a high elf, then back
+
+long rest
+
+next day
+sage's best memory - foraging with parents for stuff for tonics in the woods, then cooked them all together, and talking about the healing properties
+sage: it's always good to cherish those memories when you've lost somebody, isn't it
+parents are rowan and river
+sage: i miss them everyday
+sage: one day, found out they were no longer here, and was never given any details
+
+sage sneaks off to the office - successfully
+[only sage knows]
+she wants two tattoos - to honour them
+gets one now, in secret, on right bicep
+rholl is unsurprised she wants to ask questions later about them
+
+silk also sneaks in - fails to sneak to everyone but nikiti
+wonders if the tattoo does a cover up - aka the one on his chest
+nope, cause the magic may have intwined with their soul
+but the mages here can maybe try to figure it out later
+
+rudy also sneaks in - only silk doesn't realise
+asks for the potential of a mentorship
+though most other teams are busy
+everyone is happy to chat while they're here
+
+nikiti also sneaks in - everyone realises
+nikiti: hows my son. does he have any bullies yet?
+rholl: it's _creche_. no, theyre good. they're all a little weird at that age
+nikiti: do you know who we are? are they coming for us??
+rholl: i've seen the bulletins. but they're all more pre-occupied with the bombing in the capitol
+nikiti susses that rholl _is_ a dad, but it's complicated? maybe of someone now fully an adult?
+nikiti has a bounty, amongst the royal guard, for 20k gold
+nikiti: any gossip? from one parent to maybe another
+rholl doesn't acknowledge the parent comment
+rholl: we do have a network, but we protect our own
+rholl: we can't make the bulletin go away completely, but we can stop the other guilds from acting on it
+nikiti: are yall a cult? asking for a friend, i wouldn't want to join another one
+rholl: 120 and 55 years ago, had an issue of people pretending to be blackthorn members
+r: you can get the tattoos removed if you want
+
+all head in together
+sage gives real name
+silk is silk smith
+rudy is quentin waterback
+nikiti is nick slithers
+jackie is Jackie Catz
+
+silk gets tat on back of right shoulder
+nikiti gets it on back of neck
+rudy gets it on left bicep
+sage gets it on back of hand
+jackie gets it on the lower abdomen
 
 </div></div>
