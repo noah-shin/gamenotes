@@ -3,7 +3,7 @@
 ---
 
 
-#house #lirast
+#house #lirast #lirast-bronze 
 
 # Members
 
