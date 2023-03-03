@@ -313,7 +313,7 @@ john heads to mystery woman and heals her
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/4. Awakening Festival\|4. Awakening Festival]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[6.\|6.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/4. Awakening Festival\|4. Awakening Festival]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/6. Rats in a Barn\|6. Rats in a Barn]] >>
 
 Farmers still look rabid, eyes still that swirling crimson
 
@@ -422,7 +422,7 @@ Basil's goodberrys are werthers
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/5. Fleaing at the Windmill\|5. Fleaing at the Windmill]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/6. Rats in a Barn\|6. Rats in a Barn]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/5. Fleaing at the Windmill\|5. Fleaing at the Windmill]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/7.\|7.]] >>
 
 Itty and bitty can feel the claw marks inside from the hands emerging
 Just soil inside though
@@ -453,7 +453,7 @@ combat!
 kill all the rats
 search inside
 find some clothing - dark leather jacket with crimson mud dried on it
-rat dropping and bones in the stalls
+rat droppings and bones in the stalls
 molehill-esque holes in the floor around the stalls - like at the windmill
 around giant rat is a giant rat nest, half eaten bones, empty leather pouch, coin, small scrap of paper with a drawing
 
@@ -468,3 +468,6 @@ kid's name was Cully
 rest for the night - basil lady drey and proclaimer in the wagon, itty underneath, everyone else chilling on a rooftop
 
 </div></div>
+
+
+#### 7.
