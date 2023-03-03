@@ -10,7 +10,7 @@
 Matron - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Ebeys\|Ebeys]]
 High Priestess - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Lyra\|Lyra]], [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Vieren\|Vieren]]
 Wizard - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Vor\|Vor]]
-Weaponmaster - 
+Weaponmaster - [[Bormah\|Bormah]] Scurry
 Patron - [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Person/Inor\|Inor]]
 
 # Description
