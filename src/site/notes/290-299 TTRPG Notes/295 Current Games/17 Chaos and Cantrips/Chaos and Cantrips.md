@@ -13,6 +13,7 @@ The party include John Taylor, human man (Ashley), Sage or Artemis or Elliot, sk
 4 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#4. Awakening Festival\|Chaos and Cantrips#4. Awakening Festival]]
 5 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#5. Flea-ing at the Windmill\|Chaos and Cantrips#5. Flea-ing at the Windmill]]
 6 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#6. Rats in a Barn\|Chaos and Cantrips#6. Rats in a Barn]]
+7 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#7. Knock Knock\|Chaos and Cantrips#7. Knock Knock]]
 
 ## Read them all below
 
@@ -422,7 +423,7 @@ Basil's goodberrys are werthers
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/5. Fleaing at the Windmill\|5. Fleaing at the Windmill]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/7.\|7.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/5. Fleaing at the Windmill\|5. Fleaing at the Windmill]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/7. Knock Knock\|7. Knock Knock]] >>
 
 Itty and bitty can feel the claw marks inside from the hands emerging
 Just soil inside though
@@ -470,4 +471,96 @@ rest for the night - basil lady drey and proclaimer in the wagon, itty underneat
 </div></div>
 
 
-#### 7.
+#### 7. Knock Knock
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/17-chaos-and-cantrips/notes/7-knock-knock/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+02/03/23
+
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/6. Rats in a Barn\|6. Rats in a Barn]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[8.\|8.]] >>
+
+people asleep are woken by a large rumble
+similar to the one from underground - still directional
+
+lady drey - well this is getting frightening, so let's get on to kiana's house
+
+wander over
+same broken houses and cracked glass
+the plants all look dead and rotted away
+one house in particular, the plants look blighted
+
+sage basil clock that the blight looks circular gradient around the house
+sage clocks that it doesn't necessarily look magical - the soil looks different (deader)
+bitty knows that it must still be necromantic
+
+we notice more mole hill raised areas around the house
+this door is the only one in the area that doesn't have a red x
+similar, only slightly larger, farming house with a wrap-around porch that is covered in dust, curtains drawn
+
+itty picks the door
+basil can't hear anything inside
+sage casts light on a rock and throws it in
+sees a streak of red on the floor coming out of one room
+
+rat smells mud coming from first room on left
+along with faint smell of people, wood, paper, mustyness
+can see red handprints on the door (from being pushed open)
+red on the floor is joining mud further into the room
+
+door on right is shut
+can only smell mud - ah it was on its whisker
+
+dresser is a shut cabinet
+faint human smell from top left room
+nothing from 
+
+slightly less dust in the corridor out to the left
+trailing in to top left room
+
+rat heads out
+
+sage and basil stealths in from the main door
+to bottom left room
+haphazard furniture, red handprints (from the crimson mud outside) across the entire room
+![Handout_F4_Drawing_smol.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/Handout_F4_Drawing_smol.png)
+the room looks very still and untouched
+chest against wall - sage finds working clothes in various sizes within
+one is smaller than the rest - 13 rings of different types and sizes in there 
+
+check bottom right
+is a pretty neat bedroom, with a single bed and writing desk covered in paper (sketch versions of the hand drawings)
+pretty bare of any semblance of a personality
+finds 
+![Handout_Culley_Drawing_smol.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/Handout_Culley_Drawing_smol.png)
+also finds a empty envelope to Kiana - 
+also find overalls similar size to previous room
+
+---
+
+itty and bitty head round to back to look through the window
+
+bitty on itty's shoulder, window is shut
+itty gets on bitty's shoulder to look through
+casts mage hand on the window latch, creaks it open every so slightly
+then the mage hand opens the curtain for them to look through,
+staring right at him are four, stock still, unblinking farmers in the kitchen
+
+itty panic casts invisibility
+the farmers slowly move to look at each other, then return to being stock still
+
+itty silently climbs in through the window
+bitty climbing up the ceiling with spider climb, out of sight
+the kitchen has been upturned, sticky and stained floor, the room streaked with dirt and the smell of rot
+the farmers have the same crimson swirling eyes as the festival
+
+sage and basil enter an overturned dining room
+stains across the floor, random, some with scratch marks
+they scrape the bottom of chair legs, table legs, and sideboard
+can't tell if it was a struggle or just a mess, due to the sheer amount of chaos
+
+</div></div>
+
