@@ -14,6 +14,7 @@ The party include the ex-knight Nikiti (Jess), the stargazing bat Rudy (Vinnie),
 5 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#5. The one where Silk dies\|Blackthorn Journal#5. The one where Silk dies]]
 6 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#6. Catch the Culprit\|Blackthorn Journal#6. Catch the Culprit]]
 7 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#7. Joining the ~~Cult~~ Club\|Blackthorn Journal#7. Joining the ~~Cult~~ Club]]
+8 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#8. Heading Out\|Blackthorn Journal#8. Heading Out]]
 
 ## Read them all below
 
@@ -494,7 +495,7 @@ dompin: thank you for your services tonight
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/6. Catch the Culprit\|6. Catch the Culprit]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/8. Unknown\|8. Unknown]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/6. Catch the Culprit\|6. Catch the Culprit]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/8. Heading Out\|8. Heading Out]] >>
 
 Sage - been working with the Dompin's for a while
 but heading back to blackthorn to see if she can help out more there
@@ -585,3 +586,60 @@ sage gets it on back of hand
 jackie gets it on the lower abdomen
 
 </div></div>
+
+
+#### 8. Heading Out
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/15-blackthorn/bt-notes/8-heading-out/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+28/02/23
+
+[[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/7. Joining the -Cult- Club\|7. Joining the -Cult- Club]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/9.\|9.]]
+
+trying to choose group name. its Difficult
+
+jackie resummons the cat
+silk tries to investigate - can't tell
+nikiti does divine sense - doesn't get Anything from the cat, almost like a blank space
+
+we read the quest board
+protection escort would take us back to the capital
+silk remembers the person's name 
+> This is a higher upper society individual, friends with most of the city and is a very friendly bubbly individual. 
+> You probably went to a dance with her at some point
+
+we take the white cliff job
+no extra info, just need to head over there
+
+we head to joanne's
+nice and small, hidden between other stores, red brick shop next to a giant monolith blue crystal
+chandeliers hanging from the ceiling, regular witch shop with bundles of herbs and crystals everywhere, locked box by cash register
+shop keeper behind a magic beaded curtain working on stuff
+
+she comes out, has a lenticular name-plate with 'joanne' and 'jo'
+has sparkling red eyes, cropped hair, short (4' 10)
+sage and rudy notice a small red cross on the wrist, with two smaller red crosses to the sides
+
+jo - they're not the kind of tattoo you want, nor the kind of tale i tell to a stranger
+
+have a tragic reveal
+saving profits from the shop to give to the kids of her fallen adventuring party members
+she signs rudy's book
+everyone gets a healing potion, rudy has three diamonds
+
+we head to the dragons vault
+far more low lit, but also witchy
+kid on shop keeper's knee (halfling, long braided hair, dark brown skin,, who's singing to them to heal their scraped knee
+sage nat 20 to join in, casting healing word
+
+we get a wagon and cows
+> blube, jetty, mood, lube, letty
+
+</div></div>
+
+
+#### 9.
