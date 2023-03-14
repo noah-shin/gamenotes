@@ -273,7 +273,81 @@ where tf are any of my notes
 
 Downtime
 
-(lost the first page of notes lmao sos) (smthg about an assembly) (spooky vision) (nyx and ansel's downtime?)
+In the main hall before assembly
+	Ansel picking up excitement and sadness from Achy
+
+Penny does a room vibe check:
+- Ansel - bad, lot of death, lot of gods
+- Nyx - Confused sadness
+- Achy - not scared, it feels interesting
+- Skylar - sad and guilty
+
+Ansel is fully disconnected from their well of power
+- now has a large scar through their stomach from Odin's spear
+
+We all chat - Penny is told about their mission & about the underground
+
+Allegedly a secret fifth level to the Underground - has a teleportation circle (don't know where it leads)
+- one of the generals has to go first - to lead to the other side - the other has to stay behind
+- civilians are evacuated first
+- then general staff
+- then the security
+- vicky or ed would have to be the one to decide to cut off the evacuations
+- those left behind were killed or taken to the government
+vicky made that call during her call with ansel
+
+plan - dress up as paladins for a night - grab our peace-bonded weapons, do stuff
+
+---
+
+we all head to assembly 
+	its about the tournament - it was meant to be held in Wolffall
+	the stormcoast institute (from fates hold) and angelwood conservatory (from angelos) turn up
+	both groups are 12 ppl + teacher (storm coast teacher is a 'Valerie' (she/her), angelwood lead by 'Michael' (he/him) 
+	stormcoast wearing neat military uniforms, angelwood wearing golden fancy uniforms
+	the prize money will be 100 000 GP and a wish spell
+
+---
+
+Ansel starts a ritual need Yobi's grave
+- with Skylar
+- construct a temporary altar to commune, covered in a symbol of an eye (of Odin)
+
+mediates, feels those tendrils of anger rise
+- hears the sounds of fighting and banging on tables
+- opens their eyes to see the halls of valahlla, everything covered in an ethereal glow
+- ansel can tell they are not welcome but allowed entry
+- there are 540 doors, one with Odin's name above it
+
+ansel knocks, it opens
+- has a conversation with him that we didn't hear
+- the scar is gone and their magic is back
+A : Where is Vicky?
+- has a vision of Wakefield, a tall grey building
+- not a pleasant experience
+
+the symbol on the floor turns to stone
+- their eye is now back as well
+
+---
+
+Nyx also went to Yobi's grave
+- tries to deliberately induce Hulk state
+- doesn't recognise Ansel
+- - starts a fight
+- - casts a necromantic spell
+- - chokes ansel unconscious
+- gets hit by 3 arrows and runs away, ansel in their grasp
+- ansel casts Calm Emotions
+- nyx hides in a tree, ansel points the paladins in another direction
+
+---
+
+someone gets a nat 20 perception check
+sees the head of church of helm - a slender tall man with a dark blue suit
+he's normally unnoticeable, eyes hidden behind sunglasses
+
+---
 
 Penny – spends it red threading connections between the people who died – x2 unconscious and x1 dead in the past two weeks — its sped up — cara and betti on same day (betty went missing the day before) —– they were together in the club —– Da was friends with Jackson (?)
 
