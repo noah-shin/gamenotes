@@ -15,6 +15,7 @@ The party include the ex-knight Nikiti (Jess), the stargazing bat Rudy (Vinnie),
 6 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#6. Catch the Culprit\|Blackthorn Journal#6. Catch the Culprit]]
 7 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#7. Joining the ~~Cult~~ Club\|Blackthorn Journal#7. Joining the ~~Cult~~ Club]]
 8 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#8. Heading Out\|Blackthorn Journal#8. Heading Out]]
+9 - [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal#9. Butcher Baker and Candlestick Maker\|Blackthorn Journal#9. Butcher Baker and Candlestick Maker]]
 
 ## Read them all below
 
@@ -598,7 +599,7 @@ jackie gets it on the lower abdomen
 
 28/02/23
 
-[[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/7. Joining the -Cult- Club\|7. Joining the -Cult- Club]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/9.\|9.]]
+[[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/7. Joining the -Cult- Club\|7. Joining the -Cult- Club]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/9. Butcher Baker Candlesticker Maker\|9. Butcher Baker Candlesticker Maker]]
 
 trying to choose group name. its Difficult
 
@@ -642,4 +643,88 @@ we get a wagon and cows
 </div></div>
 
 
-#### 9.
+#### 9. Butcher Baker and Candlestick Maker
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/15-blackthorn/bt-notes/9-butcher-baker-candlesticker-maker/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+14/03/23
+
+[[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/8. Heading Out\|8. Heading Out]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [10.]]
+
+---
+
+Sage flies up to get a lay of the land with her cool emerald wings, getting us safely past Zripton City.
+
+Nikitih helps lifts the cart over areas of difficult terrain, fully bypassing them.
+
+Jackie gets Jasper to scout ahead
+
+Rudy works with the cows to get them to stay strong
+
+Silk does a performance in a nearby town with Jackie - Shakespeare in the park, feat fire breathing cat
+
+We choose our team name - king wizard and the lizard kings
+
+---
+
+Whitecliff is built on a natural sea harbour, a beautiful picturesque town, though weirdly quiet right now.
+
+We head to the Mayor's house - red carpet down marble stairs out the front entrance
+Guy in a very red suit - butler - warns us to be on our 'best behaviour'
+Immaculate and expensive looking building, red roses and gold accents, 
+
+reach the office, lit with candlelight
+mayor - high elf with long red hair and piercing eyes, pockmarked silver-hued skin
+- Avarelle Femorah
+
+noises - forest, butchers, bakers, herbalist, graveyard, and around town - at the top of the town
+disappearances from around town
+- 4 members of the church in the graveyard
+-  - all around 25 years old, dragonborn, elf, dwarf, gnome
+- the baker
+- the butcher's daughter (was going to get married shortly)
+- 3 fisherman (permeant bachelor)
+- herbalist's assistant 
+
+he doesn't believe in the church - but the town are very set on it
+he also doesn't actually wanna be here / be the mayor / care about these appearances
+been the mayor for 60 years - since he got here and previous mayor died and no-one else wanted to role
+
+---
+
+We head to the church of Umberlee
+- the reason the town is quiet is cause everyone is in the sermon
+- sermon is that the issues are umberlee's wish and we've just got to appease her
+
+---
+
+Poker game in the grass while waiting for the sermon to be over
+silk and jackie w/ nat 1s (silk taught jackie the wrong rules)
+nikitih pulls a win!
+
+---
+
+head into the church
+rudy - we've been sent from blackthorn!
+priest - who hired you? we're perfectly good as is, we don't need you
+rudy - client privilege 
+
+he's a very Staunch and Stubborn guy
+- we shouldn't be interfering with umberlee's affairs 
+
+noises - thumping, then something on the wind like whimpering and groaning
+
+silk tries to get in an argument with this guy about why he's wrong
+gets dragged away
+
+---
+
+head to the tavern, as its now filling up
+grab our rooms for the night - getting 3 between us
+and rudy gets us a round of drinks, and we settle in to begin our investigations and questions here
+
+</div></div>
