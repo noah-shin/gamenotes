@@ -343,7 +343,7 @@ deli: we've been having a lot of issues in rattle, the soil's been getting less 
 no major events before the bad stuff - been worried about predators
 slow death, not a sudden thing
 
-boy in picture was a friend of kiana's
+boy in picture was a friend of kiana's - cully
 the harvest matches up with his death - drowned in the lake - roughly 8/9 years ago
 
 we'll be sent to rattle to check up on kiana
@@ -481,7 +481,7 @@ rest for the night - basil lady drey and proclaimer in the wagon, itty underneat
 
 02/03/23
 
-<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/6. Rats in a Barn\|6. Rats in a Barn]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[8.\|8.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/6. Rats in a Barn\|6. Rats in a Barn]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/8. Handsy Hole\|8. Handsy Hole]] >>
 
 people asleep are woken by a large rumble
 similar to the one from underground - still directional
@@ -564,3 +564,87 @@ can't tell if it was a struggle or just a mess, due to the sheer amount of chaos
 
 </div></div>
 
+
+#### 8. Handsy Hole
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/17-chaos-and-cantrips/notes/8-handsy-hole/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+21/03/23
+
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/7. Knock Knock\|7. Knock Knock]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[9.\|9.]] >>
+
+basil tries to mime about the farmers
+bitty scratches at the door
+basil yelps
+sage shoots the door next to bitty
+basil readies some rope and rushes in
+he attempts to tie them all up, loses the end of it
+
+john asses the situation and gets caught up
+basil hears singing in the distance - from the festival
+basil and itty tie up the farmers - itty gets a nat 20
+john clocks that the sound is sad and coming from underground
+
+head towards the pantry - everything has been ransacked and the cupboard stands open
+there's a trapdoor, and can smell something rotten from below
+
+a 10ft ladder goes down into the darkness 
+a storage cellar, with root veg
+wall has partially collapsed, revealing a dark tunnel
+
+rat on invisible shoulder, itty heads down
+hears the festival song, but with poorly written lyrics, in a woman's voice
+the voice is tired, husky, singing as lazily as possible cause she doesn't have any energy left
+the melody is slightly off as well
+
+rest of the group head down, staying behind
+can tell that the rot is veg And meat
+
+deeper we get, looks freshly dug, and poorly done - just for the purpose of fitting a person through
+can tell that the song mentions a young boy named Cully
+about her saving him
+
+turn the corner, and the cause of the stench is apparent
+a pile of farmers, all their limbs are cleanly removed and set in a pile in the corner
+
+at the front, kiana sits there, singing
+![03-005.kianna.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/03-005.kianna.png)
+
+she words are flipping between him behind dead and her saving him
+but she genuinely believes both versions, almost like someone else is singing the other part of it
+
+john walks in
+kiana - please go, you shouldn't be here. you have to leave now, i have to keep singing
+kiana - oh hello everyone! you can meet cully, if you want to
+kiana - if i stop singing, he'll wake up, he should sleep. you should go
+
+her eyes keep darting to the pile of limbs
+sage can tell that those limbs are alive
+goes to investigate
+
+the limbs come to life
+kiana backs away, afraid, continues to try to sing
+
+combat
+sage gets grappled
+bitty gets nat 20 for inflict wounds
+itty gets a nat 20 to percieve a bullet for 6 damage through heat metal
+
+john gets charmed, and starts protecting the soulshaker
+
+bitty Jams their hand in, a lil tickle, and casts inflict wounds
+it explodes and sploushes everywhere
+
+kiana collapses into unconsciousness
+we search the place
+then head upstairs - farmers waking up
+they remember the whole thing
+hands itty a handy haversack
+
+we pack up into the caravans, and back into Promise
+
+</div></div>
