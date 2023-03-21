@@ -2,17 +2,6 @@
 {"dg-publish":true,"permalink":"/290-299 TTRPG Notes/290 Reference/Systems/"}
 ---
 
-
-## In Play
-
-| File                                                                                                   | Length   | System | Style       | Genre                                             |
-| ------------------------------------------------------------------------------------------------------ | -------- | ------ | ----------- | ------------------------------------------------- |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/DnDestiny\|DnDestiny]]                        | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>Mythic</li></ul>      |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/Star Wars 5e\|Star Wars 5e]]                  | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>SciFi_Space</li></ul> |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Field Guide to Memory\|Field Guide to Memory]] | Capaign  | Unique | Interactive | <ul><li>Punk_Solar</li></ul>                      |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Forgotten Dreamings\|Forgotten Dreamings]]     | Slowburn | Unique | Interactive | <ul><li>Poetry</li><li>Fantasy_Urban</li></ul>    |
-
-
 # 201 - Solo
 
 ### Oneshots
@@ -107,9 +96,10 @@
 
 ### Oneshots
 
-| File                                                                                                | Status | Cover                 | System | Style | Prep  | Genre                                 |
-| --------------------------------------------------------------------------------------------------- | ------ | --------------------- | ------ | ----- | ----- | ------------------------------------- |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/Lasers and Feelings\|Lasers and Feelings]] | \-     | ![coverimg\|100](img) | \-     | Style | Prepp | <ul><li>SciFi</li><li>Gener</li></ul> |
+| File                                                                                                                    | Status    | Cover                                                                                            | System | Style   | Prep  | Genre                                                |
+| ----------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------ | ------ | ------- | ----- | ---------------------------------------------------- |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/Lasers and Feelings\|Lasers and Feelings]]                     | \-        | ![coverimg\|100](img)                                                                            | \-     | Style   | Prepp | <ul><li>SciFi</li><li>Gener</li></ul>                |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/This Discord Has Ghosts In It\|This Discord Has Ghosts In It]] | Untouched | ![coverimg\|100](https://img.itch.zone/aW1hZ2UvNjEwNDU4LzExNTgxNzk0LnBuZw==/original/NgHjgn.png) | Unique | Builder | Equal | <ul><li>Fantasy_Urban</li><li>Weird_Horror</li></ul> |
 
 
 ### Slowburn
