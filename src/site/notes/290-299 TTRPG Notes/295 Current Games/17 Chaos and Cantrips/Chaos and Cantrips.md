@@ -14,6 +14,7 @@ The party include John Taylor, human man (Ashley), Sage or Artemis or Elliot, sk
 5 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#5. Flea-ing at the Windmill\|Chaos and Cantrips#5. Flea-ing at the Windmill]]
 6 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#6. Rats in a Barn\|Chaos and Cantrips#6. Rats in a Barn]]
 7 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#7. Knock Knock\|Chaos and Cantrips#7. Knock Knock]]
+8 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#8. Handsy Hole\|Chaos and Cantrips#8. Handsy Hole]]
 
 ## Read them all below
 
