@@ -10,7 +10,7 @@ Notes and wikis on all games I've been in.
 | Bubble Pop S3    | [[Bubble Pop S3\|Bubble Pop S3]]      | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.00 Wiki/BP Wiki\|BP Wiki]]         | Quinn 'Honey' Marston | Pathfinder   | Lauren |
 | Weeping City     | [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Sessions/0. WC Sessions\|0. WC Sessions]]     | [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Nilwelv Wiki\|Nilwelv Wiki]]    | Eosphorus             | DnD 5e       | Jess   |
 | SW5e             | [[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar\|SW5e Calendar]]      | [[SW Wiki\|SW Wiki]]         | Ki-On                 | Star Wars 5e | Jake   |
-| Twin Lands       |                        |                     | Rattovim              | DnD 5e       | Kerry       |
+| Twin Lands       | [[290-299 TTRPG Notes/295 Current Games/21 Twin Lands/Twin Lands Notes\|Twin Lands Notes]]   |                     | Rattovim              | DnD 5e       | Kerry  |
 | Fireteam         | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]]  | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.02 Wiki/FireTeam Wiki\|FireTeam Wiki]]   | Idle-112              | DnDestiny    | Lou    |
 | Chaos & Cantrips | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[CC Wiki\|CC Wiki]]         | Basil                 | DnD 5e       | Vinnie |
 | Blackthorn Guild | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Wiki/Blackthorn Wiki\|Blackthorn Wiki]] | Silk                  | DnD 5e       | Lauren |
