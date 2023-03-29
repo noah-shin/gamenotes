@@ -4,7 +4,7 @@
 
 
 A game set in the Star Wars universe, run by Jake!
-Ki-On (Noah) is a jedi on the run, turned merc, and has found herself taking reluctant care of the twins El (Lauren) and Ellya (Jess), encountering a mando (Lou) along the way. Oops?
+[[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.02 Wiki/Ki-On\|Ki-On]] (Noah) is a jedi on the run, turned merc, and has found herself taking reluctant care of the twins El (Lauren) and Ellya (Jess), encountering a mando (Lou) along the way. Oops?
 
 ## Contents
 
