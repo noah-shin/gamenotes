@@ -22,10 +22,10 @@ Your arms are full of zines.
 
 ---
 
-TTRPG
+Bought and red [[Yazebas BnB\|Yazebas BnB]]
 
 ---
 
-Points + 
+Points + 5
 
 [[290-299 TTRPG Notes/296 Solo/14 Heroic Archivist/Week 1 - Shin Mecha Library of Alexandria II\|Week 1 - Shin Mecha Library of Alexandria II]] << [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Heroic Archivist\|Heroic Archivist]] >> [[Week 3 - \|Week 3 - ]]
