@@ -15,6 +15,7 @@ The party include John Taylor, human man (Ashley), Sage or Artemis or Elliot, sk
 6 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#6. Rats in a Barn\|Chaos and Cantrips#6. Rats in a Barn]]
 7 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#7. Knock Knock\|Chaos and Cantrips#7. Knock Knock]]
 8 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#8. Handsy Hole\|Chaos and Cantrips#8. Handsy Hole]]
+9 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#9. Randy Time\|Chaos and Cantrips#9. Randy Time]]
 
 ## Read them all below
 
@@ -576,7 +577,7 @@ can't tell if it was a struggle or just a mess, due to the sheer amount of chaos
 
 21/03/23
 
-<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/7. Knock Knock\|7. Knock Knock]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[9.\|9.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/7. Knock Knock\|7. Knock Knock]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/9. Randy Time\|9. Randy Time]] >>
 
 basil tries to mime about the farmers
 bitty scratches at the door
@@ -647,5 +648,84 @@ they remember the whole thing
 hands itty a handy haversack
 
 we pack up into the caravans, and back into Promise
+
+</div></div>
+
+
+#### 9. Randy Time
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/17-chaos-and-cantrips/notes/9-randy-time/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/8. Handsy Hole\|8. Handsy Hole]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[10.\|10.]] >>
+
+Back in Promise, greeted by Aunt Deli
+Given 200GP between us
+
+She hands Basil a package, with an address in Mil??, and thanks me for bringing the letter in the first place.
+
+---
+
+We arrive in Milpazul, a stone and iron city known for being magical, quite dry, a cosmopolitan trade hub.
+It's a small village on the outskirts of San Citlan (the main city we're aiming for). A low stone wall surrounds the city, and a man on a horse pins up a poster on the archway into the city, before spurring his horse on and in.
+
+![Pasted image 20230404193936.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/Pasted%20image%2020230404193936.png)
+
+Wood and clay houses surround a small well, and a blue sign that says 'Welcome'. Around the street, the cowboy is having a heated argument with a skeleton in a lovely magenta dress and necklaces against the exposed vertebra.
+
+![Pasted image 20230404195015.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/Pasted%20image%2020230404195015.png)
+
+Itty and Bitty notice that people are looking out their windows at us, then closing their curtains at the sight of us. 
+
+Skeleton 'Paloma isn't here. For the last time, you've got to stop coming around here and scared people.''
+Cowboy 'You need to bring her out, we know she's here.''
+
+She asks us to escort cowboy out, will give us drinks for it.
+He's looking for Paloma - with a group?
+
+Skeleton - Rafina
+Rafina - he's with bandits, some dangerous people. Gang out West.
+
+Paloma is a hero around here - a Robin Hood figure. Falsely accused of a crime, and now hunted by bandits who work for one of the governors who is desperate to find her. Her group was attacked by someone and mostly killed. The bandits want her body (dead or alive).
+
+Basil can also see many locals huddled in corners, huddled in blankets, trembling with cold despite it being a warm sunny day. 
+
+Us - How are you a skeleton?
+Rafina - I am an olivideo, a person who sticks around after the day of the remembered festival - the night we honour our dead loved ones.
+
+Candellit portrait of old woman surrounded by marigolds behind the bar, murals of conflicts where the group are victorious surround the walls, 
+
+Rafina brings over Paloma ![Pasted image 20230404201511.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/Pasted%20image%2020230404201511.png)
+Paloma -  I hope we can trust you. We've been looking for adventurers for a while. There is an outbreak of something called Sereno. It has killed mnay people in the village, and began a few months ago. 
+Paloma - We found a strange owl creature, a terrible fiend. The two friends who were wounded died soon after by Sereno.
+Paloma - People have seen something in the abandoned mining town we call Hollow.
+
+Sereno, almost like they've been given a poison, and feel very cold all the time. The dark and night make it worse.
+Can't tell the origin, and lesser restoration doesn't work.
+
+---
+
+Go shopping
+Get tissues and string
+Hollow - used to have silver but got emptied out. Used to be called Pazoo (?)
+Some guys round there that don't want us hanging around and keep telling us off.
+
+He brings us some homemade skateboards. We invite him along to Hollow to help 'teach us' (be bait).
+
+---
+
+Head back to the Cantina, Basil gives the package to Rafina.  Drink for the night, then have a long rest.
+
+---
+
+Next morning, people are setting up for the festival tonight. 
+We go pick up Randy, Bitty accosting someone along to way to paint their face.
+
+Heading to Hollow, walking through the desert. 
+Come across an Ettin in the canyon infront of us. We Immediately start to Stab.
+Itty kills it with a heat metal dagger in the leg!
 
 </div></div>
