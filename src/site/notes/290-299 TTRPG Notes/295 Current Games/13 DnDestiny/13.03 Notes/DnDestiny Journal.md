@@ -33,7 +33,7 @@ Fireteam Unknown is made of the curious exo Idle-112 (Noah), stoic hunter Grey (
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]] | 06.11.22 | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/2.\|2.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]] | 06.11.22 | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/2. Mimic Seduction Techniques\|2. Mimic Seduction Techniques]] >>
 
 Death Tolls:
 | Grey | Sira | Arthur | Vix | Idle | Lou |
