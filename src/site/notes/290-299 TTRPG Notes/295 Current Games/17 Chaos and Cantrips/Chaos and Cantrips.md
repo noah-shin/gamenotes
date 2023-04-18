@@ -717,7 +717,10 @@ He brings us some homemade skateboards. We invite him along to Hollow to help 't
 
 ---
 
-Head back to the Cantina, Basil gives the package to Rafina.  Drink for the night, then have a long rest.
+Head back to the Cantina, Basil gives the package and a letter to Rafina.  Drink for the night, then have a long rest.
+
+![Pasted image 20230418171445.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/Pasted%20image%2020230418171445.png)
+![Pasted image 20230418171456.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/Pasted%20image%2020230418171456.png)
 
 ---
 
