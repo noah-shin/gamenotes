@@ -16,6 +16,7 @@ The party include John Taylor, human man (Ashley), Sage or Artemis or Elliot, sk
 7 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#7. Knock Knock\|Chaos and Cantrips#7. Knock Knock]]
 8 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#8. Handsy Hole\|Chaos and Cantrips#8. Handsy Hole]]
 9 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#9. Randy Time\|Chaos and Cantrips#9. Randy Time]]
+10 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#10. Scaring Skeletons\|Chaos and Cantrips#10. Scaring Skeletons]]
 
 ## Read them all below
 
@@ -660,7 +661,7 @@ we pack up into the caravans, and back into Promise
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/8. Handsy Hole\|8. Handsy Hole]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[10.\|10.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/8. Handsy Hole\|8. Handsy Hole]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/10. Scaring Skeletons\|10. Scaring Skeletons]] >>
 
 Back in Promise, greeted by Aunt Deli
 Given 200GP between us
@@ -680,7 +681,7 @@ Wood and clay houses surround a small well, and a blue sign that says 'Welcome'.
 
 Itty and Bitty notice that people are looking out their windows at us, then closing their curtains at the sight of us. 
 
-Skeleton 'Paloma isn't here. For the last time, you've got to stop coming around here and scared people.''
+Skeleton 'Paloma isn't here. For the last time, you've got to stop coming around here and scaring people.''
 Cowboy 'You need to bring her out, we know she's here.''
 
 She asks us to escort cowboy out, will give us drinks for it.
@@ -709,8 +710,8 @@ Can't tell the origin, and lesser restoration doesn't work.
 ---
 
 Go shopping
-Get tissues and string
-Hollow - used to have silver but got emptied out. Used to be called Pazoo (?)
+Get tissues and string from a shop - shopekeep called Randy - guy who lives w/ his parents in his 30s
+Hollow - used to have silver but got emptied out. Used to be called Pazu (?)
 Some guys round there that don't want us hanging around and keep telling us off.
 
 He brings us some homemade skateboards. We invite him along to Hollow to help 'teach us' (be bait).
@@ -730,5 +731,112 @@ We go pick up Randy, Bitty accosting someone along to way to paint their face.
 Heading to Hollow, walking through the desert. 
 Come across an Ettin in the canyon infront of us. We Immediately start to Stab.
 Itty kills it with a heat metal dagger in the leg!
+
+</div></div>
+
+
+#### 10. Scaring Skeletons
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/17-chaos-and-cantrips/notes/10-scaring-skeletons/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/9. Randy Time\|9. Randy Time]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[11.\|11.]] >>
+
+Leaving the Ettin's corpse behind, we continue on.
+
+We spot the weathered town ahead, looking long abandoned.
+There's an ornate carriage that looks incredibly out of place, infront of a building
+The road to the building is littered with strange objects, that seem to be left behind from the former residents
+
+Basil takes a look around - nat 20
+the carriage looks fresh, can still see tracks on the road leading up.
+Same tracks go back and forth quite a bit, so has been here regularly.
+
+mines are blocked by 12 men in dark clothing
+
+basil heads to the two horses, who look very perturbed and posh
+very well cared for, with such a _beautiful_ mane
+
+itty heads to the guys
+itty - we are here to Shred. what are you all doing here?
+itty - we heard through the grapevine that the Hollow was a pretty Radical Pad
+guard - you can't get in. it's private property. owned by Isthmund (?) del prado
+
+he's in the carriage
+we knock, and a red skinned tiefling in his 40s opens the door
+well dressed in a sharp suit, one horn is a prosthetic made of jade
+
+![Pasted image 20230418200445.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/Pasted%20image%2020230418200445.png)
+
+he's a politician here - owning the mines and the town
+awful reports of the disease going around
+theyre going to burn the houses here, and something's happened around here
+we're trying to clean up, me and my boys
+
+basil can tell that it's weird for a man who values so much to waste so much time on these already deserted houses. he's very assured of himself, though.
+
+itty - oh, we're also adventurers, who are here to try and clean up the area and stop the disease. it's much easier to pay the 3 of us than the 12 you have there, if you want?
+isthmund - you're a very persuasive man. i can't stop you from going in, so boys! get out of the way for these clowns.
+isthmund doesn't give the vibe of a man who wants to worry about litigation. he doesn't seem that worried about our safety, more that it'd be a pain in the ass with the paperwork.
+
+---
+
+enter mines
+
+derelict wooden elevator, wind rushing from the depths of the mineshaft, in a crumbling hallway
+reach elevator - rusted in places
+bitty steps on, and the lift creaks, before settling
+
+we continue down the corridor
+we hear a thunderous blast behind us - head to the entrance, which has collapsed, 100% deliberately
+
+basil's torchlight catches on a rusty nail, and can hear rattling behind that section of the wall, can see a wooden door hidden behind a pile of rocks
+bitty goes to open the door, and a spell begins to appear underneath us, and a pit opens us, and we fall for 25-30ft. 
+end up in a much bigger cavern, which smells unbearable. hundreds of humanoid and animal bones that fill the chamber, scattering as we land.
+see two jellies that are feeding on the remains, and rise up through the bones as they sense us
+
+![Pasted image 20230418204207.png](/img/user/290-299%20TTRPG%20Notes/295%20Current%20Games/17%20Chaos%20and%20Cantrips/Notes/Pasted%20image%2020230418204207.png)
+
+some of the boens look clean cut, or have a metal attachment on them
+no evidence of gnawing, etc, definitely dissolved
+can see a well worn path that leads out of the room, with some fairly recent (and quite large) tracks
+
+we start heading out the room, and see the same elevator shaft
+head down a steep downhill path, the ceiling grows higher and higher
+strange symbols scrawled across the walls, the skeletons of two huge creatures (ollosaurus) in the room - one embedded in the east wall, the other coiled around an altar covered in filthy feathers
+
+bitty can read the symbols, theyre in abyssal, represent omens and prophecies
+story - a creature is being twisted into an envoy of pazuzu? spreading corruption throughout the land
+the writing feels very devout, sincere, and thankful
+
+as they walk up to the altar, can see the two skeletons begin to animate and move towards the clowns, keen to protect the altar
+they stand, shake themselves off, and prepare for battle
+
+we kill the dinosaurs off (again)
+
+altar - feathers look to be tarred to it, layers and layers very carefully placed
+some coins left around it, look accidentally dropped
+can tell the altar was using for worship and offerings
+
+---
+
+continue down
+same symbols on the walls in worship of pazuzu
+more foul looking feathers litter the floor, and claw marks gouge the walls
+
+the feathers look unnatural - not from a normal creature
+they're also huge feathers
+this is from a fiendish creature - matching marks in the rest of the mines
+
+we've been walking for a while 
+the tunnel leads south towards san citilan
+
+we stop for a short rest, before continuing down the tunnel
+
+
+
 
 </div></div>
