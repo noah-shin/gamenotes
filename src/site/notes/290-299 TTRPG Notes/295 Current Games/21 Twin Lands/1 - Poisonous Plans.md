@@ -3,7 +3,7 @@
 ---
 
 
-[[290-299 TTRPG Notes/295 Current Games/21 Twin Lands/0.5. Taking responsibility\|0.5. Taking responsibility]] | [[290-299 TTRPG Notes/295 Current Games/21 Twin Lands/Twin Lands Notes\|Twin Lands Notes]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/2. Mimic Seduction Techniques\|2. Mimic Seduction Techniques]]
+[[290-299 TTRPG Notes/295 Current Games/21 Twin Lands/0.5. Taking responsibility\|0.5. Taking responsibility]] | [[290-299 TTRPG Notes/295 Current Games/21 Twin Lands/Twin Lands Notes\|Twin Lands Notes]] | [[2. Cave Diving \|2. Cave Diving ]]
 
 Horses are stampeding towards the gap in the wall
 The druk starts charging through, dodging the horses
