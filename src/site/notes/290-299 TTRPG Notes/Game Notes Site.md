@@ -42,24 +42,25 @@ Notes and wikis on all games I've been in.
 
 ****
 
-| Archived           | Notes                     | Wiki                    | Character            | System | DM     |
-| ------------------ | ------------------------- | ----------------------- | -------------------- | ------ | ------ |
-| (1) Folklore       |                           |                         | Pryce                |        |        |
-| Forbidden Fey      | [[290-299 TTRPG Notes/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal\|Forbidden Fey Journal]] | [[290-299 TTRPG Notes/295 Current Games/16 Forbidden Fey/Wiki/FF Wiki\|FF Wiki]]             | Indie                | DnD 5e | Molly  |
-| Bubble Pop S1      | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1\|Bubble Pop S1]]         | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.00 Wiki/BP Wiki\|BP Wiki]]             | Alanis Nim           | DnD 5e | Lauren |
-| Bubble Pop S2      | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]]         | "                       | Pandora 'Penny' Keer | DnD 5e | Lauren |
-| Monday             |                           |                         | Glint                |        |        |
-| Shattered Isles    | [[290-299 TTRPG Notes/297 Shattered Isles/22 Sessions/SI Journal\|SI Journal]]            | [[290-299 TTRPG Notes/297 Shattered Isles/The Shattered Isles\|The Shattered Isles]] |                      | BitD   | Noah   |
-| Caves of Lathander |                           | [[290-299 TTRPG Notes/294 Finished Games/10 Caves of Lathander/Wiki/CoL Wiki\|CoL Wiki]]            | Pax                  |        | Jess   |
-| (1) Halloween      | [[290-299 TTRPG Notes/294 Finished Games/09 Oneshots/Halloween Mystery\|Halloween Mystery]]     |                         |                      | DnD 5e | Lauren |
-| (1) Wet Wanders    | [[290-299 TTRPG Notes/295 Current Games/18 Pirate Adventures/Pirate Adventures\|Pirate Adventures]]     |                         | Trismegistus         | DnD 5e | Gareth |
-| Strixhaven         |                           |                         | Leo                     |        |        |
-| Monster Gauntlet   |                           |                         | Eli                  |        |        |
-| Lost Mines         |                           | [[290-299 TTRPG Notes/294 Finished Games/11 Lost Mines Ben/Wiki/LMoP Wiki\|LMoP Wiki]]           | Praxis               |        | Ben    |
-| Croi oRahn         |                           | [[290-299 TTRPG Notes/294 Finished Games/12 Celtic/12.02 Wiki/Celtic Wiki\|Celtic Wiki]]         | Staccato             |        | ?      |
-| Oros' Temple       | [[290-299 TTRPG Notes/294 Finished Games/13 Oros' Temple/Oros' Temple\|Oros' Temple]]          |                         | Serrah               |        | Jess   |
-|                    | [[290-299 TTRPG Notes/294 Finished Games/15 BEEE/BEEE\|BEEE]]                  |                         |                      |        | Noah   |
-| Switcheroo         | [[290-299 TTRPG Notes/294 Finished Games/14 Monday Game/my final dungeon\|my final dungeon]]      |                         |                      |        | Noah   |
+| Archived            | Notes                     | Wiki                    | Character            | System | DM     |
+| ------------------- | ------------------------- | ----------------------- | -------------------- | ------ | ------ |
+| (1) Call of Cthulhu | [[290-299 TTRPG Notes/295 Current Games/22 Call of Cthulu/Session 0 + 1 - Test\|Session 0 + 1 - Test]]  |                         | Jedidiah Goodhall    | CoC    | Jess   |
+| (1) Folklore        |                           |                         | Pryce                |        |        |
+| Forbidden Fey       | [[290-299 TTRPG Notes/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal\|Forbidden Fey Journal]] | [[290-299 TTRPG Notes/295 Current Games/16 Forbidden Fey/Wiki/FF Wiki\|FF Wiki]]             | Indie                | DnD 5e | Molly  |
+| Bubble Pop S1       | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1\|Bubble Pop S1]]         | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.00 Wiki/BP Wiki\|BP Wiki]]             | Alanis Nim           | DnD 5e | Lauren |
+| Bubble Pop S2       | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]]         | "                       | Pandora 'Penny' Keer | DnD 5e | Lauren |
+| Monday              |                           |                         | Glint                |        |        |
+| Shattered Isles     | [[290-299 TTRPG Notes/297 Shattered Isles/22 Sessions/SI Journal\|SI Journal]]            | [[290-299 TTRPG Notes/297 Shattered Isles/The Shattered Isles\|The Shattered Isles]] |                      | BitD   | Noah   |
+| Caves of Lathander  |                           | [[290-299 TTRPG Notes/294 Finished Games/10 Caves of Lathander/Wiki/CoL Wiki\|CoL Wiki]]            | Pax                  |        | Jess   |
+| (1) Halloween       | [[290-299 TTRPG Notes/294 Finished Games/09 Oneshots/Halloween Mystery\|Halloween Mystery]]     |                         |                      | DnD 5e | Lauren |
+| (1) Wet Wanders     | [[290-299 TTRPG Notes/294 Finished Games/18 Pirate Adventures/Pirate Adventures\|Pirate Adventures]]     |                         | Trismegistus         | DnD 5e | Gareth |
+| Strixhaven          |                           |                         | Leo                  |        |        |
+| Monster Gauntlet    |                           |                         | Eli                  |        |        |
+| Lost Mines          |                           | [[290-299 TTRPG Notes/294 Finished Games/11 Lost Mines Ben/Wiki/LMoP Wiki\|LMoP Wiki]]           | Praxis               |        | Ben    |
+| Croi oRahn          |                           | [[290-299 TTRPG Notes/294 Finished Games/12 Celtic/12.02 Wiki/Celtic Wiki\|Celtic Wiki]]         | Staccato             |        | ?      |
+| Oros' Temple        | [[290-299 TTRPG Notes/294 Finished Games/13 Oros' Temple/Oros' Temple\|Oros' Temple]]          |                         | Serrah               |        | Jess   |
+|                     | [[290-299 TTRPG Notes/294 Finished Games/15 BEEE/BEEE\|BEEE]]                  |                         |                      |        | Noah   |
+| Switcheroo          | [[290-299 TTRPG Notes/294 Finished Games/14 Monday Game/my final dungeon\|my final dungeon]]      |                         |                      |        | Noah   |
 
 (1) - Oneshot
 
