@@ -22,6 +22,7 @@ A game set in the Star Wars universe, run by Jake!
 [[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#12. Into the Mines\|SW5e Calendar#12. Into the Mines]]
 [[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#13. Cave in!\|SW5e Calendar#13. Cave in!]]
 [[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#14. Loss\|SW5e Calendar#14. Loss]]
+[[290-299 TTRPG Notes/295 Current Games/12 Sw5e/12.03 Game Notes/SW5e Calendar#15. Paint and Power Cells\|SW5e Calendar#15. Paint and Power Cells]]
 
 
 ## Read them all below
@@ -1254,5 +1255,146 @@ puts all the bodies on a pyre
 ey takes some stuff from el
 ey also places el on the pyre
 
+
+</div></div>
+
+
+#### 15. Paint and Power Cells
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/12-sw5e/12-03-game-notes/15-paint-and-power-cells/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+04/05/23
+
+Head out of the cave
+Greeted by the almost optimistic visage of Captain Torr
+Told to go through to the Baron for another job and for our credits
+
+Head through
+In chair behind desk, the receptionist - Hera - a buff space mom, long wavy white-blonde hair with pink tips and silver jewellery weaved through, floral and pink tattoos on her face and across her body, plain blindfold over her eyes
+
+---
+
+down the hallway comes a heavily armoured stormtrooper, escorts us into the throne room/office/dining room
+behind baron nevis is a bodyguard - Cade - a mandalorian in full armour (white and gold), jetpack, all the bits and bots
+
+Baron to Cade - how do you eat?
+
+have a chat
+he doesn't have credits - there's no exporting rn cause the leaving codes aren't working
+asked to go retrieve them - instead of asking the Moff
+
+will also get 5k credits, a couple of artifacts, and free repairs
+
+half a day a way, city of Yrgetta (?) is an Imperial communications outpost
+contains updated set of codes
+
+we agree
+hera, i, and lya head out
+
+baron to cade - i appreciate your work, but please understand, this cannot trace back to me. i will need you to clean it, and you'll be fully compensated, for everything.
+
+---
+
+Lya heads back to the Forgotten Fate
+Meets 0020
+she tries to hard reset, but nothing happens
+she turns him off
+and _shoots_ him dead
+then puts him a metal box and burns him
+
+---
+
+grab rations and rope
+
+---
+
+lya enters the bedroom, once shared
+locks away the shatter pistols - one used to kill el, the other binding them, the other is el's
+then finds the holocron under the pillow - slightly open
+
+comms kion
+hera and cade overhear the conference - only in reference to 'an object looking different' that may have impacted the third party member, and is dangerous
+
+---
+
+kion heads over
+the two fail at stealthing behind
+lya keeps them both outside whilst she goes to the bedroom
+cade and lya start compared and infodumping about their massive arsenal of weapons
+
+fails at striking it with the saber - almost more pushback
+puts it in a pouch, in a leadlined box, wrapped up, in the bottom of the pack
+
+emerges, and we all head to the shuttle
+
+---
+
+city is preprogrammed in
+the shuttle auto-drives out
+
+run introductions
+kion, bounty hunter and merc
+cade from clan cadeera, bounty hunter (kion recognises the name)
+> during clone wars, the clan was unaligned with other mandalorians, operating as a small mercenary troop
+
+hera, aspiring jizzist
+Lya lorlavette, bounty hunter
+
+cade's worked with a bunch of famous bounty hunters - boba fett, cad bane, crimson dawn, etc
+has heard the name **Thane** before (Lya's ex)
+
+---
+
+rest for the night
+cade goes to sleep
+
+hera - so what do you know of the force?
+kion levitates a kyber crystal out of her inner pocket, showing it, then tucks it back away
+kion - why do you want to know?
+hera - there's so much force energy around you two
+
+she pulls down her blindfold, revealing vestigial sockets
+kion recognises her as miralun (?), who are blind and percieve fully through the force
+kion tells her that she's a jedi
+
+asks us to keep the force shit to a minimum
+
+---
+
+two peaceful watches
+cade dreams - dreams of home
+> back at Mandalore, stood there amongst a field of dead, beskar laying beside you, two figures rushing forward in white and gold, one with a green lightsaber, blaster in hand, second has two pistols, both in full beskar, rushing towards a stampede of imperial droids and bombers, in a night sky of tears
+
+hera dreams - back in that throne room
+> being presented like a prize, offered to darkness and dread, like an extra tool
+> beside you, a disheveled but proud devornian
+> to your right, an armoured figure, clad in black, breathing through mechanical remains
+> a red saber bursts through the chest of the man who raised you
+
+enter the city, far larger and busier
+clear signs of the empire and its propaganda
+kion wakes the group
+hera throws a dagger at kion when she wakes
+
+---
+
+the city is made mostly of the muun, once part of the triad of evil
+amongst the homeless and the tired, is a clone in ruined armour
+kion hands over a couple credits
+
+---
+
+get to the station
+distraction team (lya and cade) head in, arguing about bikini shapes
+manage to keep it going for a while
+end up attacking the droid and trooper at the door
+
+back door crew (kion and hera) stealth in, walk through half the compound
+
+front door, cade kills the droid
 
 </div></div>
