@@ -26,6 +26,6 @@ Current week - [[290-299 TTRPG Notes/296 Solo/14 Heroic Archivist/Week 2 -\|Week
 | [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/DnDestiny\|DnDestiny]]                        | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>Mythic</li></ul>      |
 | [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Large/Star Wars 5e\|Star Wars 5e]]                  | Campaign | 5e     | Sandbox     | <ul><li>SciFi_Other</li><li>SciFi_Space</li></ul> |
 | [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Heroic Archivist\|Heroic Archivist]]           | Length   | System | Style       | <ul><li>Genre</li><li>Gener</li></ul>             |
-| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Field Guide to Memory\|Field Guide to Memory]] | Capaign  | Unique | Interactive | <ul><li>Punk_Solar</li></ul>                      |
 | [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Forgotten Dreamings\|Forgotten Dreamings]]     | Slowburn | Unique | Interactive | <ul><li>Poetry</li><li>Fantasy_Urban</li></ul>    |
+| [[290-299 TTRPG Notes/290 Reference/Systems/Sys_Solo/Field Guide to Memory\|Field Guide to Memory]] | Capaign  | Unique | Interactive | <ul><li>Punk_Solar</li></ul>                      |
 
