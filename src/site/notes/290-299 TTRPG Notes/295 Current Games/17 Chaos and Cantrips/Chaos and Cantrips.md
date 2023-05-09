@@ -743,7 +743,7 @@ Itty kills it with a heat metal dagger in the leg!
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/9. Randy Time\|9. Randy Time]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[11.\|11.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/9. Randy Time\|9. Randy Time]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/11.\|11.]] >>
 
 Leaving the Ettin's corpse behind, we continue on.
 
