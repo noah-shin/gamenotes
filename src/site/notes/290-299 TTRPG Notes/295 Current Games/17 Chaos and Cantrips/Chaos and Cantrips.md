@@ -17,6 +17,7 @@ The party include John Taylor, human man (Ashley), Sage or Artemis or Elliot, sk
 8 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#8. Handsy Hole\|Chaos and Cantrips#8. Handsy Hole]]
 9 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#9. Randy Time\|Chaos and Cantrips#9. Randy Time]]
 10 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#10. Scaring Skeletons\|Chaos and Cantrips#10. Scaring Skeletons]]
+11 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#11. Cheating Cheetahs\|Chaos and Cantrips#11. Cheating Cheetahs]]
 
 ## Read them all below
 
@@ -743,7 +744,7 @@ Itty kills it with a heat metal dagger in the leg!
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/9. Randy Time\|9. Randy Time]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/11.\|11.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/9. Randy Time\|9. Randy Time]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/11. Cheating Cheetahs\|11. Cheating Cheetahs]] >>
 
 Leaving the Ettin's corpse behind, we continue on.
 
@@ -838,5 +839,70 @@ we stop for a short rest, before continuing down the tunnel
 
 
 
+
+</div></div>
+
+
+#### 11. Cheating Cheetahs
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/17-chaos-and-cantrips/notes/11-cheating-cheetahs/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+[[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/10. Scaring Skeletons\|10. Scaring Skeletons]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[12.\|12.]]
+
+continue down the tunnel
+hours later, cavern opens up into a large open cavern, well lit
+faint smell of a campfire wafting through the air
+mining equipment lay scattered around
+
+large waterfall obscuring half the cavern
+can smell fish cooking
+
+stealth over
+see a large otter sitting in a small rockpool with a net
+trying to catch small lake fish
+set up a nice camp with a photo frame - been down here at least a few weeks
+
+itty tries to sneak forwards through the rockpool 
+gets caught
+pretends to be mineralogists, here to inspect the minerals in the dirt
+
+otter is Lila
+been living here for many years
+sometimes theres this big owl thing that comes in and out at night
+
+photo has a photo of a lovely otter family
+doesn't seem to be lying- just curious - about the big owl
+
+scaffolding reaches 100ft up for a 20ft hole in the ceiling
+we all make it up
+can see the celebrations happening
+people dressed as business barons (parody of the government), la catrina, and los diablos
+bitty spots some people pointing up at the sky and talking about an owl
+10ft away, around a corner of the building, see feathers trailing away - same as cave, big speckled owl
+
+we follow them through the alleys till it arrives at a house
+we (itty) knocks
+says she's seen an owl recently
+she invites us in - a poorly furnished house, a small ofrenda (offering) to a stern looking man
+the owl is her son, afflicted by a problem - the father was part of an evil cult
+she's sincerly trying to give us all the information
+the father was the first person to be afflicted with sereno
+sereno is the son's fault - though by accident
+son is employed by isthmund
+
+head out
+to ifrenda's in the street
+basil offers some wax for his grandparents - gets a pendant
+itty offers a drawing of a kobold and feels guilt
+
+isthmund spots us in the crowd and starts running
+start chase sequence
+basil turns into a cheetah
+coupla firebolts
+owl turns up overhead, and basil gets too distracted, losing sight of isthmund
 
 </div></div>
