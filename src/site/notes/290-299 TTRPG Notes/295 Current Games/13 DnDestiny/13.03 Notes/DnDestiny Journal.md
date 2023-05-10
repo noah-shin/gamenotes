@@ -11,11 +11,12 @@ Fireteam Unknown is made of the curious exo Idle-112 (Noah), stoic hunter Grey (
 ## Contents
 (Also tracking kdr for fun!)
 
-| Session                                              | Grey | Sira | Arthur | Vix | Idle | Lou  |
-| ---------------------------------------------------- | ---- | ---- | ------ | --- | ---- | ---- |
-| Total                                                | 6/1  | 10/1 | 6/2    | 6/1 | 4/2  | 7/32 | 
-| 0.5s                                                 | 5/-  | 8/1  | 4/2    | 5/1 | 4/2  | 6/26 |
-| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#1. Meeting ... the Grainy Boys\|DnDestiny Journal#1. Meeting ... the Grainy Boys]] | 1/1  | 2/-  | 2/-    | 1/- | -/-  | 1/6  |
+| Session                                              | Grey | Sira | Arthur | Vix | Idle  | Lou  |
+| ---------------------------------------------------- | ---- | ---- | ------ | --- | ----- | ---- |
+| Total                                                | 6/1  | 10/1 | 6/2    | 6/1 | 4/2   | 7/32 |
+| 0.5s                                                 | 5/-  | 8/1  | 4/2    | 5/1 | 4/2   | 6/26 |
+| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#1. Meeting ... the Grainy Boys\|DnDestiny Journal#1. Meeting ... the Grainy Boys]] | 1/1  | 2/-  | 2/-    | 1/- | -/-   | 1/6  |
+| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#2. Fireteam Fire\|DnDestiny Journal#2. Fireteam Fire]]               | 6/-  |      | 4.5/-  | 6/- | 6.5/- | -/23 | 
 
 
 ****
@@ -33,7 +34,7 @@ Fireteam Unknown is made of the curious exo Idle-112 (Noah), stoic hunter Grey (
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]] | 06.11.22 | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/2. Mimic Seduction Techniques\|2. Mimic Seduction Techniques]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]] | 06.11.22 | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/2. Fireteam Fire\|2. Fireteam Fire]] >>
 
 Death Tolls:
 | Grey | Sira | Arthur | Vix | Idle | Lou |
@@ -167,5 +168,61 @@ get the carriage
 gonna head off (camp on the way)
 it's 4pm
 
+
+</div></div>
+
+
+#### 2. Fireteam Fire
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/13-dn-destiny/13-03-notes/2-fireteam-fire/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/1. Meeting ... the Grainy Boys\|1. Meeting ... the Grainy Boys]] | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]] | 10.05.23 | [[3. \|3. ]] >>
+
+Death Tolls:
+| Grey | Arthur | Vix | Idle  | Lou  |
+| ---- | ------ | --- | ----- | ---- |
+| 6/-  | 4.5/-  | 6/- | 6.5/- | -/23 | 
+
+Beyond the Veil:
+99 - 0 used / 2 nat 20s 
+
+****
+
+About half hour off the mountain, heading towards the House of Storms base
+Can see 1 or 2 skiffs coming and going, otherwise quiet around
+
+Grey ontop of the carriage
+Arthur looking around and ahead
+Idle is reading the Percy Jackson books
+Vix is reading the Philosophical Works of Dr T A Swift
+
+One of the skiffs notice us
+x2 vandals and x2 dregs
+kill them all!
+
+grey starts scouting 30ft ahead as we continue to approach the mountain
+we discuss looking for a crossbow for Arthur
+find a large opening to a cave, guarded by a single wretch
+grey kills it with a throwing knife then shortsword
+
+head into cave
+vix does detect light and darkness
+	light from arthur's sword
+	general darkness around
+
+head further in
+through the tunnels
+vix cuts open the back of a tent - sees ghost shells hanging from the ceiling & beaten up man wearing a cloak and bits of broken armour chained to the wall (vix recognises him)
+Vix: 'Amir, psst, Amir!'
+Vix gets out, and Arthur sets the tent on fire
+
+start combat
+start chucking grenades everywhere
+clean combat, killing everyone
+drag amir to exit
 
 </div></div>
