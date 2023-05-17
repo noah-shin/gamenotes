@@ -99,7 +99,7 @@ Not listing them all here because there are So Many, but they should be linked t
 # Other Lore
 
 ## History
-[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.01 Alanis/Timeline\|Timeline]]
+[[290-299 TTRPG Notes/295 Current Games/11 Weeping City/WC Timeline\|WC Timeline]]
 [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Hallowing\|Hallowing]]
 
 ## Drow Society
