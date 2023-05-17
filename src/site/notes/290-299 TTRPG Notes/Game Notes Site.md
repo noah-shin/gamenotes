@@ -13,7 +13,7 @@ Notes and wikis on all games I've been in.
 | Twin Lands       | [[290-299 TTRPG Notes/295 Current Games/21 Twin Lands/Twin Lands Notes\|Twin Lands Notes]]   |                     | Rattovim              | DnD 5e       | Kerry  |
 | Fireteam         | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]]  | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.02 Wiki/FireTeam Wiki\|FireTeam Wiki]]   | Idle-112              | DnDestiny    | Lou    |
 | Chaos & Cantrips | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[CC Wiki\|CC Wiki]]         | Basil                 | DnD 5e       | Vinnie |
-| Blackthorn Guild | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/295 Current Games/15 Blackthorn/BT Wiki/Blackthorn Wiki\|Blackthorn Wiki]] | Silk                  | DnD 5e       | Lauren |
+| Blackthorn Guild | [[290-299 TTRPG Notes/294 Finished Games/15 Blackthorn/BT Notes/Blackthorn Journal\|Blackthorn Journal]] | [[290-299 TTRPG Notes/294 Finished Games/15 Blackthorn/BT Wiki/Blackthorn Wiki\|Blackthorn Wiki]] | Silk                  | DnD 5e       | Lauren |
 
 ****
 
@@ -46,7 +46,7 @@ Notes and wikis on all games I've been in.
 | ------------------- | ------------------------- | ----------------------- | -------------------- | ------ | ------ |
 | (1) Call of Cthulhu | [[290-299 TTRPG Notes/295 Current Games/22 Call of Cthulu/Session 0 + 1 - Test\|Session 0 + 1 - Test]]  |                         | Jedidiah Goodhall    | CoC    | Jess   |
 | (1) Folklore        |                           |                         | Pryce                |        |        |
-| Forbidden Fey       | [[290-299 TTRPG Notes/295 Current Games/16 Forbidden Fey/Journal/Forbidden Fey Journal\|Forbidden Fey Journal]] | [[290-299 TTRPG Notes/295 Current Games/16 Forbidden Fey/Wiki/FF Wiki\|FF Wiki]]             | Indie                | DnD 5e | Molly  |
+| Forbidden Fey       | [[290-299 TTRPG Notes/294 Finished Games/16 Forbidden Fey/Journal/Forbidden Fey Journal\|Forbidden Fey Journal]] | [[290-299 TTRPG Notes/294 Finished Games/16 Forbidden Fey/Wiki/FF Wiki\|FF Wiki]]             | Indie                | DnD 5e | Molly  |
 | Bubble Pop S1       | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.03 Game Notes s1/Bubble Pop S1\|Bubble Pop S1]]         | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.00 Wiki/BP Wiki\|BP Wiki]]             | Alanis Nim           | DnD 5e | Lauren |
 | Bubble Pop S2       | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.04 Game Notes s2/Bubble Pop S2\|Bubble Pop S2]]         | "                       | Pandora 'Penny' Keer | DnD 5e | Lauren |
 | Monday              |                           |                         | Glint                |        |        |
