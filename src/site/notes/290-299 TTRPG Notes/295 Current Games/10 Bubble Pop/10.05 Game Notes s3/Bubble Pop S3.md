@@ -10,6 +10,7 @@ LIL DESCRIPTION
 1- [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/Bubble Pop S3#1. Build Time\|Bubble Pop S3#1. Build Time]]
 2 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/Bubble Pop S3#2. Mimic Seduction Techniques\|Bubble Pop S3#2. Mimic Seduction Techniques]]
 3 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/Bubble Pop S3#3. Is Yobi even dead?\|Bubble Pop S3#3. Is Yobi even dead?]]
+4 - [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/Bubble Pop S3#4. Discussing Discharge\|Bubble Pop S3#4. Discussing Discharge]]
 
 ## Read them all below
 
@@ -132,93 +133,193 @@ unity suddenly gets Hurt?
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/2. Mimic Seduction Techniques\|2. Mimic Seduction Techniques]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/Bubble Pop S3\|Bubble Pop S3]] | [[4.\|4.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/3. Is Yobi dead\|3. Is Yobi dead]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/Bubble Pop S3\|Bubble Pop S3]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/4. Discussing Discharge\|4. Discussing Discharge]] >>
 
-Relaxing in the frat house
+Relaxing in the frat house  
 Honey gets a message from Mabel - have a job. be professional. MH.
 
-We head to the intelligence office
-can see theres a bit of a commotion going on
-people are rushing around - reacting to something that's happened, feels vaguely planned?
+We head to the intelligence office  
+can see theres a bit of a commotion going on  
+people are rushing around - reacting to something that's happened, feels vaguely planned?  
 two figures (nyx & penny) standing in the bullpen
 
 -- SECRETS --
 
-honey and violetta clock the two figures
-nyx locks eyes with violetta, and goes pale
-starts walking towards him, then stops, turns to penny
-nyx - did i hit my head when we were coming in? are you seeing what i'm seeing?
-nyx is Fully just Staring at violetta
-penny turns, recognises violetta
+honey and violetta clock the two figures  
+nyx locks eyes with violetta, and goes pale  
+starts walking towards him, then stops, turns to penny  
+nyx - did i hit my head when we were coming in? are you seeing what i'm seeing?  
+nyx is Fully just Staring at violetta  
+penny turns, recognises violetta  
 penny, whispered - what the fuck?
 
 ---
 
-violetta waves at them, specifically at nyx
-nyx starts crying profusely
-nyx - yobi?
-violetta doesn't recognise the name
+violetta waves at them, specifically at nyx  
+nyx starts crying profusely  
+nyx - yobi?  
+violetta doesn't recognise the name  
 penny starts to advance
 
-we hear mabel yell out - Horsemen!
-penny gets in violetta's way
-nyx - it can't be them. yobi?
+we hear mabel yell out - Horsemen!  
+penny gets in violetta's way  
+nyx - it can't be them. yobi?  
 nyx starts to have a panic attack, but is not a rage monster
 
-violetta - can i help you?
-penny - who the fuck do you think you are kid?
-violetta - i just got here?
-penny - no, who the fuck do you think you are?
-violetta - i'm violetta, i got here a couple weeks ago.
+violetta - can i help you?  
+penny - who the fuck do you think you are kid?  
+violetta - i just got here?  
+penny - no, who the fuck do you think you are?  
+violetta - i'm violetta, i got here a couple weeks ago.  
 penny - from?
 
-taylor and alanis turn up
-taylor - i know the missino went poorly, but what's going on?
-penny points at violetta like 'duh'
-alanis finally recognises him as yobi
-goes for the hug
+taylor and alanis turn up  
+taylor - i know the missino went poorly, but what's going on?  
+penny points at violetta like 'duh'  
+alanis finally recognises him as yobi  
+goes for the hug  
 taylor pulls him back
 
-alanis - who the fuck are you? where did you come from?
-violetta - i was rescued from a government outpost three weeks ago
+alanis - who the fuck are you? where did you come from?  
+violetta - i was rescued from a government outpost three weeks ago  
 penny gets the vibe that violetta is talking absolute bullshit, but not sure about which parts
 
-we head to a conference room
-i'm violetta ivanov, born in aramore, only child, was captured by the government, held for a long while, no clue, then liberated, and now i'm here
+we head to a conference room  
+i'm violetta ivanov, born in aramore, only child, was captured by the government, held for a long while, no clue, then liberated, and now i'm here  
 penny coughs out - bullshit
 
-nyx does an arcana check
+nyx does an arcana check  
 sees something that causes a lil shock
 
-honey asks violetta for their hand & reveals their mutation
-jupiter goes 'look!' and phases their hands right through the table
+honey asks violetta for their hand & reveals their mutation  
+jupiter goes 'look!' and phases their hands right through the table  
 unity - i can channel the different elements
 
-room turns to training room
-quinn's p hesitant, but caves to the peer pressure of doing something cool
-quinn - i- i've hurt ppl with this but, okay, lets go
-quinn takes unity's hand
-there's a beat, then honey blasts through the room and into a wall
-unity takes some extra terrible debuffs?
+room turns to training room  
+quinn's p hesitant, but caves to the peer pressure of doing something cool  
+quinn - i- i've hurt ppl with this but, okay, lets go  
+quinn takes unity's hand  
+there's a beat, then honey blasts through the room and into a wall  
+unity takes some extra terrible debuffs?  
 they were pale before, and is somehow paler, a slight tremor in their hands
 
 honey promises to create a meal plan to deal with everyone's various nutrient deficiencies
 
-
-
-taylor just looks at violetta - so, are you going to tell us what your mutation is?
-violetta knows very little about, and has little control, over xe's mutation
+taylor just looks at violetta - so, are you going to tell us what your mutation is?  
+violetta knows very little about, and has little control, over xe's mutation  
 he takes off a stylish leather glove, revealing a lichtenburg scar across their hand
 
-taylor has warmed up
+taylor has warmed up  
 the group leaves, al with a 'watching you' gesture, penny with a final threat
 
 ---
 
-so, missions. 
-fate's hold, need to figure out how many will be there for a potential attack
-or higher ups will be in aramore
-	violetta is 'unfortunately' familiar with the place
+so, missions.  
+fate's hold, need to figure out how many will be there for a potential attack  
+or higher ups will be in aramore  
+violetta is 'unfortunately' familiar with the place
 
+</div></div>
+
+
+#### 4. Discussing Discharge
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/10-bubble-pop/10-05-game-notes-s3/4-discussing-discharge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/3. Is Yobi dead\|3. Is Yobi dead]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/Bubble Pop S3\|Bubble Pop S3]] | [[5.\|5.]] >>
+ 27/05/23
+
+We all agree to head to Aramore
+
+Look at the map and figure out which way to head
+Grab horses
+Make our way overground
+
+First night, Quinn makes everyone take watches
+Unity wakes up looking even worse
+Violetta sleeps for 4 hours
+
+Unity, Vio, and Jupiter wake up the next day, feeling a little queasy - their masks broke
+Around breakfast, Vio shuffles to the firepit, grabs a cup for the coffee, then a bright blue shockwave/electrical current jumps from violetta to unity and honey
+
+have a bit of a convco about it
+vio's shock thing used to never happen and is now becoming daily?
+apparently under control
+
+Vio's mask leaked a lil more
+
+Quinn fails to scout ahead from above
+
+Vio and Unity do extract lil medicine checks against each other
+Vio reaches towards Unity's sword
+Unity dodges it, and turns the sword away
+Unity: 'You don't want to do this.'
+Vio: 'What's going on with that sword?'
+Unity: 'It's not safe for me to explain it to you. I like you, and I don't want anything to happen to you.'
+
+Vio promises to 'not touch the sword'
+- seems genuine, but the wording feels oddly specific
+
+---
+
+Next morning
+Honey tosses Vio a piece of copper wire before giving the morning coffee
+Vio just gets hit in the face
+The moment the wire touches his skin, there's an arc of electricity from his skin to the wire, holding it, before there's a bang and it rips itself apart
+Everyone dodges the residual sparks as elements land in the fire, causing a small blue-green explosion (except Unity lmao)
+
+As we're travelling, Jupiter starts to craft a battery sword thing for Vio to channel at the beginning of the day, storing the electricity for later
+- Created a small steel wand
+
+---
+
+That night, Quinn is looking at the Prismatic Sword (Unity's sword)
+- notices red, silver, and an obsidian black gem in the hilt
+- not made of steel, but some kind of crystal/glass
+- black hue to the blade (faintly glowing dark)
+
+---
+
+Next morning, Vio discharged into the rod
+
+We start heading off
+Vio and Jupiter's masks fail
+
+Vio's loses control of xer mutation, hitting honey and unity, stunning them
+
+Jupiter fixes on two people walking alongside us, in the wilderness, staring at them
+- a tall man, but an explosion has killed him, mutilating him
+- he can't speak to them, because he doesn't have a jaw
+- a shorter individual, with braids plaited into her hair
+- she used to be incredibly happy, but now its like there's no-one home?
+Jupiter jumps off their house, yelling out 'Dad! Vi!' as they rushes towards the pair
+Jupiter: 'I'm sorry! I wanted things to go right, I'm sorry!'
+
+Jupiter chases them further into the forest
+
+Violetta jumps off his horse, then *shoots Jupiter*
+Jupiter turns, and sees a man holding the gun
+Man saying : 'It's your fault, you caused this'
+Jupiter yells out a scream of rage, and shoots them back with a hand crossbow
+Then realises who they shot (the false one), and sighs
+Jupiter : 'You're right. I'm sorry, you're right.'
+
+Quinn gets in between them
+Jupiter sees their younger brother, telling their father to shoot again
+Jupiter: 'Jasper, please'
+
+Honey tells Violetta to stand down
+Goes to stun Jupiter, but Unity has an idea, so grapples them instead
+Unity reaches out, a holy light, and casts Greater Restoration
+the hallucinations fade away
+
+Jupiter realises they've definitely seen this first hand before, and knows exactly what happened
+
+Set up camp after a little bit
+Jupiter examines the masks - realises the filtration system hasn't worked, and builds some new ones
 
 </div></div>
