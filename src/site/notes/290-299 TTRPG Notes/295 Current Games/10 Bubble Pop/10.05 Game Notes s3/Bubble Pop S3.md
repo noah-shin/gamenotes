@@ -322,4 +322,6 @@ Jupiter realises they've definitely seen this first hand before, and knows exact
 Set up camp after a little bit
 Jupiter examines the masks - realises the filtration system hasn't worked, and builds some new ones
 
+2 failures, 5 successes
+
 </div></div>
