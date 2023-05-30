@@ -851,7 +851,7 @@ we stop for a short rest, before continuing down the tunnel
 
 
 
-[[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/10. Scaring Skeletons\|10. Scaring Skeletons]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[12.\|12.]]
+[[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/10. Scaring Skeletons\|10. Scaring Skeletons]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/12.\|12.]]
 
 continue down the tunnel
 hours later, cavern opens up into a large open cavern, well lit
@@ -895,7 +895,7 @@ sereno is the son's fault - though by accident
 son is employed by isthmund
 
 head out
-to ifrenda's in the street
+to ofrenda's in the street
 basil offers some wax for his grandparents - gets a pendant
 itty offers a drawing of a kobold and feels guilt
 
