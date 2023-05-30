@@ -18,6 +18,7 @@ The party include John Taylor, human man (Ashley), Sage or Artemis or Elliot, sk
 9 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#9. Randy Time\|Chaos and Cantrips#9. Randy Time]]
 10 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#10. Scaring Skeletons\|Chaos and Cantrips#10. Scaring Skeletons]]
 11 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#11. Cheating Cheetahs\|Chaos and Cantrips#11. Cheating Cheetahs]]
+12 - [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips#12. Find the owl! Find the Governor!\|Chaos and Cantrips#12. Find the owl! Find the Governor!]]
 
 ## Read them all below
 
@@ -851,7 +852,7 @@ we stop for a short rest, before continuing down the tunnel
 
 
 
-[[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/10. Scaring Skeletons\|10. Scaring Skeletons]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/12.\|12.]]
+[[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/10. Scaring Skeletons\|10. Scaring Skeletons]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/12. Find the !\|12. Find the !]]
 
 continue down the tunnel
 hours later, cavern opens up into a large open cavern, well lit
@@ -904,5 +905,78 @@ start chase sequence
 basil turns into a cheetah
 coupla firebolts
 owl turns up overhead, and basil gets too distracted, losing sight of isthmund
+
+</div></div>
+
+
+#### 12. Find the owl! Find the Governor!
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/17-chaos-and-cantrips/notes/12-find-the/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+[[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Notes/11. Cheating Cheetahs\|11. Cheating Cheetahs]] | [[290-299 TTRPG Notes/295 Current Games/17 Chaos and Cantrips/Chaos and Cantrips\|Chaos and Cantrips]] | [[13.\|13.]]
+
+On the horizon, towards the desert, we see an owl shaped creature flying away - towards a distant building.
+
+In the direction of Hollow from San Citlan, but much closer.
+
+We consider whether to just host our show now
+Itty jumps ontop of a cart selling marigolds
+Casts minor illusion
+Gets a 28 performance
+
+Gets everyone's attentions
+Casts silent image - of Isthmund
+Itty: 'Our first event is a scavenger hunt! If you find this man, you may get a portion of his fortune! Bring him here in the next ten minutes and you will be rewarded!'
+
+A third of the crowd begin running around, ready for the hunt.
+
+They grab a couple red tieflings in the area, but no Isthmund - no-one's seen him since we lost him.
+
+We end up slipping away and into the crowd, and start following Bird Boy.
+
+---
+
+Come up to a large building in the middle of the desert, with huge wooden doors and iron fittings, 12ft tall, stone walls, a domed roof.
+
+Basil whips out a book on architecture - can tell this building has to do with mining, used to do process elements once they've been mined.
+
+Can see feathers leading up to the big doors, and footprints leading to a door just around the corner.
+
+Basil tries the smaller door, and it isn't locked!
+Leads to a large warehouse with a walkway around two sides of the wall
+Can see in the corner, is a young man who looks very afraid, forming and unmorphing from himself into the owl. He hasn't noticed us.
+
+---
+
+We discuss what to do.
+
+---
+
+Itty opens the door - 'Hello? Pazoozoo? We have a bird friend too, we're friendly.'
+
+The kid looks up, now human, resting a hand on his knee.
+Kid's name is Serepo
+
+Basil can tell he's been cursed.
+
+He turns into an owl - stalks stalking towards us
+Nothing we can do can heal or help him
+
+Itty makes the kid's mother appear
+The bird pulls back, but doesn't turn back
+Bitty manages to wrangle (grapple with lasso)
+
+Basil can tell its a curse glitching in and out - which is highly unusual for a curse
+The owl is confused why it isn't always in its owl state
+Maybe sunlight would do something?
+
+creature
+basil
+bitty <- current turn
+itty
 
 </div></div>
