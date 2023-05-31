@@ -11,13 +11,14 @@ Fireteam Unknown is made of the curious exo Idle-112 (Noah), stoic hunter Grey (
 ## Contents
 (Also tracking kdr for fun!)
 
-| Session                                              | Grey | Sira | Arthur | Vix | Idle  | Lou  |
-| ---------------------------------------------------- | ---- | ---- | ------ | --- | ----- | ---- |
-| Total                                                | 6/1  | 10/1 | 6/2    | 6/1 | 4/2   | 7/32 |
-| 0.5s                                                 | 5/-  | 8/1  | 4/2    | 5/1 | 4/2   | 6/26 |
-| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#1. Meeting ... the Grainy Boys\|DnDestiny Journal#1. Meeting ... the Grainy Boys]] | 1/1  | 2/-  | 2/-    | 1/- | -/-   | 1/6  |
-| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#2. Fireteam Fire\|DnDestiny Journal#2. Fireteam Fire]]               | 6/-  |      | 4.5/-  | 6/- | 6.5/- | -/23 |
-| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#3. Visions of the Future\|DnDestiny Journal#3. Visions of the Future]]       | /    |      | 1/-    | 1/- | 2/-   | -/4  | 
+| Session                                              | Grey | Sira | Arthur | Vix  | Idle  | Lou  |
+| ---------------------------------------------------- | ---- | ---- | ------ | ---- | ----- | ---- |
+| Total                                                | 12/1 | 10/1 | 11/2   | 13/1 | 12/2  | 7/32 |
+| 0.5s                                                 | 5/-  | 8/1  | 4/2    | 5/1  | 4/2   | 6/26 |
+| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#1. Meeting ... the Grainy Boys\|DnDestiny Journal#1. Meeting ... the Grainy Boys]] | 1/1  | 2/-  | 2/-    | 1/-  | -/-   | 1/6  |
+| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#2. Fireteam Fire\|DnDestiny Journal#2. Fireteam Fire]]               | 6/-  |      | 4.5/-  | 6/-  | 6.5/- | -/23 |
+| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#3. Visions of the Future\|DnDestiny Journal#3. Visions of the Future]]       | /    |      | 1/-    | 1/-  | 2/-   | -/4  |
+| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#4. Kill and be killed\|DnDestiny Journal#4. Kill and be killed]]          | 3/-  |      | 1/1    | 7/-  | 10/-  | 1/21 | 
 
 
 ****
@@ -237,7 +238,7 @@ drag amir to exit
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/2. Fireteam Fire\|2. Fireteam Fire]] | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]] | [[4, \|4, ]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/2. Fireteam Fire\|2. Fireteam Fire]] | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]] | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/4. Kill and be killed\|4. Kill and be killed]] >>
 
 | Chara    | Kills | Deaths | Assist | Nat 1 | Nat 20 |
 | -------- | ----- | ------ | ------ | ----- | ------ |
@@ -373,5 +374,56 @@ We all rush to the front gate and are greeted by a full battle.
 
 
 ## Summary
+
+</div></div>
+
+
+#### 4. Kill and be killed
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/290-299-ttrpg-notes/295-current-games/13-dn-destiny/13-03-notes/4-kill-and-be-killed/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+<< [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/3. Visions of the Future\|3. Visions of the Future]] | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal\|DnDestiny Journal]] | [[5, \|5, ]] >>
+
+| Chara    | Kills | Deaths | Assist | Nat 1 | Nat 20 |
+| -------- | ----- | ------ | ------ | ----- | ------ |
+| Idle-112 | 10     |        |        |       |        |
+| Grey     | 3     |        |        |       |        |
+| Arthur   | 1     | 1      |        |       |        |
+| Vix      | 7     |        | 1      |       |        |
+
+Beyond the Veil:
+70 - ~~Nat 20~~ / 5
+
+We begin fighting off all the Fallen approaching the doors
+Betty orders Amir back inside to begin the evacuation process
+
+Arthur doesn't have his sword (cause he's drunk) and throws a mug of ale at the eliksni instead
+
+Arthur gets hit by the walker and disintegrates
+
+Roberto is still alive - Vix kicked him in the head jumping off the wall, and took some of the walker shrapnel
+
+Vix casts an explosion of void light - eyes and necklace glowing a pure green  (an enchanting music in the distance, with a strange yell)
+Arthur comes back, and summons a flaming sword
+
+Vix opens up the walker
+Idle casts a grenade right into the weak-spot
+
+The Captain turns to us
+
+We continue to massacre the battlefield
+
+Carlos dies
+
+Vix asks for the shrapnel launcher
+barbie: 'yes bitch~'
+
+One guy was trying to run away to a skiff
+we kill him
+and the skiff fucks off
 
 </div></div>
