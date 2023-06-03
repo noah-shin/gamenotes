@@ -449,11 +449,8 @@ violetta rushes to the front desk to hack it and collect as much data as possibl
 
 honey picks unity's locks, accidentally touches them
 copies their mutation
-- clone appears (eg echo knight)
-- all clone dmg is psychic
-rolls a wis save - 26 - fails
-- 2 levels of drained - like drained of my life force (max hp down by 18)
-- normally honey feels a power source, it feels like there's a void there, with edges
+
+[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/5. Secret Extra Stuff 2\|5. Secret Extra Stuff 2]]
 
 unity casts black tentacles
 they grow out the ground and grapple the guards remaining in the room
