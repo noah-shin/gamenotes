@@ -13,12 +13,12 @@ Fireteam Unknown is made of the curious exo Idle-112 (Noah), stoic hunter Grey (
 
 | Session                                              | Grey | Sira | Arthur | Vix  | Idle  | Lou  |
 | ---------------------------------------------------- | ---- | ---- | ------ | ---- | ----- | ---- |
-| Total                                                | 12/1 | 10/1 | 11/2   | 13/1 | 12/2  | 7/32 |
+| Total                                                | 15/1 | 10/1 | 12/3   | 20/1 | 22/2  | 8/53 | 
 | 0.5s                                                 | 5/-  | 8/1  | 4/2    | 5/1  | 4/2   | 6/26 |
 | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#1. Meeting ... the Grainy Boys\|DnDestiny Journal#1. Meeting ... the Grainy Boys]] | 1/1  | 2/-  | 2/-    | 1/-  | -/-   | 1/6  |
 | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#2. Fireteam Fire\|DnDestiny Journal#2. Fireteam Fire]]               | 6/-  |      | 4.5/-  | 6/-  | 6.5/- | -/23 |
 | [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#3. Visions of the Future\|DnDestiny Journal#3. Visions of the Future]]       | /    |      | 1/-    | 1/-  | 2/-   | -/4  |
-| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#4. Kill and be killed\|DnDestiny Journal#4. Kill and be killed]]          | 3/-  |      | 1/1    | 7/-  | 10/-  | 1/21 | 
+| [[290-299 TTRPG Notes/295 Current Games/13 DnDestiny/13.03 Notes/DnDestiny Journal#4. Kill and be killed\|DnDestiny Journal#4. Kill and be killed]]          | 3/-  |      | 1/1    | 7/-  | 10/-  | 1/21 |
 
 
 ****
