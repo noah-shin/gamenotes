@@ -17,7 +17,10 @@
 #### 4. What's underneath?
 [[290-299 TTRPG Notes/295 Current Games/22 Call of Cthulu/4. Whats underneath\|4. Whats underneath]]
 
-#### 5.
+#### 5. Tentacle Time
 [[290-299 TTRPG Notes/295 Current Games/22 Call of Cthulu/5. tentacle time\|5. tentacle time]]
+
+#### 6. Progressive Pals
+[[290-299 TTRPG Notes/295 Current Games/22 Call of Cthulu/6. progressive pals\|6. progressive pals]]
 
 ****
