@@ -3,13 +3,6 @@
 ---
 
 
-Description w/ chara and player names
-
-## Contents
-
-1 - [Game#Header | SessionName]
-2 - [Game#Header | SessionName]
-
 ****
 
 #### 1. Experiment
@@ -23,5 +16,8 @@ Description w/ chara and player names
 
 #### 4. What's underneath?
 [[290-299 TTRPG Notes/295 Current Games/22 Call of Cthulu/4. Whats underneath\|4. Whats underneath]]
+
+#### 5.
+[[290-299 TTRPG Notes/295 Current Games/22 Call of Cthulu/5. tentacle time\|5. tentacle time]]
 
 ****
