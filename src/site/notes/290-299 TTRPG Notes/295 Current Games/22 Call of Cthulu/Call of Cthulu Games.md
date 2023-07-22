@@ -23,4 +23,7 @@
 #### 6. Progressive Pals
 [[290-299 TTRPG Notes/295 Current Games/22 Call of Cthulu/6. progressive pals\|6. progressive pals]]
 
+#### 7. Burning Books
+[[290-299 TTRPG Notes/295 Current Games/22 Call of Cthulu/7. burning books\|7. burning books]]
+
 ****
