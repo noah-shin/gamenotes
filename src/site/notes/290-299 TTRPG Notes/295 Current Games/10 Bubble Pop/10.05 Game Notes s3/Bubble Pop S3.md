@@ -475,7 +475,7 @@ we head into the armoured van, ryan behind the wheel, and we zoom off
 
 
 
-<< [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/5. Finding out\|5. Finding out]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/Bubble Pop S3\|Bubble Pop S3]] | [[7.\|7.]] >>
+<< [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/5. Finding out\|5. Finding out]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/Bubble Pop S3\|Bubble Pop S3]] | [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/7. Shit gets Fucked\|7. Shit gets Fucked]] >>
 24/06/23
 
 quinn wakes up to the van backfiring
@@ -543,3 +543,8 @@ then grabs unity in a chokehold, electrocuting them at the same time
 before shooting jupiter and quinn
 
 </div></div>
+
+
+[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/7. Shit gets Fucked\|7. Shit gets Fucked]]
+
+[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/8. The Gang Get Therapy\|8. The Gang Get Therapy]]
