@@ -548,3 +548,5 @@ before shooting jupiter and quinn
 [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/7. Shit gets Fucked\|7. Shit gets Fucked]]
 
 [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/8. The Gang Get Therapy\|8. The Gang Get Therapy]]
+
+[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/9. Family Dinners\|9. Family Dinners]]
