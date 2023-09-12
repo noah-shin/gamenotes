@@ -35,7 +35,7 @@ Once elderboy, now part of [[290-299 TTRPG Notes/295 Current Games/11 Weeping Ci
 
 # History
 
--? - When Nilwelv was still [[Orthel\|Orthel]], House Auvryath settled here.
+-? - When Nilwelv was still [[290-299 TTRPG Notes/295 Current Games/25 Orthel Oblivion/Wiki/Location/Orthel\|Orthel]], House Auvryath settled here.
 
 0 - The [[290-299 TTRPG Notes/295 Current Games/11 Weeping City/Wiki/Lore/Hallowing\|Hallowing]]. 
 Peace was falsely observed.
