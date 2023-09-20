@@ -7,5 +7,5 @@ A large drow city located in the uppermost reaches of the Underdark, Orthel is r
 
 A myconid settlement, ruled over by the sovereign of its 10 circles, [[290-299 TTRPG Notes/295 Current Games/25 Orthel Oblivion/Wiki/Person/Fygror\|Fygror]]. 
 
-Several thousand years ago, Fygror opened the city as a refugee or those escaping lolthite society - starting with [[House Do'ghym\|House Do'ghym]], then [[House Auvryath\|House Auvryath]] and [[290-299 TTRPG Notes/295 Current Games/25 Orthel Oblivion/Wiki/Group/House Ilfar\|House Ilfar]].
+Several thousand years ago, Fygror opened the city as a refugee or those escaping lolthite society - starting with [[290-299 TTRPG Notes/295 Current Games/25 Orthel Oblivion/Wiki/Group/House Do'ghym\|House Do'ghym]], then [[House Auvryath\|House Auvryath]] and [[290-299 TTRPG Notes/295 Current Games/25 Orthel Oblivion/Wiki/Group/House Ilfar\|House Ilfar]].
 
