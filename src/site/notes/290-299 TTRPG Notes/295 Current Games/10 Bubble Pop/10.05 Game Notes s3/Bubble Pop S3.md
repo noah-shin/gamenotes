@@ -548,3 +548,4 @@ before shooting jupiter and quinn
 [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/8. The Gang Get Therapy\|8. The Gang Get Therapy]]
 [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/9. Family Dinners\|9. Family Dinners]]
 [[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/10. Innard Reveals\|10. Innard Reveals]]
+[[290-299 TTRPG Notes/295 Current Games/10 Bubble Pop/10.05 Game Notes s3/11. The gang heads (not) home\|11. The gang heads (not) home]]
