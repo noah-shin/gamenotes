@@ -3,6 +3,16 @@
 ---
 
 
+
+
+
+
+
+
+
+
+
+
 A game set in the Destiny universe, run by Lou!
 Fireteam Unknown is made of the curious exo Idle-112 (Noah), stoic hunter Grey (Jake), excited hunter Sira (Lauren), chaotic warlock Vix (Justine) and steadfast titan Arthur (Kerry). They have gathered to save Earth, again. And hopefully get some loot along the way!
 
