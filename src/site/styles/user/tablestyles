@@ -1,0 +1,13 @@
+table thead tr th {
+  text-align: left;
+}
+
+thead {
+  border-top: 2px solid hsla(37, 65%, 63%, 1);
+}
+
+thead th {
+  background-color: var(--background-secondary) !important;
+  font-variant-caps: small-caps;
+  border-bottom: 1px solid var(--background-secondary);
+}
