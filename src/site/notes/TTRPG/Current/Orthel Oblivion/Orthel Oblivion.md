@@ -6,7 +6,7 @@ Drow politics, and an Underdark on the brink of change.
 
 #
 
-![sable picrew.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/sable%20picrew.png) 
+![sable picrew.png|center|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/sable%20picrew.png) 
 ![odessa picrew icon.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/odessa%20picrew%20icon.png)
 ![elerra picrew.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/elerra%20picrew.png)
 
