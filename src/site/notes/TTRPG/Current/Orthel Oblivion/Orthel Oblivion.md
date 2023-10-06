@@ -15,11 +15,9 @@ Drow politics, and an Underdark on the brink of change.
 
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/1 - Orthel Opens\|1 - Orthel Opens]]
 > Summary
-
-
+# 
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/2 - Locks and Collars\|2 - Locks and Collars]]
 > Summary
-
 # 
 
 > [!info]- Meta
