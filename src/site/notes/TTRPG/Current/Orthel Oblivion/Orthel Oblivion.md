@@ -23,6 +23,10 @@ Drow politics, and an Underdark on the brink of change.
 > Leave the house
 > Sable almost dies cause he's still got the runic magic in him
 > Start the revolution
+
+> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/4.5 - Odessa's Downtime\|4.5 - Odessa's Downtime]]
+> Get spored
+
 # 
 
 > [!info]- Meta
