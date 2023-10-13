@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Orthel Oblivion/Sessions/1 - Orthel Opens/"}
 ---
 
-[[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[2 - Locks and Collars\|2 - Locks and Collars]]
+[[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[TTRPG/Current/Orthel Oblivion/Sessions/2 - Locks and Collars\|2 - Locks and Collars]]
 
 
 We start in the north of [[Orthel\|Orthel]], as a spider-drawn garish-white carriage pulls up to the main building of [[House Ilfar\|House Ilfar]]. The carriage is bright and out of place, too ornate, with too many curtains, too much gold, etc.
@@ -230,9 +230,13 @@ Elerra sees the Echo dissolve, and sees Shalvyl taste a meat chunk of a body, th
 
 ---
 
-![sable picrew.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/sable%20picrew.png) 
-![odessa picrew icon.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/odessa%20picrew%20icon.png)
-![elerra picrew.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/elerra%20picrew.png)
+| -------------------- | -------------------------- | --------------------- |
+| -------------------- | -------------------------- | --------------------- |
+| ![[sable picrew.png\|250]] | ![[odessa picrew icon.png\|250]] | ![[elerra picrew.png\|250]] |
+
+
+
+![sable picrew.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/sable%20picrew.png)  ![odessa picrew icon.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/odessa%20picrew%20icon.png) ![elerra picrew.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/elerra%20picrew.png)
 
 
 ### Summary
