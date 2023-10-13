@@ -2,8 +2,19 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Orthel Oblivion/Orthel Oblivion/"}
 ---
 
+> [!info]- Meta
+> DM:: [[Jess\|Jess]]
+> Character:: [[Odessa\|Odessa]]
+> Players:: [[Lauren\|Lauren]], [[Jake\|Jake]]
+> [[TTRPG/Current/Orthel Oblivion/Orthel Wiki\|Orthel Wiki]]
+
 Drow politics, and an Underdark on the brink of change.
-### Contents
+
+| [[Sable\|Sable]]                      | [[Odessa\|Odessa]]                           | [[Elerra\|Elerra]]       |
+| -------------------------- | -------------------------------- | --------------------------- |
+| ![[sable picrew.png\|250]] | ![[odessa picrew icon.png\|250]] | ![[elerra picrew.png\|250]] |
+
+# Contents
 
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/1 - Orthel Opens\|1 - Orthel Opens]]
 > Summary
@@ -27,12 +38,32 @@ Drow politics, and an Underdark on the brink of change.
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/4.5 - Odessa's Downtime\|4.5 - Odessa's Downtime]]
 > Get spored
 
-# 
+> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/5 - To cause a scene\|5 - To cause a scene]]
+> Summary
 
-> [!info]- Meta
-> DM:: [[Jess\|Jess]]
-> Character:: [[Odessa\|Odessa]]
-> Players:: [[Lauren\|Lauren]], [[Jake\|Jake]]
-> [[TTRPG/Current/Orthel Oblivion/Orthel Wiki\|Orthel Wiki]]
+# Trackers
+### Quests
+
+> [!hint] Unassigned
+> Below are any quests that don't have a formal questline associated with them!
+>  | Quest | Description | Session |
+> | ----- | ----------- | ------- |
+> 
+{ .block-language-dataview}
+
+> [!hint]- Quest Name
+> _note_
+>  | Quest Step | Description | Session |
+> | ---------- | ----------- | ------- |
+> 
+{ .block-language-dataview}{ #questname}
+
+
+### Loot
+
+| Item | Description | Session |
+| ---- | ----------- | ------- |
+
+{ .block-language-dataview}
 
 
