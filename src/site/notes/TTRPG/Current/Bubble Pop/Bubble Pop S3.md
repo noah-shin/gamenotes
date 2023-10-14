@@ -13,6 +13,11 @@ Set in a post-apocalyptic world, where nuclear fallout caused mutations and magi
 > [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/12 - Oops all explosions\|12 - Oops all explosions]]
 > Summary
 
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/12.5 - Quinn in Trouble\|12.5 - Quinn in Trouble]]
+> Summary
+
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/13 - Pit Fight Baby Powder\|13 - Pit Fight Baby Powder]]
+> Summary
 
 > [!info]- Meta
 > DM:: [[Lauren\|Lauren]]
