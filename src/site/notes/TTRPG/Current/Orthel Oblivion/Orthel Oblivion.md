@@ -41,6 +41,9 @@ Drow politics, and an Underdark on the brink of change.
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/5 - To cause a scene\|5 - To cause a scene]]
 > Summary
 
+> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/6 - Gut Punch\|6 - Gut Punch]]
+> Summary
+
 # Trackers
 ### Quests
 
