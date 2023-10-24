@@ -6,8 +6,7 @@ Hi!
 
 Welcome to my site, published in this random back corner of the internet. I hope you didn't find me through anything as arbitrary as a search engine or web crawler, but you actually know me, or you wanted to see how I operate.
 
-Anyway, you're probably here for something specific. 
-Maybe its my [[Meta/Repositories/00.5 - Writing\|Writing Projects]] or my ttrpg [[Meta/Repositories/00.7 - Campaigns\|Game Notes]]? 
+Anyway, you're probably here for something specific, maybe its my [[Meta/Repositories/00.5 - Writing\|Writing Projects]] or my ttrpg [[Meta/Repositories/00.7 - Campaigns\|Game Notes]]? 
 Hope you find what you're looking for!
 
 
