@@ -61,11 +61,11 @@ Elerra was crying throughout the entire thing.
 Elerra: If you didn't want people to get hurt, then you should've trusted me, to know that I'm not the kind of person to hurt somebody. Your lack of faith or trust in me is what puts this hurt on this field. Cause now you're exactly like every person who came before you.
 
 Odessa walks forward, splaying a hand across Esdi's neck, casting Cure Wounds on the circular brands where they reach.
-::spoilers Odessa can feel this Presence, a magical resonance where the sharran magic meet the runes::
+*hidden stuff was here*
 The half carved matching circle on his stomach closes slightly, and his eyes flutter open.
 
 Odessa steps forward, grabbing Beau by the back, digging the morningstar into his chin.
-She whispers ::spoilers a different thirteenth truth into his ear::
+She whispers *hidden stuff was here*
 
 Beau lowers his head, breaking his skin against the weapon.
 He says: Pain is a lesson is a lesson. Only in suffering do we learn.
