@@ -31,41 +31,6 @@ Team image
 > [!quote]- [[TTRPG/Current/LouMoP/Sessions/5 - Completionist's Bargain\|5 - Completionist's Bargain]]
 > Contents
 
-> [!quote]- [[TTRPG/Current/LouMoP/Sessions/6 - Lou\|6 - Lou]]
-# Trackers
-### Quests
-
-> [!hint] Unassigned
-> Below are any quests that don't have a formal questline associated with them!
->  | Quest          | Description | Session                                               |
-> | -------------- | ----------- | ----------------------------------------------------- |
-> | Unknown Quest  | <ul></ul>   | [[TTRPG/Current/LouMoP/Sessions/6 - Lou\|6 - Lou]] |
-> 
-{ .block-language-dataview}
-
-> [!hint]- Agatha the Banshee
-> _note_
->  | Quest Step | Description | Session |
-> | ---------- | ----------- | ------- |
-> 
-{ .block-language-dataview}{ #agathathebanshee}
-
-### Loot
-
-| Item  | Description            | Session                                               |
-| ----- | ---------------------- | ----------------------------------------------------- |
-| Item  | <ul><li>Info</li></ul> | [[TTRPG/Current/LouMoP/Sessions/6 - Lou\|6 - Lou]] |
-
-{ .block-language-dataview}
-
-### XP
-
-| XP      | Description            | Session                                               |
-| ------- | ---------------------- | ----------------------------------------------------- |
-| Amount  | <ul><li>Info</li></ul> | [[TTRPG/Current/LouMoP/Sessions/6 - Lou\|6 - Lou]] |
-
-{ .block-language-dataview}
-
-
+> [!quote]- [[TTRPG/Current/LouMoP/Sessions/6 - Glamorous but Shrek\|6 - Glamorous but Shrek]]
 
 
