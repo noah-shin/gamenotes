@@ -408,6 +408,7 @@ Sable pulls forward and kisses her.
 ---
 
 Elerra walks in, then to the balcony.
+[jess vc: Im feeling a sudden way so, please take the floor.]
 She meets Odessa's gaze, standing behind Sable.
 E: This was about love?
 (She had overheard the conversation from the convo about love through the shroom link)
@@ -435,6 +436,7 @@ E: I could have covered for you! Be your wing woman?
 S: So I show up and be like 'Oh hey, what do you do for a living? Yeah, I live my life as someone's dog.'
 S: That's not - I don't know how many people are
 Odessa tightens her grip on the back of his neck, and his collar. Elerra catches the movement.
+[jess vc: pls no scene pls no]
 E: Some people are really into that, you know.
 S: Sure they are, but I don't really want to make those kind of jumps.
 S: If I can, you know, do a cool thing, kill god, and I can get hugs.
@@ -508,6 +510,7 @@ E: That is impressive.
 Elerra passes it back, hilt first.
 Odessa goes to take it, but her hand passes through as the blade turns to smoke and shadow. Instead, she reaches to clasp the outside of her arm, runs along to the elbow, pulls Elerra closer.
 Des tucks a piece of hair behind Elerra's ear.
+[Jess vc: when the hand pops up on screen / that slutty little hand]
 (In the background, Sable is walking back and forth, trying to read very quickly, but frequently glancing up at the pair, blushing, and going back to reading.)
 
 O: Sable is desperate, he's easy to read.
@@ -516,6 +519,7 @@ E, under her breath: [Something in Irish - meaning 'I like it']
 O: I know that this is reciprocated, but I'd appreciate ... clarity for my next steps.
 E, quietly: If you were to ever overstep, let me be very clear - 
 Odessa can feel the point of a dagger on the inside of her thigh.
+[jess vc: is that / is that a dagger in your pocket]
 E: I have ways of indicating if I wasn't interested.
 And Elerra pulls Odessa in for a kiss.
 
