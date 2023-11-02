@@ -44,6 +44,9 @@ Drow politics, and an Underdark on the brink of change.
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/6 - Gut Punch\|6 - Gut Punch]]
 > Summary
 
+> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/7 - Kiss and make out\|7 - Kiss and make out]]
+> Summary
+
 # Trackers
 ### Quests
 
