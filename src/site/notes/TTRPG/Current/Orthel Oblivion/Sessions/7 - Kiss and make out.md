@@ -390,9 +390,8 @@ O: You don't know what I'm about to say next.
 Odessa traces the back of her hand, gentle, perhaps even lovingly, down the side of Sable's face, then rests the flat of her palm against his throat, against his collar.
 Sable goes red.
 
-O: I think that's the thing I don't get.
-O: [Fuck the transcript actually, never relying on it again.]
-Sable weakly punches his leg.
+O: I think that's the thing I don't get. You - you _had_ it. When was the _last_ time someone ever touched you gently? Someone, at some point, did love you, held you. And I - I don't see what's so good about it?
+Sable weakly punches his leg, trying to get a handle on things.
 S: In that horrible little moment where nothing goes your way, and you can't get yourself back up, and you can't figure out what you want, and you can't carry on with you are. It's something right there that will pick you up.
 O: So it's a person that gives you purpose? Decides your morality?
 S: Doesn't decide, more of a ... comfrot.
