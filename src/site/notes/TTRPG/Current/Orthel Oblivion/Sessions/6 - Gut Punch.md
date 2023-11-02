@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Orthel Oblivion/Sessions/6 - Gut Punch/"}
 ---
 
-> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/5 - To cause a scene\|5 - To cause a scene]] < [[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[7 - Orthel\|7 - Orthel]]
+> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/5 - To cause a scene\|5 - To cause a scene]] < [[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[TTRPG/Current/Orthel Oblivion/Sessions/7 - Fight and make out\|7 - Fight and make out]]
 > ![lastSession#Summary]
 
 
@@ -328,4 +328,11 @@ Then stops, staggering as she stands, feeling the feedback loop from Ezdi, feeli
 
 ### Summary
 
-Text
+Ilfar Matron looking ill
+The Matrons entered
+Elerra and Sable dance
+Elerra kicks out a Lar'Loth daughter from the ball - inappropriately invited by the Laval Matron, and claimed Fiore as a mate
+Sable has a convo with Esdi, lmao very awkward
+Esdi's poisoned most of the drinks with alcohol
+Odessa and Esdi eye fuck and telepathically fuck for a bit
+Esdi gets some air, gets stabbed by Beau
