@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/LouMoP/Sessions/5 - Completionist's Bargain/"}
 ---
 
-> [!quote]- [[TTRPG/Current/LouMoP/Sessions/4 - Manor Delving\|4 - Manor Delving]] < [[TTRPG/Current/LouMoP/Lost Mines of Phandelver\|LouMoP]] > [[6 - Lou\|6 - Lou]]
+> [!quote]- [[TTRPG/Current/LouMoP/Sessions/4 - Manor Delving\|4 - Manor Delving]] < [[TTRPG/Current/LouMoP/Lost Mines of Phandelver\|LouMoP]] > [[TTRPG/Current/LouMoP/Sessions/6 - Lou\|6 - Lou]]
 > Head to Barthen's, grab brekkie
 > Head to Stonehill Inn
 > Intimate a bunch of Redbrands into summoning their boss
@@ -62,6 +62,8 @@ Walk through another door to a wizarding / alchemical workshop.
 	Set up to brew Potions of Invisibility.
 Bookshelves are covered in sheaves of parchment and tomes.
 
+commissioned by [[Llathander\|Llathander]], lost when the Cave vanished
+
 > [!NOTE] Book: Lost Mine of Phandelver and the Forge of Spells
 > A magic mace named 'Lightbringer' was commissioned by Llathander (God of Dawn) - lost when the cave and mine vanished from history.
 
@@ -112,7 +114,12 @@ Garaele: I've been asked to get it for the clergy. They get delivered by snails.
 Garaele: Agatha is near Coneberry, it was sacked by barbarians years ago, the Triboar trail goes straight through it
 Garaele: x5 potions of healing if we return with the info
 
-
 ### Summary
 
-Text
+Find Droop, find the secret entrance to Glassstaff's office
+We talk to him
+Then grab him, and promise him safety in exchange for information
+Loot the room
+Take him to prison - Sildar recognises him as an old friend
+We give the goathide to Barthen
+Get given a task to go find Agatha by Sister Garaele.
