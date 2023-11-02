@@ -77,7 +77,7 @@ They escort him from the room.
 
 Odessa orders the ballroom cleared.
 Rocky, the Ilfar weaponmaster, hustles everyone out.
-Doghym and DSL Matrons linger. Arcice are at the door, waiting to talk to Sable.
+Doghym and DSL Matrons linger. Arcice are also waiting to talk to Sable.
 
 Avis had stepped forwards, Silvius in tow, to help Esdi up.
 She looks unsurprised.
@@ -140,7 +140,7 @@ O: See, I think the issue here is your words, to me, mean jack shit cause I've k
 S: This is me trying to unlearn a _very_ long time of doing anything I could - _anything_ - to just . Breathe, and continue to be who I am. Believe me, I am trying - I really really am - but I can't make all that go away in an instant.
 S: There isn't a spell that can fix all these problems.
 
-Odessa pushes up from the pillar and steps closer to Elerra. (Jake vc: Oh no)
+Odessa pushes up from the pillar and steps closer to Elerra. [Jake vc: Oh no]
 O: There isn't, but there's no reason to ... trust ... in order to ... have.
 O: You don't have to push away these things, you don't have to throw and break things that aren't ... perfect.
 O: Like him.
@@ -151,7 +151,7 @@ S: It's not a case of _liking_ him - there's a bit of an instinct, but that's no
 S: But I don't have any idea how to do it myself.
 S: So I need him to actually pursue that. This wasn't some sudden desire to go after that man, he is just ... a very important tool.
 
-Odessa steps behind Elerra, to her shoulder. (Jake vc: Oh fuck)
+Odessa steps behind Elerra, to her shoulder. [Jake vc: Oh fuck]
 O: He's kind of cute when he's this desperate to not lose your favour. You don't have to give it, but you don't have to just kick him out into the cold.
 
 Elerra just stares at Sable.
@@ -188,7 +188,7 @@ O, in an undertone to Elerra: He can't get away with this.
 S: This me is different from even a few days ago, and I apologise for the harm I've caused - I didn't know what else to do.
 E: I wasn't talking about the harm _before_ this.
 S: Look, I was trying, like I said, I wasn't going to harm anyone here.
-O, in an undertone to Elerra: He can't get away with the shit you can. (Jake vc: Wyrmtongue)
+O, in an undertone to Elerra: He can't get away with the shit you can. [Jake vc: Wyrmtongue]
 S: I will be honest to my fullest capacity - I don't want to hurt anyone.
 
 E: In this new world that you want to create, you're going to be judge, jury, executioner. You're going to _be_ God, going to make the rules, decide how you want things to be?
@@ -240,7 +240,11 @@ S: I've played the numbers game before, and I will take my chances that we can m
 E: Well, actions speak louder than words.
 
 O: My first request -
-(Sidebar - (Jake vc: God)(Noah vc: What have I done? What have I said to instil this?)(Jake vc: Sable's just worried)(Noah vc: What do you think I'm gonna say?)(Jake vc: Too much)
+(Sidebar - [Jake vc: God]
+[Noah vc: What have I done? What have I said to instil this?] 
+[Jake vc: Sable's just worried]   
+[Noah vc: What do you think I'm gonna say?] 
+[Jake vc: Too much])
 O: I want to speak to Beau.
 S:  I would love that, please.
 O: If Esdi is being targeted, I want to know why.
