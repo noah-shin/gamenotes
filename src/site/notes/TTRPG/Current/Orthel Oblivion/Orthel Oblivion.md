@@ -19,8 +19,10 @@ Drow politics, and an Underdark on the brink of change.
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/1 - Orthel Opens\|1 - Orthel Opens]]
 > Summary
 
+
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/2 - Locks and Collars\|2 - Locks and Collars]]
 > Summary
+
 
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/3 - To kill an orphan\|3 - To kill an orphan]]
 > Dungeon crawl through a workshop full of snow
@@ -30,13 +32,16 @@ Drow politics, and an Underdark on the brink of change.
 > Sable ripped open a skull to check for mushrooms while Odessa revealed backstory (the Blooding)
 > The Sable (secretly) pulled the magic out the rune and into his eyes.
 
+
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/4 - Viva la\|4 - Viva la]]
 > Leave the house
 > Sable almost dies cause he's still got the runic magic in him
 > Start the revolution
 
+
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/4.5 - Odessa's Downtime\|4.5 - Odessa's Downtime]]
 > Get spored
+
 
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/5 - To cause a scene\|5 - To cause a scene]]
 > 
@@ -49,6 +54,7 @@ Drow politics, and an Underdark on the brink of change.
 Text
 
 </div></div>
+
 
 
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/6 - Gut Punch\|6 - Gut Punch]]
@@ -69,6 +75,7 @@ Odessa and Esdi eye fuck and telepathically fuck for a bit
 Esdi gets some air, gets stabbed by Beau
 
 </div></div>
+
 
 
 > [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/7 - Fight and make out\|7 - Fight and make out]]
@@ -93,9 +100,10 @@ More chat, Sable reads a book on House Arcice history, Elerra and Odessa make ou
 </div></div>
 
 
-> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/8 - Orthel\|8 - Orthel]]
+
+> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/8 - Sibling's Dilemma\|8 - Sibling's Dilemma]]
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ttrpg/current/orthel-oblivion/sessions/8-orthel/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ttrpg/current/orthel-oblivion/sessions/8-sibling-s-dilemma/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -104,6 +112,8 @@ More chat, Sable reads a book on House Arcice history, Elerra and Odessa make ou
 Text
 
 </div></div>
+
+
 
 # Trackers
 ### Quests
