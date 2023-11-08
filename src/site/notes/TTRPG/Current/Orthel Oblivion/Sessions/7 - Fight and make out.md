@@ -530,4 +530,13 @@ And Elerra pulls Odessa in for a kiss.
 
 ### Summary
 
-Text
+We open to a Ball that is actually a Battle
+Sable vs Elerra counterspell
+Manage to stop Beau, he gets taken to prison
+Also save Esdi, and he gets taken to the infirmary
+Little chat between Avis and Odessa
+Elerra kicks everyone out the ballroom, then she and Sable _chat_. 
+Sable comes clean about wanting to kill (a) God.
+Elerra goes to take care of shit, Sable and Odessa talk about him fucking a God, then make out.
+Elerra returns, stunned that Sable was just doing it all for 'love'. 
+More chat, Sable reads a book on House Arcice history, Elerra and Odessa make out.
