@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Bubble Pop/BP S3/15 - The STEM Girlies/"}
 ---
 
-> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/14 - Revive and Discharge\|14 - Revive and Discharge]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[16 - Bubble Pop Session\|16 - Bubble Pop Session]]
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/14 - Revive and Discharge\|14 - Revive and Discharge]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[TTRPG/Current/Bubble Pop/BP S3/16 - Secrets Shared Secrets Kept\|16 - Secrets Shared Secrets Kept]]
 > ![lastSession#Summary]
 
 
@@ -62,6 +62,13 @@ discussion about ice creams
 mabel texts: stay where you are. update will come in the morning
 
 we all head to bed, starting watches
+
+---
+
+- [!] Jupiter needs to attune magical items
+- [!] We all get a level up
+
+
 ### Summary
 
 Text
