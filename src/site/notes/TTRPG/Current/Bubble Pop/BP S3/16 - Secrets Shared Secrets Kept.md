@@ -107,6 +107,7 @@ there's a strong sense of necrotic energy nearby that is linked to the sword, th
 
 walker and honey have a watch
 talk about the wings & the celestial nature
+each layer of the wings do different things / have extra powers (he doesn't remember exactly what each do)
 
 ---
 
