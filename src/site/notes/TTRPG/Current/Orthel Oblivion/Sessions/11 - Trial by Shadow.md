@@ -77,7 +77,33 @@ O: When a God tells you to do something, you ... you do it.
 S: Ah - okay okay - mhm - I promised you to Shar. I kept it vague and loose, but. 
 Sable tries to excuse himself, blaming it on the fact that he was in a near death experience.
 
-*hidden stuff was here*spoilers Heyliel, in awe: It's her. It's always been her.::
+*hidden stuff was here*
+
+E (to Shar): This one had no right to bargain me away. I will spend my life denying any sort of partnership with you.
+
+O finishes basic rituals to both Shar and Lolth.
+
+O: First order will be talking with the Sovereign without being exiled or forcing Elerra into an arranged marriage. Second will be the book.
+The sister is trapped in the Shadow Weave, meaning the book should still be secure.
+
+---
+
+Footsteps come back up the stairs
+E takes the cloak back from O, who gives it back with a look of gratitude.
+
+Matron Deepwater, Lance, and two guards
+M: Sable, is it? Why - we just sent a carriage to the House Arcice apocathery. All three of you have been summoned to see the Sovereign.
+M: Your Matrons have arrived, Odessa. We will meet them in the central hall.
+Two guards approach with cuffs, Des offers them her hands infront of her.
+
+---
+
+To the central hall
+On the way, Odessa stumbles once, a look of pain flashing and she briefly looks at Elerra, before steeling it.
+
+The three other Matrons are being led into the Hall, backlit by blue light pouring in through the door.
+
+*hidden stuff was here*
 
 MDesor starts the greetings.
 MDeepwater: I apologise for the ball last night.
