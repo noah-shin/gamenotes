@@ -248,6 +248,9 @@ Text
 </div></div>
 
 
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/17 - Zone of Truth\|17 - Zone of Truth]]
+> Text
+
 > [!info]- Meta
 > DM:: [[Lauren\|Lauren]]
 > Character:: [[Quinn Marston\|Quinn Marston]]
