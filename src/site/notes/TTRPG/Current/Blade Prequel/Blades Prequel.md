@@ -3,9 +3,9 @@
 ---
 
 > [!info]- Meta
-> DM::
-> Character::
-> Players:: name, name  
+> DM:: Lou
+> Character:: Armand Silver
+> Players:: Justine
 > [Wiki]
 
 Etienne Gold and Armand Silver are upstanding business folk, running their new casino - The Fox Den.
