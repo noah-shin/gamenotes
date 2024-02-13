@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Bubble Pop/BP S3/17 - Zone of Truth/"}
 ---
 
-> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/16 - Secrets Shared Secrets Kept\|16 - Secrets Shared Secrets Kept]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[TTRPG/Current/Bubble Pop/BP S3/18 - Next Session\|18 - Next Session]]
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/16 - Secrets Shared Secrets Kept\|16 - Secrets Shared Secrets Kept]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[TTRPG/Current/Bubble Pop/BP S3/18 - Stuck In A Wall\|18 - Stuck In A Wall]]
 > ![lastSession#Summary]
 
 
