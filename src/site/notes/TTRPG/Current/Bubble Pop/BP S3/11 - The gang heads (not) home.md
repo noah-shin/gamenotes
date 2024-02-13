@@ -2,9 +2,21 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Bubble Pop/BP S3/11 - The gang heads (not) home/"}
 ---
 
-> [!quote]- [[10 - Innard Reveals\|10 - Innard Reveals]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[TTRPG/Current/Bubble Pop/BP S3/12 - Oops all explosions\|12 - Oops all explosions]]
-> ![lastSession#Summary]
-> [nextSession]
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/10 - Innards Revealed\|10 - Innards Revealed]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[TTRPG/Current/Bubble Pop/BP S3/12 - Oops all explosions\|12 - Oops all explosions]]
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ttrpg/current/bubble-pop/bp-s3/10-innards-revealed/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Summary
+
+We kill the two people on patrol, then flee through the tunnels, getting lost and ending in the wrong direction
+We wake to a text that alanis has put out a top level alert, and that taylor (then Alanis) are missing
+We stay put, and Vio shares their memory stick - and the info on it
+We decide to head back to the base
+
+</div></div>
+
 
 
 We decide to head back to the outskirts of Angelos - not in, but to be nearby.
@@ -89,7 +101,9 @@ josh drives us into *middlesborough*
 	black sickened ground across the city, with patches of dark red moss
 	no standing structures
 
-
 ### Summary
 
-Text
+We find Alanis as we head through the tunnels back to base
+Have a full debrief
+Meet up with Josh for a new mission to go to Middlesborough and rescue Taylor
+As we drive there, Unity and Vio do _not_ make friends.
