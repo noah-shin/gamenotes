@@ -2,8 +2,21 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Bubble Pop/BP S3/12 - Oops all explosions/"}
 ---
 
-> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/11 - The gang heads (not) home\|11 - The gang heads (not) home]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[13 -\|13 -]]
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/11 - The gang heads (not) home\|11 - The gang heads (not) home]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[TTRPG/Current/Bubble Pop/BP S3/13 - Pit Fight Baby Powder\|13 - Pit Fight Baby Powder]]
 > 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ttrpg/current/bubble-pop/bp-s3/11-the-gang-heads-not-home/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Summary
+
+We find Alanis as we head through the tunnels back to base
+Have a full debrief
+Meet up with Josh for a new mission to go to Middlesborough and rescue Taylor
+As we drive there, Unity and Vio do _not_ make friends.
+
+</div></div>
+
 
 
 Jupiter and Vio go one way, Quinn Unity and Josh go ontop.
@@ -67,4 +80,4 @@ Jupiter notices that the door sits flush with the wall, near hidden, no hinges o
 
 ### Summary
 
-Text
+We investigate Middlesborough, trip an alarm, get surrounded, and brought down into an evil scientist base.
