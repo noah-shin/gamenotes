@@ -128,7 +128,7 @@ Behind the door at the end of the corridor is a large throne room.
 		One is taller green one, wearing a smaller cap, with smaller caps on their shoulders and down their legs.
 		Between them is a drow, young, with choppy white hair, pale eyes hazed over with green. Smiling, some of his teeth have been capped with emeralds. A sigil clasps his cloak. Ezdi of House Lyzar.
 	Infront of them are four people -
-		Tall thin woman with a floaty air, pale red eyes, paler red scelera, long white hair tied in a thin gold webbed net, and a huge gold quarterstaff with the top split into a Y, webs purposefully spun between them. She's looking quite sick, is Ilaris La'val
+		Tall thin woman with a floaty air, pale red eyes, paler red scelera, long white hair tied in a thin gold webbed net, and a huge gold quarterstaff with the top split into a Y, webs purposefully spun between them. She's looking quite sick, is [[TTRPG/Current/Orthel Oblivion/Wiki/Person/Ilaris La'val\|Ilaris La'val]]
 		Messy black hair, red eyes, red lips, sharp teeth, neck is ropy with fresh red scarring, wearing black furs, and a mass of legs crawls out of them, before standing at her feet chittering. Ilia Desor
 		Shavlyl, simple clothes, stacked silver necklaces. Skin and eyes and hair are all very silver. She's wearing a huge fuck-off sword, curved at the tip, engraved in a language no-one can read, on her hip.
 		Stood a little behind Illaris is [[Odessa\|Odessa]].
@@ -230,13 +230,10 @@ Elerra sees the Echo dissolve, and sees Shalvyl taste a meat chunk of a body, th
 
 ---
 
-| -------------------- | -------------------------- | --------------------- |
-| -------------------- | -------------------------- | --------------------- |
+| Sable                      | Odessa                           | Elerra       |
+| -------------------------- | -------------------------------- | --------------------------- |
 | ![[sable picrew.png\|250]] | ![[odessa picrew icon.png\|250]] | ![[elerra picrew.png\|250]] |
 
-
-
-![sable picrew.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/sable%20picrew.png)  ![odessa picrew icon.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/odessa%20picrew%20icon.png) ![elerra picrew.png|250](/img/user/TTRPG/Current/Orthel%20Oblivion/Wiki/Attachments/elerra%20picrew.png)
 
 
 ### Summary
