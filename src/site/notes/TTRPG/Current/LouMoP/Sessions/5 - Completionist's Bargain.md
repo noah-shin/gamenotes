@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/LouMoP/Sessions/5 - Completionist's Bargain/"}
 ---
 
-> [!quote]- [[TTRPG/Current/LouMoP/Sessions/4 - Manor Delving\|4 - Manor Delving]] < [[TTRPG/Current/LouMoP/Lost Mines of Phandelver\|LouMoP]] > [[TTRPG/Current/LouMoP/Sessions/6 - Lou\|6 - Lou]]
+> [!quote]- [[TTRPG/Current/LouMoP/Sessions/4 - Manor Delving\|4 - Manor Delving]] < [[TTRPG/Current/LouMoP/Lost Mines of Phandelver\|LouMoP]] > [[TTRPG/Current/LouMoP/Sessions/6 - Glamorous but Shrek\|6 - Glamorous but Shrek]]
 > Head to Barthen's, grab brekkie
 > Head to Stonehill Inn
 > Intimate a bunch of Redbrands into summoning their boss
@@ -61,6 +61,9 @@ Glass Staff (+1AC, 10 charges to cast: Mage Armor (1), Shield (2), regain 1d6+4 
 Walk through another door to a wizarding / alchemical workshop.
 	Set up to brew Potions of Invisibility.
 Bookshelves are covered in sheaves of parchment and tomes.
+
+- [*] Lightbringer [Item] 
+	- [i] Magic mace 
 
 commissioned by [[Llathander\|Llathander]], lost when the Cave vanished
 
