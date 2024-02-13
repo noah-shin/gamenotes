@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/TTRPG/Solo/Journal of Rue Softsong/The Journal of Rue Softsong/"}
+{"dg-publish":true,"permalink":"/TTRPG/Solo/Journal of Rue Softsong/The Journal of Rue Softsond/"}
 ---
 
 Description
