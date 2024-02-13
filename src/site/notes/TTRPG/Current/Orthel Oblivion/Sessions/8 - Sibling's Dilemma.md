@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Orthel Oblivion/Sessions/8 - Sibling's Dilemma/"}
 ---
 
-> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/7 - Fight and make out\|7 - Fight and make out]] < [[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[9 - Orthel Session\|9 - Orthel Session]]
+> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/7 - Fight and make out\|7 - Fight and make out]] < [[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[TTRPG/Current/Orthel Oblivion/Sessions/9 - Hot Potato\|9 - Hot Potato]]
 > 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ttrpg/current/orthel-oblivion/sessions/7-fight-and-make-out/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -67,7 +67,7 @@ Elerra pulls out a pebble, turns it into a Tiny Servant, which crawls inside the
 Reveals 5GP, 3 small vials of perfume (like samples), palm sized black orb, and his gold and pink mask.
 E, to the room: Did you guys make it in, or am I in an empty room on my own?
 
-::spoilers Odessa successfully steals the orb - its the powder of shadows, used in shadow magic::
+*hidden stuff was here*
 
 Sable lets go, walks up to Beau's cell, then drops invisibility.
 S: It looks like its been an eventful day
