@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/LouMoP/Sessions/4 - Manor Delving/"}
 ---
 
-> [!quote]- [[3 - A manifesto of business\|3 - A manifesto of business]] < [[TTRPG/Current/LouMoP/Lost Mines of Phandelver\|LouMoP]] > [[TTRPG/Current/LouMoP/Sessions/5 - Completionist's Bargain\|5 - Completionist's Bargain]]
+> [!quote]- [[TTRPG/Current/LouMoP/Sessions/3 - A manifesto of Business\|3 - A manifesto of business]] < [[TTRPG/Current/LouMoP/Lost Mines of Phandelver\|LouMoP]] > [[TTRPG/Current/LouMoP/Sessions/5 - Completionist's Bargain\|5 - Completionist's Bargain]]
 > ![lastSession#Summary]
 > [nextSession]
 
