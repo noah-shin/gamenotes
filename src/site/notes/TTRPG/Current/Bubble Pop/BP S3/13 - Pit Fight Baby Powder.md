@@ -2,8 +2,18 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Bubble Pop/BP S3/13 - Pit Fight Baby Powder/"}
 ---
 
-> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/12 - Oops all explosions\|12 - Oops all explosions]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[14 - Bubble Pop\|14 - Bubble Pop]]
-> ![lastSession#Summary]
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/12 - Oops all explosions\|12 - Oops all explosions]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[TTRPG/Current/Bubble Pop/BP S3/14 - Revive and Discharge\|14 - Revive and Discharge]]
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ttrpg/current/bubble-pop/bp-s3/12-oops-all-explosions/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Summary
+
+We investigate Middlesborough, trip an alarm, get surrounded, and brought down into an evil scientist base.
+
+</div></div>
+
 
 
 After a near day after arriving, there is a flurry of movement in the corridor - regimented footsteps that peel away
@@ -38,7 +48,7 @@ The person Icarus was arguing with scurries away.
 
 Jupiter looks oddly calm, rhythmically jangling their cuffs
 Honey doesn't like what's gonna happen but is resolute, shooting glances at Icarus.
-Vio is ::spoilers an absence of Being, blankness, but Focussed :: and still partially blind with a focused calm.
+Vio is ::spoilers an absence of Being, blankness, but Focussed and :: still partially blind with a focused calm.
 Unity looks mixed weary but frazzled, but in great physical health, anxiety hardened into something calculated
 
 Old young man: Tonight's entertainment will be the return of a fan favourite! 
@@ -58,4 +68,7 @@ We teleport away.
 
 ### Summary
 
-Text
+After a day, we're all gathered together and taken down into a sterile lab
+Quinn gets shoved into a pit fight with iceguy
+Before the gang break out of their cuffs and we all begin fighting, killing all the guards in the room
+Before teleporting away!
