@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Orthel Oblivion/Sessions/4 - Viva la/"}
 ---
 
-> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/3 - To kill an orphan\|3 - To kill an orphan]] < [[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[5 -\|5 -]]
+> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/3 - To kill an orphan\|3 - To kill an orphan]] < [[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[TTRPG/Current/Orthel Oblivion/Sessions/5 - To cause a scene\|5 - To cause a scene]]
 > Dungeon crawl through a workshop full of snow
 > Killed some orphans is very impressive ways with inspirational backflips
 > A conversation about collars
