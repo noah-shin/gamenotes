@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Orthel Oblivion/Sessions/5 - To cause a scene/"}
 ---
 
-> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/4 - Viva la\|4 - Viva la]] < [[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[6 - Orthel\|6 - Orthel]]
+> [!quote]- [[TTRPG/Current/Orthel Oblivion/Sessions/4 - Viva la\|4 - Viva la]] < [[TTRPG/Current/Orthel Oblivion/Orthel Oblivion\|Orthel Oblivion]] > [[TTRPG/Current/Orthel Oblivion/Sessions/6 - Gut Punch\|6 - Gut Punch]]
 > Leave the house
 > Sable almost dies cause he's still got the runic magic in him
 > Start the revolution
