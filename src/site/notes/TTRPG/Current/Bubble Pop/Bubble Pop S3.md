@@ -254,6 +254,9 @@ Text
 > [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/18 - Stuck In A Wall\|18 - Stuck In A Wall]]
 > Text
 
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/19 - The shut down\|19 - The shut down]]
+> Text
+
 > [!info]- Meta
 > DM:: [[Lauren\|Lauren]]
 > Character:: [[Quinn Marston\|Quinn Marston]]
