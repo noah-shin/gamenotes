@@ -44,25 +44,25 @@ their darker natures revealed, but it's important to remember that, like any fai
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | [[Philos/Meanings/Majors/0 - The Fool\|0 - The Fool]]                           | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 0.jpg>)  |
 | [[Philos/Meanings/Majors/1 - The Magician\|1 - The Magician]]                   | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 1.jpg>)  |
-| [[Philos/Meanings/Majors/10 - The Wheel of Fortune\|10 - The Wheel of Fortune]] | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 10.jpg>) |
 | [[Philos/Meanings/Majors/11 - Justice\|11 - Justice]]                           | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 11.jpg>) |
+| [[Philos/Meanings/Majors/10 - The Wheel of Fortune\|10 - The Wheel of Fortune]] | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 10.jpg>) |
+| [[Philos/Meanings/Majors/14 - Temperance\|14 - Temperance]]                     | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 14.jpg>) |
 | [[Philos/Meanings/Majors/12 - The Hanged Man\|12 - The Hanged Man]]             | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 12.jpg>) |
 | [[Philos/Meanings/Majors/13 - Death\|13 - Death]]                               | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 13.jpg>) |
-| [[Philos/Meanings/Majors/14 - Temperance\|14 - Temperance]]                     | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 14.jpg>) |
-| [[Philos/Meanings/Majors/15 - The Devil\|15 - The Devil]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 15.jpg>) |
-| [[Philos/Meanings/Majors/16 - The Tower\|16 - The Tower]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 16.jpg>) |
 | [[Philos/Meanings/Majors/17 - The Star\|17 - The Star]]                         | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 17.jpg>) |
+| [[Philos/Meanings/Majors/15 - The Devil\|15 - The Devil]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 15.jpg>) |
 | [[Philos/Meanings/Majors/18 - The Moon\|18 - The Moon]]                         | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 18.jpg>) |
 | [[Philos/Meanings/Majors/2 - The High Priestess\|2 - The High Priestess]]       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 2.jpg>)  |
 | [[Philos/Meanings/Majors/19 - The Sun\|19 - The Sun]]                           | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 19.jpg>) |
 | [[Philos/Meanings/Majors/20 - Judgement\|20 - Judgement]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 20.jpg>) |
-| [[Philos/Meanings/Majors/21 - The World\|21 - The World]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 21.jpg>) |
-| [[Philos/Meanings/Majors/4 - The Emperor\|4 - The Emperor]]                     | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 4.png>)  |
+| [[Philos/Meanings/Majors/16 - The Tower\|16 - The Tower]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 16.jpg>) |
 | [[Philos/Meanings/Majors/3 - The Empress\|3 - The Empress]]                     | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 3.jpg>)  |
-| [[Philos/Meanings/Majors/5 - The Hierophant\|5 - The Hierophant]]               | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 5.jpg>)  |
-| [[Philos/Meanings/Majors/9 - The Hermit\|9 - The Hermit]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 9.jpg>)  |
-| [[Philos/Meanings/Majors/8 - Strength\|8 - Strength]]                           | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 8.jpg>)  |
-| [[Philos/Meanings/Majors/7 - The Chariot\|7 - The Chariot]]                     | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 7.jpg>)  |
+| [[Philos/Meanings/Majors/4 - The Emperor\|4 - The Emperor]]                     | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 4.png>)  |
+| [[Philos/Meanings/Majors/21 - The World\|21 - The World]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 21.jpg>) |
 | [[Philos/Meanings/Majors/6 - The Lovers\|6 - The Lovers]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 6.jpg>)  |
+| [[Philos/Meanings/Majors/5 - The Hierophant\|5 - The Hierophant]]               | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 5.jpg>)  |
+| [[Philos/Meanings/Majors/7 - The Chariot\|7 - The Chariot]]                     | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 7.jpg>)  |
+| [[Philos/Meanings/Majors/8 - Strength\|8 - Strength]]                           | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 8.jpg>)  |
+| [[Philos/Meanings/Majors/9 - The Hermit\|9 - The Hermit]]                       | ![](<file:///D:\Repository\Philos\Decks\Favourite\RW Gold Foil\RW Cards\rw 9.jpg>)  |
 
 { .block-language-dataview}
