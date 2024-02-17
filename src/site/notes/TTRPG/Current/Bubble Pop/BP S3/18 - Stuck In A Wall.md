@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Bubble Pop/BP S3/18 - Stuck In A Wall/"}
 ---
 
-> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/17 - Zone of Truth\|17 - Zone of Truth]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[19 - Next Session\|19 - Next Session]]
+> [!quote]- [[TTRPG/Current/Bubble Pop/BP S3/17 - Zone of Truth\|17 - Zone of Truth]] < [[TTRPG/Current/Bubble Pop/Bubble Pop S3\|Bubble Pop S3]] > [[TTRPG/Current/Bubble Pop/BP S3/19 - The shut down\|19 - The shut down]]
 > ![lastSession#Summary]
 
 There's a tech deadzone around the base.
@@ -35,6 +35,7 @@ G: Did you capture them or did they want to be captured?
 
 Gerald and Conner offer to come with - as long as the prisoners don't see them
 We stay in the infirmary room until the intelligence sector is ready for our visit
+Talon placed on the bed
 
 ### Summary
 
