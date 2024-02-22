@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/TTRPG/Current/Anywyn Collapsed/Sessions/1 - Anywyn/"}
 ---
 
-> [!quote]-  [[Anywyn Collapsed\|Anywyn Collapsed]] > [[2 - Next Session\|2 - Next Session]]
+> [!quote]-  [[TTRPG/Current/Anywyn Collapsed/Anywyn Collapsed\|Anywyn Collapsed]] > [[2 - Next Session\|2 - Next Session]]
 
 
 Meet in a pub
