@@ -3,9 +3,9 @@
 ---
 
 > [!info]- Meta
-> DM::
-> Character::
-> Players:: name, name  
+> DM:: Kerry
+> Character:: Haste
+> Players:: Jess, Liz, Becky, Noah
 > [Wiki]
 
 Description
