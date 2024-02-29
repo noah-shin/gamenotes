@@ -18,13 +18,5 @@
 
 
 
-
-
-
-
-
-
-
-
-
+![eo 0.jpg|150](/img/user/Philos/Decks/Collected/Eldritch%20Overload/eo%200.jpg) ![lit 0.jpg|150](/img/user/Philos/Decks/Favourite/Literary/Cards/lit%200.jpg) ![sef 0.jpg|150](/img/user/Philos/Decks/Favourite/Sefirot/Cards/sef%200.jpg)  ![mw 0.png|150](/img/user/Philos/Decks/Collected/Modern%20Witch/mw%200.png) ![wn 0.jpg|150](/img/user/Philos/Decks/Favourite/White%20Numen/Cards/wn%200.jpg) ![ss 0.jpg|150](/img/user/Philos/Decks/Favourite/Star%20Spinner/Cards/ss%200.jpg) ![col 0.jpg|150](/img/user/Philos/Decks/Favourite/Children%20of%20Lithia/Cards/col%200.jpg) ![ins 0.png|150](/img/user/Philos/Decks/Favourite/Insect/Cards/ins%200.png) 
 
