@@ -9,7 +9,7 @@
 > New beginnings
 > Fresh starts
 
-|                |                             |                  |                |                              |                 |                      |
+| 000000000000   | 000000000000                | 000000000000     | 000000000000   | 000000000000                 | 000000000000    | 000000000000         | 
 | -------------- | --------------------------- | ---------------- | -------------- | ---------------------------- | --------------- | -------------------- |
 | ![rw 0.jpg](/img/user/Philos/Decks/Favourite/RW%20Gold%20Foil/RW%20Cards/rw%200.jpg)  | ![fable 0.webp](/img/user/Philos/Decks/Collected/Fablemakers/fable%200.webp)           | ![mw 0.png](/img/user/Philos/Decks/Collected/Modern%20Witch/mw%200.png)    | ![col 0.jpg](/img/user/Philos/Decks/Favourite/Children%20of%20Lithia/Cards/col%200.jpg) | ![0  Qistina Khalidah.jpg](/img/user/Philos/Decks/Collected/Qistina%20Khalidah/0%20%20Qistina%20Khalidah.jpg) | ![eo 0.jpg](/img/user/Philos/Decks/Collected/Eldritch%20Overload/eo%200.jpg)   | ![0.png](/img/user/Philos/Decks/Collected/Cyberpunk%202077/0.png)           |
 | ![ins 0.png](/img/user/Philos/Decks/Favourite/Insect/Cards/ins%200.png) | ![0 Darina Muravjeva.jpg](/img/user/Philos/Decks/Collected/Darina%20Muravjeva/0%20Darina%20Muravjeva.jpg) | ![bota 0.jpg](/img/user/Philos/Decks/Digital/Botanica/Cards/bota%200.jpg)  | ![ori 0.jpg](/img/user/Philos/Decks/Favourite/Orien's/Cards/ori%200.jpg) | ![nmone 0.jpg](/img/user/Philos/Decks/Collected/Nameless%20One/nmone%200.jpg)             | ![yok 0.jpg](/img/user/Philos/Decks/Collected/Yokai/yok%200.jpg)  | ![00 the fool.png](/img/user/Philos/Decks/Favourite/Corrupted/Cards/00%20the%20fool.png) |
