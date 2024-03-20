@@ -30,11 +30,8 @@ The cycle of sowing and harvest is one that we see reflected around us every day
 6. What are the most important characteristics? [[Philos/Decks/Separate/Seed and Sickle/Seed Meanings/31 - Mushroom\|31 - Mushroom]] - Dusk
 > Visibility of what is growing underground
 
-| 00000000000000000000000000000000000000 | 00000000000000000000000000000000000000 | 00000000000000000000000000000000000000 | 
-| -------------------------- | -------------------------- | -------------------------- |
-| ![seed 9 chickweed.png](/img/user/Philos/Decks/Separate/Seed%20and%20Sickle/Cards/seed%209%20chickweed.png)  | ![seed 37 thistle.png](/img/user/Philos/Decks/Separate/Seed%20and%20Sickle/Cards/seed%2037%20thistle.png)   | ![seed 48 mistletoe.png](/img/user/Philos/Decks/Separate/Seed%20and%20Sickle/Cards/seed%2048%20mistletoe.png) |
-| ![seed 49 chamomile.png](/img/user/Philos/Decks/Separate/Seed%20and%20Sickle/Cards/seed%2049%20chamomile.png) | ![seed 53 apple.avif](/img/user/Philos/Decks/Separate/Seed%20and%20Sickle/Cards/seed%2053%20apple.avif)  |
 
+![Seed and Sickle Deck Interview.png](/img/user/Philos/Decks/Separate/Seed%20and%20Sickle/Cards/Seed%20and%20Sickle%20Deck%20Interview.png)
 
 ## Cards
 | File                                                                                      | Cards                                                                                         | suit                                                        | card                                                    |
