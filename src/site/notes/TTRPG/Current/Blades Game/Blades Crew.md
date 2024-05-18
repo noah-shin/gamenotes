@@ -14,6 +14,7 @@ Team image
 
 # Contents
 
-> [!quote]- [[TTRPG/Current/Blades Game/Session 1 - The Crew\|Session 1 - The Crew]]
+> [!quote]- [[TTRPG/Current/Blades Game/Session 1 - Loss in the Library\|Session 1 - Loss in the Library]]
 
 
+> [!quote]- [[TTRPG/Current/Blades Game/Session 2 - Shots at the Station\|Session 2 - Shots at the Station]]
