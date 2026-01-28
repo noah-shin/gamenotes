@@ -21,7 +21,8 @@
 **--- ORACLEOS ONLINE ---**
 ```
 
-`// Welcome to OracleOS, your support tool with Astroprisma.` 
+`// Welcome to OracleOS, your support tool with Astroprisma.
+Multiline?` 
 
 *testing italics*
 
@@ -39,9 +40,11 @@
 
 **% cybertech**
 //You have ( 4 ) pieces of cyber-tech.
-//OCTO_TENTACLES:
+
+> //OCTO_TENTACLES:
 > You have two extra SIDE actions during your first combat turn.
 > You have -5 MAX Health.
+
 //GRAPHENE_WINGS:
 > You may spend 3 ENG to double the result of your turn order roll.
 > +1 GRA if you are first in the turn order.
