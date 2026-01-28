@@ -5,10 +5,9 @@
 
 ```
 **--- ORACLEOS ONLINE ---**
-
-//NEW LOGS IDENTIFIED
 ```
 
+**//NEW LOGS IDENTIFIED**
 - [[TTRPG/Journal of Xenon Winters/Cycle 000\|Cycle 000]]
 - [[TTRPG/Journal of Xenon Winters/Cycle 001 to 005\|Cycle 001 to 005]]
 
@@ -20,9 +19,11 @@
 
 ```
 **--- ORACLEOS ONLINE ---**
-
-// Welcome to OracleOS, your support tool with Astroprisma. 
 ```
+
+`// Welcome to OracleOS, your support tool with Astroprisma.` 
+
+*testing italics*
 
 //You are **XENON WINTERS**, pilot of the **Flux**.
 //origin: cyborg
@@ -39,12 +40,13 @@
 **% cybertech**
 //You have ( 4 ) pieces of cyber-tech.
 //OCTO_TENTACLES:
-	You have two extra SIDE actions during your first combat turn.
-	You have -5 MAX Health.
+> You have two extra SIDE actions during your first combat turn.
+> You have -5 MAX Health.
 //GRAPHENE_WINGS:
-	You may spend 3 ENG to double the result of your turn order roll.
-	+1 GRA if you are first in the turn order.
-	Ranged weapon attacks deal -5 dmg.
+> You may spend 3 ENG to double the result of your turn order roll.
+> +1 GRA if you are first in the turn order.
+> Ranged weapon attacks deal -5 dmg.
+
 //FORCEBLAST_HAND:
 	+1 VIG
 	Your melee weapon attacks deal +d6 dmg until combat ends. [ 2ENG ] [ SIDE ]
