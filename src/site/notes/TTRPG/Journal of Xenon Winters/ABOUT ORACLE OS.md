@@ -21,7 +21,7 @@
 **--- ORACLEOS ONLINE ---**
 ```
 
-`// Welcome to OracleOS, your support tool with Astroprisma.` 
+// Welcome to OracleOS, your support tool with Astroprisma.
 
 //You are **XENON WINTERS**, pilot of the **Flux**.
 //origin: cyborg
@@ -31,25 +31,25 @@
 //**experience**: 10
 //**stats**: VIG_2 / GRA_2 / MIN_1 / TEC_2
 
-**% weaponry**
+`% weaponry`
 //You have ( 1 ) weapon.
 //The CARBON_DAGGER deals d6+GRA Damage
 
-> **% cybertech**
-> //You have ( 4 ) pieces of cyber-tech.
-> 
+`% cybertech`
+//You have ( 4 ) pieces of cyber-tech.
+
 > **//OCTO_TENTACLES:**
 > You have two extra SIDE actions during your first combat turn.
 > You have -5 MAX Health.
 > 
-> //GRAPHENE_WINGS:
+> **//GRAPHENE_WINGS:**
 > You may spend 3 ENG to double the result of your turn order roll.
 > +1 GRA if you are first in the turn order.
 > Ranged weapon attacks deal -5 dmg.
 
-	//FORCEBLAST_HAND:
-	+1 VIG
-	Your melee weapon attacks deal +d6 dmg until combat ends. [ 2ENG ] [ SIDE ]
+> **//FORCEBLAST_HAND:**
+> +1 VIG
+> Your melee weapon attacks deal +d6 dmg until combat ends. [ 2ENG ] [ SIDE ]
 
 //DUAL_PROCESSOR:
 	UNKNOWN
