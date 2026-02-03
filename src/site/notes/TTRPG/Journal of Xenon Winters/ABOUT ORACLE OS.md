@@ -31,16 +31,16 @@
 //**experience**: 10
 //**stats**: VIG_2 / GRA_2 / MIN_1 / TEC_2
 
-`% weaponry`
-//You have ( 1 ) weapon.
-//The CARBON_DAGGER deals d6+GRA Damage
+**% weaponry**
+`//You have ( 1 ) weapon.`
+`//The CARBON_DAGGER deals d6+GRA Damage`
 
-`% cybertech`
-//You have ( 4 ) pieces of cyber-tech.
+**% cybertech**
+`//You have ( 4 ) pieces of cyber-tech.`
 
-> **//OCTO_TENTACLES:**
-> You have two extra SIDE actions during your first combat turn.
-> You have -5 MAX Health.
+> //OCTO_TENTACLES:
+> `You have two extra SIDE actions during your first combat turn.
+> `You have -5 MAX Health.
 > 
 > **//GRAPHENE_WINGS:**
 > You may spend 3 ENG to double the result of your turn order roll.
@@ -69,21 +69,23 @@
 
 % **controls**
 //AURORA_COCKPIT
-	text
+	If in crit condition, enemy atks deal -2 dmg to ship
 
 % **engines**
 //HOVER_PROPULSORS
-	t
+	2 d6 Action Dice / Can reroll 1 AD per turn
+
 
 % **weapons**
 //OGRE_MISSILES
-	t
+	5-6 > Deal 6 Damage
+
 //PARTICLE_CANNONS
-	t
+	3-5 > Deal 3 Damage / Next time atk w/ this weapon, +1 dmg [stacks]
 
 % **other modules**
 //REPAIR_DRONES
-	t
+	2-4 > Restore 4 Hull
 
 % **crew**
 //There are ( 2 ) crew members.
