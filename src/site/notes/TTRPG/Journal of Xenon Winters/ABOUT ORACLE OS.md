@@ -10,6 +10,7 @@
 **//NEW LOGS IDENTIFIED**
 - [[TTRPG/Journal of Xenon Winters/Cycle 000\|Cycle 000]]
 - [[TTRPG/Journal of Xenon Winters/Cycle 001 to 005\|Cycle 001 to 005]]
+- [[Cycle 006 to 010\|Cycle 006 to 010]]
 
 ```
 **--- SESSION ENDED BY UNKNOWN ---**
