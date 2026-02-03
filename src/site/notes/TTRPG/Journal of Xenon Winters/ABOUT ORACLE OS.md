@@ -19,9 +19,9 @@
 
 ```
 **--- ORACLEOS ONLINE ---**
-```
 
 // Welcome to OracleOS, your support tool with Astroprisma.
+```
 
 //You are **XENON WINTERS**, pilot of the **Flux**.
 //origin: cyborg
