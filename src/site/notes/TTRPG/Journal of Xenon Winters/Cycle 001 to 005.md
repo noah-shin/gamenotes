@@ -194,3 +194,101 @@ orOS: ANOMALY identified [ hostile patrol ]
 **--- SESSION ENDED BY XENON ---**
 
 ---
+
+orOS: ANOMALY identified [ feeling / content ]
+
+--- ORACLEOS ONLINE ---             cycle 005 - hex 14.
+
+% nano .CYCLE_005
+
+% short range scan HEX_14
+//Settlement [ WARG ]
+//Settlement ID: Capricorn Heart
+
+% about “Capricorn Heart”
+//Latest Update: WARG assault finished [ 1 ] cycle ago, Settlement now under WARG control.
+//History: Built around an old cryo-ship. The population is, on average, hundreds of years old.
+
+//You have a BOUNTY of [ 75 Serum ]
+% pay WARG BOUNTY
+% echo “-75 Serum [195]” >> inventory
+% echo “+1 Favour [0]” >> factions/WARG
+
+% dock
+//LANDED successfully in the HANGAR
+//HULL is FULLY RESTORED
+
+% refuel
+//Refuel to FULL will cost [ 3*6 ] Serum
+//CONFIRM REFUEL?
+% confirm
+% echo “-18 Serum [102]” >> inventory
+//FULLY REFUELED
+
+% purchase and install REPAIR DRONES
+// This will cost [ 3 ] EXP and [ 70 ] SCRAP. CONFIRM?
+% confirm
+% echo “-3 EXP [0], -70 Scrap [90]” >> inventory
+//REPAIR DRONES INSTALLED
+
+% check missions
+
+//WARG Task: For 1 FAVOUR, travel to nearest satellite and ambush a patrol of 2 ISF SOLDIERS.
+
+  
+
+//INCOMING TRANSMISSION from everest@courier
+
+% accept
+
+  
+
+<< You made it! 
+
+>> Yeah, at a fun time as well. You ready to bounce?
+
+<< Sure! We going anywhere in particular?
+
+>> I mean, I’m heading towards the Galatic Core, but I need to find a Warp Drive first.
+
+<< … That may take a while, Xe, but I’m sure we’ll find it!
+
+  
+
+--- SESSION ENDED BY XENON ---
+
+  
+
+//INCOMING TRANSMISSION from everest@courier
+
+% accept
+
+  
+
+<< Coward way to text it first, but … Xe, I’m sorry.
+
+>>
+
+<< Dick reaction, I know, all “Oh you’re a cyborg!”, even if I was surprised and most people ain’t never seen one before, but still, you’ve helped me out and I’m here now.
+
+<< Or, here for the long haul, promise.
+
+<< I didn’t really have anything before, just ferrying cargo for a paycheck, so like, having any friend is a huge improvement.
+
+<< And I’ve already fucked that up. So.
+
+<< You can drop me off right now, if you want?
+
+  
+
+//INCOMING TRANSMISSION from everest@courier
+
+% accept
+
+  
+
+<< Thanks
+
+>> np
+
+---

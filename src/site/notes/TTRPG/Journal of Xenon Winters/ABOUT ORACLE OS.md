@@ -7,10 +7,10 @@
 **--- ORACLEOS ONLINE ---**
 ```
 
-`**//NEW LOGS IDENTIFIED**`
+`//NEW LOGS IDENTIFIED`
 - [[TTRPG/Journal of Xenon Winters/Cycle 000\|Cycle 000]]
 - [[TTRPG/Journal of Xenon Winters/Cycle 001 to 005\|Cycle 001 to 005]]
-- [[Cycle 006 to 010\|Cycle 006 to 010]]
+- [[TTRPG/Journal of Xenon Winters/Cycle 006 to 010\|Cycle 006 to 010]]
 
 ```
 **--- SESSION ENDED BY UNKNOWN ---**
@@ -82,7 +82,7 @@
 //**fuel**: 20
 
 **% modules**
-`//You have ( 5 ) modules.
+`//You have ( 5 ) modules.`
 
 > //CONTROLS: AURORA_COCKPIT
 > `If in crit condition, enemy atks deal -2 dmg to ship`
