@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ttrpg/journal-of-lazari-kei/reagents-in-shambae/"}
 ---
 
-
-forest / loch / depths / village / dungeon / bog / mountain / isles
+village / forest / loch / depths / dungeon / bog / mountain / isles
 # Boils
 
 | Rank |      Name       |     Part      |       Prep       | Sweet |                      Location                      |    Season    | Other |
@@ -11,13 +10,19 @@ forest / loch / depths / village / dungeon / bog / mountain / isles
 | `☆☆` | **Shock Fish**  | `Shock Fluid` |   `Distilled`    |       |    `Loch (7)`<br>`Depths (3)`<br>`Dungeon (11)`    |              |       |
 |  ☆☆  | **Foot Fungus** |   `Fungus`    | `Boiled outside` | `-2`  | `Forest (10)`<br>`Dungeon (10)`<br>`Mountain (10)` | `Winter (1)` |       |
 | ☆☆☆  | **Longfingers** |     `Eel`     |    `Crushed`     |       |                     `Bog (8)`                      |              |       |
-> [!quote]- `Shock Fish (Animal)`
+> [!quote]- Distilled Shock Fluid ( Animal )
 > Yet another one that’s awful to collect, these nasty little buggers let out a cloud of electrically charged fluid that can make any part that touches it numb for hours.
 > *Meltwater Loch*
 
-> [!quote]- `Foot Fungus - Plant`
+> [!quote]- Foot Fungus - Plant
 > Found in the spaces between Giant toes, this potent fungus might be disgusting to harvest and even worse to ingest but it is a powerful curative.
 > *Glimmerwood Grove*
+
+| Rank |      Name       | Sweet |                      Location                      |    Season    | Other |
+|:----:|:---------------:|:-----:|:--------------------------------------------------:|:------------:| ----- |
+|  ☆☆  | **Shock Fish**  |       |    `Loch (7)`<br>`Depths (3)`<br>`Dungeon (11)`    |              |       |
+|  ☆☆  | **Foot Fungus** | `-2`  | `Forest (10)`<br>`Dungeon (10)`<br>`Mountain (10)` | `Winter (1)` |       |
+| ☆☆☆  |   Longfingers   |       |                     `Bog (8)`                      |              |       |
 
 > [!quote]- `Longfingers - Animal`
 > These pale, pinkish eelworms slither and burrow beneath the marsh, popping their heads above the fetid waters spasmodically to breath.
