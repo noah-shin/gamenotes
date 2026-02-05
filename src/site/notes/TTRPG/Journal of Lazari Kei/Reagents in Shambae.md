@@ -3,12 +3,22 @@
 ---
 
 
+forest / loch / depths / village / dungeon / bog / mountain / isles
 # Boils
-| **☆☆** |      Name       |    Part     |      Prep      | Sweet |                   Location                   |   Season   |
-|:------ |:---------------:|:-----------:|:--------------:|:-----:|:--------------------------------------------:|:----------:|
-| Animal | **Shock Fish**  | Shock Fluid |   Distilled    |       |    Loch (7)<br>Depths (3)<br>Dungeon (11)    |            |
-| Plant  | **Foot Fungus** |   Fungus    | Boiled outside |  -2   | Forest (10)<br>Mountain (10)<br>Dungeon (10) | Winter (1) |
-> [!NOTE]- Shock Fish
+## ☆☆
+
+| **Shock Fish** |  0  | Loch (7)<br>Depths (3)<br>Dungeon (11) |  0  | 0   |
+|:--------------:|:---:|:--------------------------------------:|:---:| --- |
+```
+Distilled Shock Fluid ( Animal )
+Yet another one that’s awful to collect, these nasty little buggers let out a cloud of electrically charged fluid that can make any part that touches it numb for hours.
+*Meltwater Loch*
+```
+| **☆☆** |      Name       |    Part     |      Prep      | Sweet |                   Location                   |   Season   | Other? |
+| :----- | :-------------: | :---------: | :------------: | :---: | :------------------------------------------: | :--------: | ------ |
+| Animal | **Shock Fish**  | Shock Fluid |   Distilled    |       |    Loch (7)<br>Depths (3)<br>Dungeon (11)    |            |        |
+| Plant  | **Foot Fungus** |   Fungus    | Boiled outside |  -2   | Forest (10)<br>Mountain (10)<br>Dungeon (10) | Winter (1) |        |
+> [!NOTE] Shock Fish
 > Yet another one that’s awful to collect, these nasty little buggers let out a cloud of electrically charged fluid that can make any part that touches it numb for hours.
 > *Meltwater Loch*
 
